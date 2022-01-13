@@ -5,6 +5,7 @@ subtitle: ''
 author: Nienke de Vaal
 image_url: none
 image_credit: ''
+main-image: "/images/tolkien.jpg"
 
 ---
 John Ronald Reuel Tolkien was ’n Engelse skrywer, filoloog en universiteitsprofessor. Sy bekendste boeke, _The Hobbit_ en die tydlose _The Lord of The Rings,_ betower lesers steeds wêreldwyd.
