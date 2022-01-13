@@ -16,7 +16,7 @@ export const getStaticProps = async () => {
     const { data: frontMatter } = matter(markdownWithMeta);
 
     return {
-      slug: filename.split(".")[0],
+      slug: filename.slice(0, filename.length - 3),
       ...frontMatter,
     };
   });
@@ -39,7 +39,7 @@ export default function Home({ posts }) {
 
       <section className={styles.container}>
         <h2>Nuwe artikels</h2>
-        <ul>
+        <ol>
           {posts.map((i, index) => (
             <li key={index}>
               <Link href={"/artikel/" + i.slug}>
@@ -47,7 +47,7 @@ export default function Home({ posts }) {
               </Link>
             </li>
           ))}
-        </ul>
+        </ol>
       </section>
     </>
   );

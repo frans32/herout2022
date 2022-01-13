@@ -1,13 +1,13 @@
 ---
 catagory: Sosiaal
-title: 'Ontmoet vir J.R.R. Tolkien: ’n kort biografie'
-subtitle: ''
+title: "Ontmoet vir J.R.R. Tolkien: ’n kort biografie"
+subtitle: ""
 author: Nienke de Vaal
 image_url: none
-image_credit: ''
-main-image: "/images/tolkien.jpg"
-
+image_credit: ""
+image: "/images/tolkien.jpg"
 ---
+
 John Ronald Reuel Tolkien was ’n Engelse skrywer, filoloog en universiteitsprofessor. Sy bekendste boeke, _The Hobbit_ en die tydlose _The Lord of The Rings,_ betower lesers steeds wêreldwyd.
 
 Tolkien is in Bloemfontein, Suid-Afrika, op die derde Januarie 1892 as die oudste seun van Arthur en Mabel Tolkien, gebore. Toe Tolkien vier jaar oud was, het sy pa aan rumatiekkoors gesterf, en Tolkien het saam met sy ma en jonger broer na Birmingham in Engeland, getrek. Mabel het vir Tolkien en sy broer tuis geleer en hy was ’n gretige leerling. Sy grootste belangstelling was tale - Tolkien kon al op vierjarige ouderdom lees en kort daarna vlot skryf. Sy ma het sy leesgierigheid ondersteun.

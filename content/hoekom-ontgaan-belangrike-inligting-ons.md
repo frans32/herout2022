@@ -1,13 +1,13 @@
 ---
 catagory: Aktueel
 title: Hoekom ontgaan belangrike inligting ons?
-subtitle: ''
+subtitle: ""
 author: Jana Burger
 image_url: none
-image_credit: ''
-main-image: "/images/ontgaan.jpg"
-
+image_credit: ""
+image: "/images/ontgaan.jpg"
 ---
+
 Daar is vir sommige mense niks erger as om hard vir ’n eksamen te leer en dan tydens die toets nie te onthou wat om te skryf nie. Hierdie scenario is in werklikheid wat baie meer algemeen en normal is as wat ons besef.
 
 Ondersoeke het bewys dat mense 56% van inligting binne een uur vergeet, 66% na ’n dag en 75% na ’n week. Die brein is verskriklik indrukwekkend, maar het sy perke. Alle inligting wat ons inneem, word as kort- of langtermyn herinneringe gestoor.

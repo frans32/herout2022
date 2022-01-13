@@ -1,13 +1,13 @@
 ---
 catagory: Sosiaal
 title: Akademies uitgebrand? Moenie ontmoedig wees nie
-subtitle: ''
+subtitle: ""
 author: Kyla van der Riel
 image_url: none
-image_credit: ''
-main-image: "/images/ontspanning.jpg"
-
+image_credit: ""
+image: "/images/ontspanning.jpg"
 ---
+
 Voel jy verstandelik of emosioneel uitgeput?
 
 Dwaal jou oë konstant na die wysers wat aandui hoe lank jy nog ’n gevangene van daardie periode moet wees?
