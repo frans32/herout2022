@@ -5,6 +5,7 @@ subtitle: ''
 author: Kyla van der Riel
 image_url: none
 image_credit: ''
+main-image: "/images/ontspanning.jpg"
 
 ---
 Voel jy verstandelik of emosioneel uitgeput?
