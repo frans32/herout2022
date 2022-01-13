@@ -1,0 +1,53 @@
+---
+label: Artikel
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+- name: author
+  type: text
+  config:
+    required: true
+  label: Author
+  default: ''
+- name: catagory
+  type: select
+  default: Sosiaal
+  config:
+    required: true
+    options:
+    - Sosiaal
+    - Kultuur
+    - Aktueel
+    - Redaksioneel
+    - Sport
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Catagory
+- name: image_credit
+  type: text
+  config:
+    required: false
+  label: Image Credit
+- name: main-image
+  type: file
+  config:
+    maxSize: 40
+  label: foto
+pages:
+- content/akademies-uitgebrand-moenie-ontmoedig-wees-nie.md
+- content/hoekom-ontgaan-belangrike-inligting-ons.md
+- content/ontmoet-vir-j.r.r.tolkien-n-kort-biografie.md
+- content/wat-gebeur-nadat-ons-al-die-aarde-se-hulpbronne-ontgin-het.md
+- content/wenke-vir-die-ontkiem-van-vriendsap-in-n-sosiale-media-wereld.md

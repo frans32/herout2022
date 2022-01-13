@@ -6,11 +6,11 @@ import matter from "gray-matter";
 import styles from "../styles/Home.module.css";
 
 export const getStaticProps = async () => {
-  const files = fs.readdirSync(path.join("posts"));
+  const files = fs.readdirSync(path.join("content"));
 
   const posts = files.map((filename) => {
     const markdownWithMeta = fs.readFileSync(
-      path.join("posts", filename),
+      path.join("content", filename),
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);
