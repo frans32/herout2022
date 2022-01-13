@@ -5,7 +5,7 @@ subtitle: ''
 author: Kaylin Grobler
 image_url: none
 image_credit: ''
-main-image: ''
+main-image: "/images/ontkiem.jpg"
 
 ---
 Almal het gesonde verhoudings nodig. Dit dra by tot ’n langer lewe en gesonde gewoontes. Dit produseer hormone en chemikalieë in ons breine soos dopamien (laat jou goed voel), serotonien en oksitosien.
