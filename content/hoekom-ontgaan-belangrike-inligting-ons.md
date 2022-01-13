@@ -5,6 +5,7 @@ subtitle: ''
 author: Jana Burger
 image_url: none
 image_credit: ''
+main-image: "/images/ontgaan.jpg"
 
 ---
 Daar is vir sommige mense niks erger as om hard vir ’n eksamen te leer en dan tydens die toets nie te onthou wat om te skryf nie. Hierdie scenario is in werklikheid wat baie meer algemeen en normal is as wat ons besef.
