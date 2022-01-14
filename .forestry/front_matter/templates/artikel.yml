@@ -53,3 +53,5 @@ fields:
     step: 
     required: true
   label: height - Image
+pages:
+- content/i-the-french-dispatch-i-ontvlugting-van-die-andersonste-gehalte.md
