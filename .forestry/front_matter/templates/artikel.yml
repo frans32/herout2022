@@ -18,23 +18,6 @@ fields:
     required: true
   label: Author
   default: ''
-- name: catagory
-  type: select
-  default: Sosiaal
-  config:
-    required: true
-    options:
-    - Sosiaal
-    - Kultuur
-    - Aktueel
-    - Redaksioneel
-    - Sport
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Catagory
 - name: image_credit
   type: text
   config:
@@ -48,9 +31,25 @@ fields:
 - name: published
   type: boolean
   label: Published
-pages:
-- content/akademies-uitgebrand-moenie-ontmoedig-wees-nie.md
-- content/hoekom-ontgaan-belangrike-inligting-ons.md
-- content/ontmoet-vir-j.r.r.tolkien-n-kort-biografie.md
-- content/wat-gebeur-nadat-ons-al-die-aarde-se-hulpbronne-ontgin-het.md
-- content/wenke-vir-die-ontkiem-van-vriendsap-in-n-sosiale-media-wereld.md
+- name: image_width
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
+  label: width - Image
+- name: image_height
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
+  label: height - Image
