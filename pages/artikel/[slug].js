@@ -36,7 +36,7 @@ export default function Post({ matter, source }) {
         <small>{matter.author}</small>
       </section>
       <section>
-        <Image src={matter.image} width={600} height={400} />
+        <Image src={matter.image} width={matter.image_width} height={matter.image_height} />
         <small>{matter.image_credit}</small>
       </section>
       <main>
