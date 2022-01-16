@@ -7,6 +7,7 @@ author: Kaylin Grobler
 image_credit: Aimee Hough
 image: "/images/ontspanning.jpg"
 published: true
+primary_color: "#aea09a"
 
 ---
 Rus - die opsetlike neerlê van werk en die doelbewuste toestand van verfrissing en herstel. Klink dít nou nie heerlik nie?
