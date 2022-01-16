@@ -7,6 +7,7 @@ author: Janike Smith
 image_credit: Kayla de Freitas
 image: "/images/ontbyt.jpg"
 published: true
+primary_color: "#957f63"
 
 ---
 Daar word gesê dat ontbyt die belangrikste maaltyd van die dag is. Alhoewel ontbyt noodsaaklik is, is dit ook ’n baie lekker aanknopingspunt vir gesprekke. Hier volg ’n paar interessante en snaakse feite oor ontbyt.
