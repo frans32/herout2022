@@ -7,6 +7,7 @@ author: Janike Smith
 image_credit: Anri Brand
 image: "/images/ontdek2.jpg"
 published: true
+primary_color: "#bd8d5e"
 
 ---
 Wie is jy? Hoe stel jy jouself aan mense voor?
