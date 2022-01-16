@@ -7,6 +7,7 @@ author: Leah Coetzee
 image_credit: Cara Louw
 image: "/images/omgee.jpg"
 published: true
+primary_color: "#999184"
 
 ---
 Stap by enige klas in, en vra ’n Dee-Effer om ‘n oomblik te noem waar DF omgee. Ek is seker jy sal meer as net een antwoord kry. Met ’n splinternuwe jaar wat voorlê, kan ons gerus terugkyk na die vorige kwartaal vir 2022-inspirasie.
