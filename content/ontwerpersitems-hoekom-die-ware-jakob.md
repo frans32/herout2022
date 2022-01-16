@@ -7,6 +7,7 @@ author: Leanri Pretorius
 image_credit: Emma Olivier
 image: "/images/ontwerpersitem.jpg"
 published: true
+primary_color: "#6b675f"
 
 ---
 Deesdae is dit so moeilik om te onderskei of ’n “ontwerpersitem” ’n nagemaakte een is of nie - soveel so dat kenners soms die nagemaakte produk tot in die fynste detail moet bestudeer. Hoekom sal mense dan outentieke ontwerpersprodukte koop, as daar goedkoper produkte wat byna presies dieselfde lyk, op die mark is?
