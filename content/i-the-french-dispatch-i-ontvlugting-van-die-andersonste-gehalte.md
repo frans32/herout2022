@@ -7,6 +7,7 @@ author: Emma Olivier
 image_credit: Searchlight Pictures
 image: "/images/french-dispatch.jpg"
 published: true
+primary_color: "#696969"
 
 ---
 ★★★★★
