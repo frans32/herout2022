@@ -53,6 +53,15 @@ fields:
     step: 
     required: true
   label: height - Image
+- name: primary_color
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Primary color
 pages:
 - content/akademies-uitgebrand-moenie-ontmoedig-wees-nie.md
 - content/as-dit-kom-by-ontwrigting-die-enkele-aksie-wat-n-wereldse-verskil-maak.md
