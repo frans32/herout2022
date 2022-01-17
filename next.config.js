@@ -18,4 +18,8 @@ module.exports = {
     formats: ["image/avif", "image/webp"],
     minimumCacheTTL: 3600,
   },
+  i18n: {
+    locales: ["af"],
+    defaultLocale: "af",
+  },
 };

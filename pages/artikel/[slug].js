@@ -61,7 +61,10 @@ export default function Post({ matter, source }) {
       </main>
 
       <Head>
-        {" "}
+        <title>
+          {matter.title.replace("<i>", "").replace("</i>", "")} - Die Herout
+          2022
+        </title>
         <meta name="theme-color" content={matter.primary_color} />
       </Head>
     </>
