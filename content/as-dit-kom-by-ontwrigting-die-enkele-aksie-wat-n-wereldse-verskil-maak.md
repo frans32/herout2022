@@ -1,15 +1,15 @@
 ---
 image_width: 1000
 image_height: 250
-title: 'As dit kom by ontwrigting: die enkele aksie wat ’n wêreldse verskil maak'
-subtitle: ''
+title: "As dit kom by ontwrigting: die enkele aksie wat ’n wêreldse verskil maak"
+subtitle: ""
 author: Janike Smith
 image_credit: Illustrasie deur Alexa Wium
 image: "/images/visser.jpg"
 published: true
-
 ---
-In die tye van die Covid-19-pandemie het baie van ons ervaar wat die woord _ontwrig_beteken. Kortliks: ’n gebeurtenis wat jou lewe verander - gewoonlik op ’n negatiewe manier.
+
+In die tye van die Covid-19-pandemie het baie van ons ervaar wat die woord _ontwrig_ beteken. Kortliks: ’n gebeurtenis wat jou lewe verander - gewoonlik op ’n negatiewe manier.
 
 Hoe help ’n mens diegene wie se lewens ontwrig word? Hoe maak ons dit vir hulle draagliker?
 

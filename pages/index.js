@@ -4,6 +4,9 @@ import path from "path";
 import matter from "gray-matter";
 
 import styles from "../styles/Home.module.css";
+import Header from "../components/Header";
+
+import Image from "next/image";
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content"));
@@ -31,14 +34,18 @@ export const getStaticProps = async () => {
 export default function Home({ posts }) {
   return (
     <>
-      <header className={styles.header}>
-        <h1>Die Herout</h1>
-        <small>Skoolkoerant van die Hoërskool DF Malan.</small>
-        <small>Januarie 2022 - Jaargang 43</small>
-      </header>
+      <Header />
+
+      <div>
+        <Image
+          src="/images/homepage.jpg"
+          layout="responsive"
+          width={5954}
+          height={3901}
+        ></Image>
+      </div>
 
       <section className={styles.container}>
-        <h2>Nuwe artikels</h2>
         <ol>
           {posts.map((i, index) => (
             <li key={index}>

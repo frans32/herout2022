@@ -2,15 +2,15 @@
 image_width: 3008
 image_height: 1692
 title: "<i>The French Dispatch</i> – ontvlugting van die Andersonste gehalte"
-subtitle: ''
+subtitle: ""
 author: Emma Olivier
 image_credit: Searchlight Pictures
 image: "/images/french-dispatch.jpg"
 published: true
 primary_color: "#696969"
-
 ---
-★★★★★
+
+<span style={{color: "#ffab1c"}}>★★★★★</span>
 
 Ek het onlangs _The French Dispatch of the Liberty, Kansas Evening Sun_ by die _Labia_-teater in Gardens gekyk.
 

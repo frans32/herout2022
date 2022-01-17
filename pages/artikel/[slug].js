@@ -3,6 +3,10 @@ import { serialize } from "next-mdx-remote/serialize";
 import { MDXRemote } from "next-mdx-remote";
 import Link from "next/link";
 import Image from "next/image";
+import Head from "next/head";
+
+import styles from "../../styles/Artikel.module.css";
+import Header from "../../components/Header";
 
 import fs from "fs";
 import path from "path";
@@ -31,23 +35,35 @@ export function getStaticPaths() {
 export default function Post({ matter, source }) {
   return (
     <>
-      <section>
-        <h1>{matter.title}</h1>
+      <Header />
+      <section className={styles.article_info}>
+        <h1 dangerouslySetInnerHTML={{ __html: matter.title }}></h1>
         <small>{matter.author}</small>
       </section>
       <section>
-        <Image
-          src={matter.image}
-          width={matter.image_width}
-          height={matter.image_height}
-          layout="responsive"
-          priority={true}
-        />
-        <small>{matter.image_credit}</small>
+        <div className={styles.main_image}>
+          <div style={{ background: matter.primary_color }}>
+            <Image
+              src={matter.image}
+              width={matter.image_width}
+              height={matter.image_height}
+              layout="responsive"
+              priority={true}
+              alt=""
+              sizes="min(1000px, 100vw)"
+            />
+          </div>
+          <div className={styles.image_credit}>Foto: {matter.image_credit}</div>
+        </div>
       </section>
-      <main>
+      <main className={styles.content}>
         <MDXRemote {...source} components={{}} />
       </main>
+
+      <Head>
+        {" "}
+        <meta name="theme-color" content={matter.primary_color} />
+      </Head>
     </>
   );
 }
