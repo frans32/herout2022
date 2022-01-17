@@ -1,0 +1,36 @@
+.articleList {
+  flex: 1 648px;
+}
+
+.article {
+  display: flex;
+  margin: 0;
+  padding: 16px 0;
+  border-bottom: 1px dotted #e5e5e5;
+}
+
+.articleImage {
+  position: relative;
+  width: 96px;
+  height: 96px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.articleImage img {
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.articleInfo {
+  padding-left: 12px;
+}
+
+.articleInfo h3 {
+  font: 21px/1.2 "Outfit", sans-serif;
+  margin: 0 0 8px;
+}
+
+.articleInfo small {
+  color: #555;
+}

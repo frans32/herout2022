@@ -27,10 +27,6 @@ function MyApp({ Component, pageProps }) {
           href="https://fonts.gstatic.com"
           crossOrigin={true}
         />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-          rel="stylesheet"
-        />
 
         <script
           defer

@@ -2,11 +2,11 @@ import Link from "next/link";
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
+import Image from "next/image";
 
 import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
-
-import Image from "next/image";
+import ArticleList from "../components/ArticleList";
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content"));
@@ -42,20 +42,17 @@ export default function Home({ posts }) {
           layout="responsive"
           width={5954}
           height={3901}
+          alt=""
         ></Image>
       </div>
 
-      <section className={styles.container}>
-        <ol>
-          {posts.map((i, index) => (
-            <li key={index}>
-              <Link href={"/artikel/" + i.slug}>
-                <a>{i.title}</a>
-              </Link>
-            </li>
-          ))}
-        </ol>
-      </section>
+      <div className={styles.splitter}>
+        <ArticleList posts={posts} />
+        <div className={styles.sidebar}>
+          <i>Die Herout</i> is die amptelike skoolkoerant van die Hoërskool DF
+          Malan
+        </div>
+      </div>
     </>
   );
 }

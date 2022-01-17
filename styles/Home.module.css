@@ -14,3 +14,18 @@
   display: block;
   padding: 0.8rem 0;
 }
+
+.splitter {
+  display: flex;
+  width: 1000px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+
+.sidebar {
+  flex: 1 320px;
+  border-left: 1px dotted #e5e5e5;
+}
