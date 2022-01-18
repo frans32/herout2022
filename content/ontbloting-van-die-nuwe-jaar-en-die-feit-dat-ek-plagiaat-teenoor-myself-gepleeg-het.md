@@ -1,15 +1,17 @@
 ---
-image_width: 1000
-image_height: 250
-title: Ontbloting van die nuwe jaar en die feit dat ek plagiaat teenoor myself gepleeg
+image_width: 5954
+image_height: 3901
+title:
+  Ontbloting van die nuwe jaar en die feit dat ek plagiaat teenoor myself gepleeg
   het
-subtitle: ''
+subtitle: ""
 author: Emma Olivier
 image_credit: Emma Snyman
-image: "/images/visser.jpg"
+image: "/images/homepage.jpg"
 published: true
-
+primary_color: "#636a6f"
 ---
+
 Heil die leser
 
 Dit is ’n nuwe jaar, maar hierdie uitgawe is tegnies Kwartaal Vier van 2021 s’n. Die _Herout_ bly by ons doelwit van vier uitgawes per jaar.

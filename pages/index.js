@@ -8,6 +8,7 @@ import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
 import ArticleList from "../components/ArticleList";
 import Wapen from "../components/Wapen";
+import MainArticle from "../components/MainArticle";
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content"));
@@ -33,14 +34,26 @@ export const getStaticProps = async () => {
 };
 
 export default function Home({ posts }) {
+  let mainArticle = posts.filter(
+    (i) =>
+      i.slug ==
+      "ontbloting-van-die-nuwe-jaar-en-die-feit-dat-ek-plagiaat-teenoor-myself-gepleeg-het"
+  )[0];
+
+  let otherArticles = posts.filter(
+    (i) =>
+      i.slug !=
+      "ontbloting-van-die-nuwe-jaar-en-die-feit-dat-ek-plagiaat-teenoor-myself-gepleeg-het"
+  );
+
   return (
     <>
       <Header />
 
-      <div className={styles.mainArticle}></div>
+      <MainArticle article={mainArticle} />
 
       <div className={styles.splitter}>
-        <ArticleList title="Nuwe Artikels" posts={posts} />
+        <ArticleList title="Nuwe Artikels" posts={otherArticles} />
         <Wapen />
       </div>
     </>

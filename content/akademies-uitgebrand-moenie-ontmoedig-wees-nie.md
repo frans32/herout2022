@@ -1,14 +1,15 @@
 ---
-image_width: 1000
-image_height: 250
+image_width: 3280
+image_height: 4928
 title: Akademies uitgebrand? Moenie ontmoedig wees nie
-subtitle: ''
+subtitle: ""
 author: Kyla van der Riel
 image_credit: Bianca Stander
-image: "/images/visser.jpg"
+image: "/images/uitbranding.jpg"
 published: true
-
+primary_color: "#625754"
 ---
+
 Voel jy verstandelik of emosioneel uitgeput?
 
 Dwaal jou oë konstant na die wysers wat aandui hoe lank jy nog ’n gevangene van daardie periode moet wees?

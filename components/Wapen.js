@@ -6,11 +6,7 @@ export default function Wapen() {
       <div className={styles.wapen}>
         <img src="/assets/df-wapen.png" alt="DF Wapen" />
         <h2>Die amptelike skoolkoerant van die Hoërskool DF Malan</h2>
-        <a
-          href="https://dfmalan.com/"
-          rel="norefferer noopener"
-          target="_blank"
-        >
+        <a href="https://dfmalan.com/" rel="noreferrer" target="_blank">
           dfmalan.com
           <svg
             width="22"
@@ -27,19 +23,39 @@ export default function Wapen() {
       <div className={styles.uitgawes}>
         <div className={styles.heading}>Vorige uitgawes</div>
 
-        <a href="https://julie2020.herout.co.za" target="_blank">
+        <a
+          href="https://julie2020.herout.co.za"
+          target="_blank"
+          rel="noreferrer"
+        >
           <span>1</span>Julie 2020
         </a>
-        <a href="https://desember2020.herout.co.za" target="_blank">
+        <a
+          href="https://desember2020.herout.co.za"
+          target="_blank"
+          rel="noreferrer"
+        >
           <span>2</span>Desember 2020
         </a>
-        <a href="https://april2021.herout.co.za" target="_blank">
+        <a
+          href="https://april2021.herout.co.za"
+          target="_blank"
+          rel="noreferrer"
+        >
           <span>3</span>April 2021
         </a>
-        <a href="https://julie2021.herout.co.za" target="_blank">
+        <a
+          href="https://julie2021.herout.co.za"
+          target="_blank"
+          rel="noreferrer"
+        >
           <span>4</span>Julie 2021
         </a>
-        <a href="https://augustus2021.herout.co.za" target="_blank">
+        <a
+          href="https://augustus2021.herout.co.za"
+          target="_blank"
+          rel="noreferrer"
+        >
           <span>5</span>Augustus 2021
         </a>
       </div>
