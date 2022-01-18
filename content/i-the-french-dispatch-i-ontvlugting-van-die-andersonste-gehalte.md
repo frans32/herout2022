@@ -1,7 +1,7 @@
 ---
 image_width: 3008
 image_height: 1692
-title: "<i>The French Dispatch</i> – ontvlugting van die Andersonste gehalte"
+title: "<i>The French Dispatch</i> – ontvlugting van die <i>Anderson</i>ste gehalte"
 subtitle: ""
 author: Emma Olivier
 image_credit: Searchlight Pictures

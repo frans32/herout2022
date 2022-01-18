@@ -1,8 +1,49 @@
 .mainArticle {
   width: 100%;
-  height: 500px;
-  background: #aaa;
+  background: #eff5ff;
   margin-bottom: 32px;
+}
+
+.mainArticle > div {
+  margin: 0 auto;
+  width: 800px;
+  max-width: 100%;
+  padding: 32px 32px;
+}
+
+.mainArticle h1 {
+  font-size: 32px;
+}
+
+.tag {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.64);
+}
+
+.btnLees {
+  display: block;
+  width: 72px;
+  background: #fafafa;
+  color: #292929;
+  font-weight: 400;
+  line-height: 1;
+  padding: 11px 17px;
+  text-align: center;
+  border-radius: 12px;
+  text-decoration: none;
+  user-select: none;
+  border: #eaeaea 2px solid;
+}
+
+.btnLees {
+  margin-top: 32px;
+  border: rgb(205, 205, 240) 2px solid;
+  transition: border 0.2s;
+}
+
+.btnLees:hover {
+  border: rgb(159, 159, 206) 2px solid;
 }
 
 .embed {
@@ -17,4 +58,10 @@
   height: 500px;
   max-height: 64vw;
   margin-bottom: 24px;
+}
+
+@media (min-width: 900px) {
+  .mainArticle > div {
+    padding: 64px 32px;
+  }
 }
