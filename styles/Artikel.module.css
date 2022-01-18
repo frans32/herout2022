@@ -58,6 +58,14 @@ main.content p:first-child {
   text-align: start;
 }
 
+.content a {
+  color: rgb(0, 110, 255);
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
 @media (min-width: 900px) {
   .article_info {
     padding: 48px 16px;
