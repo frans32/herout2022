@@ -34,4 +34,4 @@ Sosiale rus en emosionele rus gaan byna hand in hand. Sosiale rus behels ook om 
 
 Vanaf ’n Christen-perspektief het ek gevind dat ’n rusdag een keer ’n week ’n belangrike en hulpvaardige konsep is. Die rusdag se idee is dat jy wegbreek van jou alledaagse roetine en aktiwiteite.
 
-Dit is soos die aanhaling lui: “Wysheid is om te weet wanneer om te rus, wanneer om aktief te wees, en hoeveel van elk jy nodig het.” Moenie op uitbranding wag voor jy rus nie; rus voorkom uitbranding.
+Dit is soos die aanhaling lui: “Wysheid is om te weet wanneer om te rus, wanneer om aktief te wees, en hoeveel van elk jy nodig het.” Moenie op uitbranding wag voor jy rus nie; rus voorkom [uitbranding]().
