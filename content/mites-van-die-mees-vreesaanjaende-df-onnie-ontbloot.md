@@ -6,7 +6,7 @@ subtitle: ''
 author: Erica Chen
 image_credit: Verskaf deur die Hoërskool DF Malan
 image: "/images/visser.jpg"
-published: false
+published: true
 primary_color: "#745e57"
 
 ---
