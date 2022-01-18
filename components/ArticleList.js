@@ -3,9 +3,10 @@ import Image from "next/image";
 
 import styles from "../styles/ArticleList.module.css";
 
-export default function ArticleList({ posts }) {
+export default function ArticleList({ posts, title }) {
   return (
     <section className={styles.articleList}>
+      <div className={styles.heading}>{title}</div>
       {posts.map((i, index) => (
         <div key={index}>
           <Link href={"/artikel/" + i.slug}>

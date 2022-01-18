@@ -7,6 +7,7 @@ import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
 import ArticleList from "../components/ArticleList";
+import Wapen from "../components/Wapen";
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content"));
@@ -36,22 +37,11 @@ export default function Home({ posts }) {
     <>
       <Header />
 
-      <div>
-        <Image
-          src="/images/homepage.jpg"
-          layout="responsive"
-          width={5954}
-          height={3901}
-          alt=""
-        ></Image>
-      </div>
+      <div className={styles.mainArticle}></div>
 
       <div className={styles.splitter}>
-        <ArticleList posts={posts} />
-        <div className={styles.sidebar}>
-          <i>Die Herout</i> is die amptelike skoolkoerant van die Hoërskool DF
-          Malan
-        </div>
+        <ArticleList title="Nuwe Artikels" posts={posts} />
+        <Wapen />
       </div>
     </>
   );

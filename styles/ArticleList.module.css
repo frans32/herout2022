@@ -2,6 +2,13 @@
   flex: 1 648px;
 }
 
+.heading {
+  font: 400 24px/0.69 "Outfit", sans-serif;
+  color: #0046c7;
+  margin: 0 0 4px 0;
+  border-bottom: 1px dotted #e5e5e5;
+}
+
 .article {
   display: flex;
   margin: 0;
@@ -11,10 +18,12 @@
 
 .articleImage {
   position: relative;
-  width: 96px;
-  height: 96px;
+  width: 84px;
+  height: 84px;
   flex-grow: 0;
   flex-shrink: 0;
+  border-radius: 8px;
+  box-shadow: #afafaf1e -3px 3px 0 -1px;
 }
 
 .articleImage img {
@@ -24,9 +33,13 @@
 
 .articleInfo {
   padding-left: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .articleInfo h3 {
+  color: #333;
   font: 21px/1.2 "Outfit", sans-serif;
   margin: 0 0 8px;
 }
