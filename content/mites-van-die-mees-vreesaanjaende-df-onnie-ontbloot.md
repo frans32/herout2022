@@ -84,7 +84,7 @@ _Moenie bang wees nie: nie vir die kinders of hulle ouers nie._
 
 **Almal ken Meneer as die strengste onderwyser by die skool. Is daar ‘n spesifieke rede wat Meneer kan aan dink waarom dit so is?**
 
-_Dit gaan oor reputasie. Ek self het die storie jare gelede begin en die seniorraad het daarmee gehelp deur vir die beginners te sê hulle moet bid om nooit met my paaie te kruis nie. Dit maak die skool ’n veilige plek vir my._
+_Dit gaan oor reputasie. Ek self het die storie jare gelede begin en die senior raad het daarmee gehelp deur vir die beginners te sê hulle moet bid om nooit met my paaie te kruis nie. Dit maak die skool ’n veilige plek vir my._
 
 **Is daar enige wenke wat Meneer vir die leerders wat sukkel om hulle punte te verbeter, kan gee?**
 
