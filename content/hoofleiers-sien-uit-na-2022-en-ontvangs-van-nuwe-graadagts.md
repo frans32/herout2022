@@ -2,14 +2,14 @@
 image_width: 6000
 image_height: 4000
 title: Hoofleiers sien uit na 2022 en ontvangs van nuwe graadagts
-subtitle: ''
+subtitle: ""
 author: Leandri Odendal
 image_credit: Hoërskool DF Malan
 image: "/images/hoofleiers.jpg"
 published: true
 primary_color: "#2f251a"
-
 ---
+
 Ons begin die nuwe skooljaar met ’n gesprek met Tala Wiese en Henry Bothwell, DF-hoofleiers van 2022. Hulle deel hul doelwitte en ’n spesiale boodskap aan hul mede-Dee-Effers.
 
 **Wat is julle doelwit vir 2022 vir DF Malan?**
@@ -22,7 +22,7 @@ Henry: _Ek wil graag hê dat die samehorigheid onder die verskillende grade verb
 
 Tala: _Die SR het baie projekte - ou projekte wat tradisies is wat hulle natuurlik weer gaan aanpak, sowel as baie nuwe projekte soos die graadagts se verwelkoming, verkoop- en insamelprojekte, maar die res gaan ek nie nou al verklap nie!_
 
-Henry: _Daar is te veel om te noem, maar die_ buddy_-stelsel word hierdie jaar ’n bietjie anders gedoen. Ek is baie opgewonde om te sien hoe dit gaan uitdraai. Die trots-komitee het ook ’n klomp projekte in die pyplyn waaroor ek baie opgewonde is!_
+Henry: _Daar is te veel om te noem, maar die_ buddy-_stelsel word hierdie jaar ’n bietjie anders gedoen. Ek is baie opgewonde om te sien hoe dit gaan uitdraai. Die trots-komitee het ook ’n klomp projekte in die pyplyn waaroor ek baie opgewonde is!_
 
 **Som jouself in 3 woorde op.**
 
@@ -32,9 +32,9 @@ Henry: _Hardwerkend, logies en realisties._
 
 **Wat kyk jy op die oomblik op _Netflix_?**
 
-Tala: _Ek kyk op die oomblik_ Emily in Paris_. Enige nuwe voorstelle is baie welkom!_
+Tala: _Ek kyk op die oomblik_ Emily in Paris. _Enige nuwe voorstelle is baie welkom!_
 
-Henry: _Ek kyk nie baie_ Netflix _nie, maar ek geniet die_ Rotten_-reeks._
+Henry: _Ek kyk nie baie_ Netflix _nie, maar ek geniet die_ Rotten-_reeks._
 
 **Wat is jou missie vir die jaar?**
 

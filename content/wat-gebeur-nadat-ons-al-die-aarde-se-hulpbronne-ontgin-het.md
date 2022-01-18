@@ -2,14 +2,14 @@
 image_width: 4428
 image_height: 2952
 title: Wat gebeur nadat ons al die Aarde se hulpbronne ontgin het?
-subtitle: ''
+subtitle: ""
 author: Jana Burger
-image_credit: Emma Snyman
+image_credit: "Emma Snyman, wenner van <i>Netwerk24</i>-Skolenuuskompetisie se Beste <i>Feature<i/> Foto- kategorie"
 image: "/images/ontgin.jpg"
 published: true
 primary_color: "#cfdcdf"
-
 ---
+
 Sonder die natuurlike hulpbronne wat die Aarde aan ons voorsien, kan lewe op Aarde nie voortgaan nie. Ons is so gewoond aan die noodsaaklike hulpbronne wat tot ons beskikking is dat ons soms vergeet om dit op ’n volhoubare manier te gebruik. Dis normaal om winkel toe te gaan en te verwag dat hulle al die produkte sal hê wat jy benodig. Die realiteit is dít: indien iemand nie daardie produkte vervaardig nie, sal dit nie op die winkelrakke wees nie. Dis dieselfde met die Aarde se hulpbronne. As die Aarde nie kans kry om sy hulpbronne te herstel en te hernu nie, sal dit binnekort nie meer beskikbaar wees vir menslike gebruik nie.
 
 Ons leer op skool dat sommige hulpbronne hernubaar is en ander nie. As ons wel aanhou om hulpbronne op ’n onvolhoubare wyse te gebruik, kan daardie hernubare hulpbronne ook opraak. Volgens wetenskaplikes gebruik mense 70% meer hulpbronne op’n jaarlikse basis as wat die Aarde kan voorsien.

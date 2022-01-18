@@ -2,14 +2,14 @@
 image_width: 966
 image_height: 525
 title: Ontdek meer oor die opkomende musiekster, Margot Rothman
-subtitle: ''
+subtitle: ""
 author: Emma Olivier
 image_credit: Skermgreep van Tydelike Afleiding-musiekvideo
 image: "/images/margot.jpg"
 published: true
 primary_color: "#762c5c"
-
 ---
+
 Ek het die sangeres, Margot Rothman, se sangstem die eerste keer gehoor toe sy Grace VanderWaal se _I Don’t Know My Name_ in DF se 2017-revue gesing het. Ek het hoendervleis gekry. Ek was toe nog nie in DF nie, maar was al klaar beïndruk met die hoeveelheid talent wat ek daardie aand gesien het.
 
 Margot, oud-Dee-Effer, het in 2018 gematrikuleer en woeker vandag in die Afrikaanse musiekbedryf, gereeld saam met haar broer, Loki Rothman, maar ook as ’n talentvolle solo-kunstenaar. Haar debuut-enkelsnit, _Tydelike Afleiding_, is in 2020 vrygestel en het die klank van kleurvolle moderniteit - beskryf as ’n “internasionale klank”.
@@ -38,7 +38,7 @@ _Ek het mode-ontwerp by_ FEDISA _in die Kaap geswot. Vir my eerste jaar in die �
 
 _My persoonlike styl is vir my tussen_ funky _en deftig-elegant. Dis definitief ’n baie, baie groot verskeidenheid, maar ek dink nie ’n mens kan dit beter beskryf nie._
 
-_Ek is mal daroor om mooi aan te trek. Op die oomblik is my klerekas-noodsaaklikhede ’n gerieflike lang sonrokkie wat ‘n mens maklik kan aangooi en met goue juweliersware_ _kan_style_. Of vir uitgaan sal ek ’n lang, swart denim met my wit platformtekkies, goue juweliersware en ’n roomkleurige hempie by my wit-en-swart hondstootbaadjie_ _dra_.
+_Ek is mal daroor om mooi aan te trek. Op die oomblik is my klerekas-noodsaaklikhede ’n gerieflike lang sonrokkie wat ‘n mens maklik kan aangooi en met goue juweliersware kan_ style. _Of vir uitgaan sal ek ’n lang, swart denim met my wit platformtekkies, goue juweliersware en ’n roomkleurige hempie by my wit-en-swart hondstootbaadjie_ _dra_.
 
 **Jy sing _Survivor South Africa_ se nuwe temalied. Hoe het jy dit ervaar om vir die televisieprogram te sing en watter proses volg jy en Loki wanneer julle saamwerk?**
 
@@ -48,7 +48,7 @@ _Ek is so dankbaar vir die geleentheid om die temalied van_ Survivor _te kan sin
 
 **Raak jy soms nostalgies oor DF? Wat is jou gunsteling DF-herinneringe?**
 
-_My tyd in DF was vir my baie kosbaar en ek het my lewenslange vriende daar gemaak. My gunsteling-herinnering van DF is my koor- en_ glee_-dae en die koortoere. Asook die drama- en Engelse klas. Natuurlik is al die groot_ events _soos MTBS, somerbal en die revue beslis dinge wat ek vir ewig sal onthou._
+_My tyd in DF was vir my baie kosbaar en ek het my lewenslange vriende daar gemaak. My gunsteling-herinnering van DF is my koor- en_ glee-_dae en die koortoere. Asook die drama- en Engelse klas. Natuurlik is al die groot geleenthede soos MTBS, somerbal en die revue beslis dinge wat ek vir ewig sal onthou._
 
 **Watter boodskap of lewensraad sou jy vir die _Herout_ se lesers wil gee?**
 

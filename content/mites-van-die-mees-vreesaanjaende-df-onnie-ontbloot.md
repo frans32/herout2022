@@ -2,14 +2,14 @@
 image_width: 4343
 image_height: 2899
 title: Mites van die mees vreesaanjaende DF-onnie ontbloot?
-subtitle: ''
+subtitle: ""
 author: Erica Chen
 image_credit: Verskaf deur die Hoërskool DF Malan
 image: "/images/visser.jpg"
 published: true
 primary_color: "#745e57"
-
 ---
+
 Meneer Gert Visser is een van die onderwysers wat die langste by DF skool betrokke is. In ’n eksklusiewe _Herout_-onderhoud, leer ek dat hy eintlik baie vriendelik is wanneer jy met hom gesels. Al glimlag hy nie veel nie en gebruik woorde wat amper nie meer in woordeboeke bestaan nie, is daar nie te veel redes om hom te vrees nie.
 
 **Goeiemiddag, Meneer. Geniet Meneer die vakansie sover?**
@@ -22,7 +22,7 @@ _My vakansie was vol onverwagte opwindende dinge._
 
 _Ek is na Pretoria waar die regering versoek het dat ek leiding neem by ’n kommissie van ondersoek oor die Geskiedenis-sillabus en al die moontlike onwaarhede wat daar verkondig word. Gedurende die twee weke in die vreemde, moes ek ’n selfverdedigingskursus volg en my skerpskuttervermoë opknap - die nuwe sillabus gaan die poppe laat dans._
 
-_Daarna is ek vinnig Engeland toe, omdat vriende van my in Wessex probleme opgetel het wat net ek vir hulle kon oplos. Ek het nogal belangrik gevoel, amper soos Uhtred van_ The last Kingdom_._
+_Daarna is ek vinnig Engeland toe, omdat vriende van my in Wessex probleme opgetel het wat net ek vir hulle kon oplos. Ek het nogal belangrik gevoel, amper soos Uhtred van_ The last Kingdom.
 
 _Ek het die afgelope tyd ’n tapisserie van ’n Van Gogh-skildery voltooi en vir ’n ouetehuis gegee. Hulle het onmiddellik aangedring dat ek nog een moet maak en nou is ek besig met_ Die laaste Avondmaal _van Leonardo da Vinci._
 
@@ -42,15 +42,15 @@ _Die intelligensia van die aarde kan spel. Hulle praat hul taal - Engels, Afrika
 
 _Ek lees_ Maestro _van Hester Heese. Dit gaan oor die argitek, beeldhouer, kunstenaar Gianlorenze Bernini – nee, dis nie die drankie nie: moeras van onkunde! Dit het my gedwing om weer boeke oor Michelangelo en Da Vinci te lees._ The last Leonardo _van Ben Lewis is een van die bestes. Ek het my hand aan Martin Steyn se_ Losprys _gewaag. Ek het deurgedruk, maar moes op my tande kners._
 
-_Omdat daar die afgelope tyd van Josephine Buonaparte se juwele verkoop is, het ek gou ‘n biografie van haar gelees - en heelwat van Napoleon se briewe aan haar gesien. Toe lees ek verder aan_ Famous Love Letters_, saamgestel deur Ronald Tamplin. Dit het my laat gryp na_ The Cardinals Man_, wat weer afspeel in Frankryk tydens Richelieu se leeftyd._
+_Omdat daar die afgelope tyd van Josephine Buonaparte se juwele verkoop is, het ek gou ‘n biografie van haar gelees - en heelwat van Napoleon se briewe aan haar gesien. Toe lees ek verder aan_ Famous Love Letters, _saamgestel deur Ronald Tamplin. Dit het my laat gryp na_ The Cardinals Man, _wat weer afspeel in Frankryk tydens Richelieu se leeftyd._
 
 **Is daar ’n skrywer wie se werk Meneer meer verkies om te lees? Hoekom sê Meneer so?**
 
-_André P Brink is na my mening die beste. Ek het veral gehou van_ Houd-den-bek_. Hy het die taal onder die knie en kan enige leser meesleur met sy meesterlike woordgebruik, inuendo’s en openbaringe oor die ware werklikheid. Die meeste van sy boeke is eers verban!_
+_André P Brink is na my mening die beste. Ek het veral gehou van_ Houd-den-bek. _Hy het die taal onder die knie en kan enige leser meesleur met sy meesterlike woordgebruik, inuendo’s en openbaringe oor die ware werklikheid. Die meeste van sy boeke is eers verban!_
 
 **Wie is Meneer se gunsteling-digter en kan Meneer ‘n voorbeeld gee van ’n gedig wat hy/sy geskryf het?**
 
-_Die bestes is NP van Wyk Louw (dink maar aan_ Raka_) en Opperman (_Periandros van Korinthe_). Maar Lina Spies is my gunsteling. Gaan lees maar: Ek was die gans goddelike dag alleen / contradictio in terminus / want God was nie teenwoordig nie._
+_Die bestes is NP van Wyk Louw (dink maar aan_ Raka) _en Opperman_ (Periandros van Korinthe). _Maar Lina Spies is my gunsteling. Gaan lees maar: Ek was die gans goddelike dag alleen / contradictio in terminus / want God was nie teenwoordig nie._
 
 **Het Meneer na enige musiek in die vakansie geluister?**
 
