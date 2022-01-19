@@ -10,7 +10,7 @@ export default function ArticleList({ posts, title }) {
         <div className={styles.heading}>DF Verkenners SR Video 2022</div>
         <iframe
           loading="lazy"
-          src="https://www.youtube-nocookie.com/embed/s7oCVznYttQ"
+          src="https://www.youtube-nocookie.com/embed/Z_BlD29X-P0"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
