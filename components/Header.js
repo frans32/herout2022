@@ -16,7 +16,7 @@ export default function Header(props) {
         </a>
       </Link>
       <div className={styles.uitgawe}>
-        Januarie 2022 <span className={styles.desktopOnly}>/ Jaargang 43</span>
+        Februarie 2022 <span className={styles.desktopOnly}>/ Jaargang 43</span>
       </div>
     </header>
   );

@@ -60,7 +60,7 @@ export default function Home({ posts }) {
       <MainArticle article={mainArticles[2]} />
 
       <div className={styles.splitter}>
-        <ArticleList title="Nuwe Artikels" posts={otherArticles} />
+        <ArticleList title="Artikels" posts={otherArticles} />
         <Wapen />
       </div>
     </>
