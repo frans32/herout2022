@@ -22,7 +22,7 @@ Die storielyn is nie gesteur nie. In die filmindustrie maak regisseurs dit soms 
 
 As kyker kan jy die gevoelens van die karakters verstaan en ervaar: die lag, vriendelike gesigte van ’n gemeenskap, liefde, verlies en verandering. Dit is ’n film wat wys hoe om deur moeilike tye te gaan.
 
-Die stroie wys dit raak beter ná die storm.
+Die storie wys dit raak beter ná die storm.
 
 Jeremy Camp en Melissa Lynn Henning word goed deur KJ Apa en Britt Robertson vertolk. In die fliek word hul emosies duidelik uitgebeeld en die gehoor kan met die karakters vereenselwig. Dit maak die verhaal nog meer kragtig en verstaanbaar.
 
