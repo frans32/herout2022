@@ -1,6 +1,13 @@
 .mainArticle {
   width: 100%;
-  background: #eff5ff;
+}
+
+.mainArticle:first-of-type {
+  background: #fff1f1;
+}
+
+.mainArticle:last-of-type {
+  background: #fff1f1;
   margin-bottom: 32px;
 }
 
@@ -8,7 +15,7 @@
   margin: 0 auto;
   width: 800px;
   max-width: 100%;
-  padding: 32px 32px;
+  padding: 24px 32px;
 }
 
 .mainArticle h1 {
@@ -27,7 +34,7 @@
   display: block;
   width: 72px;
   background: #fafafa;
-  color: #292929;
+  color: #a00909;
   font-weight: 400;
   line-height: 1;
   padding: 11px 17px;
@@ -40,26 +47,12 @@
 
 .btnLees {
   margin-top: 32px;
-  border: rgb(205, 205, 240) 2px solid;
+  border: rgb(240, 205, 205) 2px solid;
   transition: border 0.2s;
 }
 
 .btnLees:hover {
-  border: rgb(159, 159, 206) 2px solid;
-}
-
-.embed {
-  margin: 0 auto;
-  width: 500px;
-  max-width: 100%;
-}
-
-.embed iframe {
-  display: block;
-  width: 100%;
-  height: 500px;
-  max-height: 64vw;
-  margin-bottom: 24px;
+  border: rgb(206, 159, 159) 2px solid;
 }
 
 @media (min-width: 900px) {

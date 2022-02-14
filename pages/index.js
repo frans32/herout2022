@@ -34,23 +34,30 @@ export const getStaticProps = async () => {
 };
 
 export default function Home({ posts }) {
-  let mainArticle = posts.filter(
-    (i) =>
-      i.slug ==
-      "ontbloting-van-die-nuwe-jaar-en-die-feit-dat-ek-plagiaat-teenoor-myself-gepleeg-het"
-  )[0];
+  let mainArticles = posts.filter((i) =>
+    [
+      "die-verhaal-agter-valentynsdag",
+      "i-i-still-believe-i-n-liefdesverhaal-treffer-vir-hierdie-dekade",
+      "i-this-little-love-of-mine-i-ideale-ligte-valentyns-vermaak",
+    ].includes(i.slug)
+  );
 
   let otherArticles = posts.filter(
     (i) =>
-      i.slug !=
-      "ontbloting-van-die-nuwe-jaar-en-die-feit-dat-ek-plagiaat-teenoor-myself-gepleeg-het"
+      ![
+        "die-verhaal-agter-valentynsdag",
+        "i-i-still-believe-i-n-liefdesverhaal-treffer-vir-hierdie-dekade",
+        "i-this-little-love-of-mine-i-ideale-ligte-valentyns-vermaak",
+      ].includes(i.slug)
   );
 
   return (
     <>
       <Header />
 
-      <MainArticle article={mainArticle} />
+      <MainArticle article={mainArticles[0]} />
+      <MainArticle article={mainArticles[1]} />
+      <MainArticle article={mainArticles[2]} />
 
       <div className={styles.splitter}>
         <ArticleList title="Nuwe Artikels" posts={otherArticles} />
