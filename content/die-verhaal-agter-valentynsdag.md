@@ -12,7 +12,7 @@ primary_color: "#f08981"
 ---
 Valentynsdag is ’n dag wat wêreldwyd gevier word. Dit is ’n dag waar geliefdes hulle liefde aan mekaar wys deur geskenke soos hartvormige sjokoladeboksies, blomme en kaartjies vir mekaar uit te deel.
 
-Hoekom vier ons egter Valentynsdag op die 14de Febuarie. Hoe het Valentynsdag eintlik begin? Met die Valentynsdag nou op ons, het ek ondersoek ingestel oor die oorsprong van hierdie dag wat sommige mense so afwag en ander vrees.
+Hoekom vier ons egter Valentynsdag op die 14de Febuarie? Hoe het Valentynsdag eintlik begin? Met die Valentynsdag nou op ons, het ek ondersoek ingestel oor die oorsprong van hierdie dag wat sommige mense so afwag en ander vrees.
 
 Die geskiedenis van Valentynsdag is effens vaag met talle moontlike oorspronge. Dit gaan al die pad terug na die antieke Romeinse fees _Lupercalia_ wat in die middel van Febuarie gevier is_. Lupercalia_ was ’n fees wat die koms van die lente gevier het en het vrugbaarheidsrituele bavat waar meisies hulle name op kaartjies geskryf en in ’n groot bak gegooi. Die seuns sou dan kaartjies getrek het om paartjies te vorm.
 
