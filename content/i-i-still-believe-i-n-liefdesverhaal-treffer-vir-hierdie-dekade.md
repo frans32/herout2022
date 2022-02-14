@@ -2,15 +2,15 @@
 image_width: 1400
 image_height: 1050
 title: "<i>I Still Believe</i>: ’n liefdesverhaal-treffer vir hierdie dekade."
-subtitle: ''
+subtitle: ""
 author: Eileen Vermeulen
 image_credit: Lionsgate Films
 image: "/images/i-still-believe.jpg"
 published: true
 primary_color: "#f08981"
-
 ---
-★★★★
+
+<span style={{color: "#ffab1c"}}>★★★★</span>
 
 Die fliek, met régie deur Andrew en Erin Erwin, begin as ’n tipiese romantiese komedie, maar dit is die besonderse storie van die musikant, Jeremy Camp (KJ Apa) en sy vrou, Melissa Lynn Henning-Camp (Britt Robertson) - die ware verhaal wat miljoene lewens verander het.
 

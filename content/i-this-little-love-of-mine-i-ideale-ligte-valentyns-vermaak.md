@@ -2,15 +2,15 @@
 image_width: 1000
 image_height: 667
 title: "<i>This Little Love of Mine</i>: ideale ligte Valentyns-vermaak"
-subtitle: ''
+subtitle: ""
 author: Liza Theron
 image_credit: Netflix
 image: "/images/this-little-love-of-mine.jpg"
 published: true
 primary_color: "#f08981"
-
 ---
-★★★
+
+<span style={{color: "#ffab1c"}}>★★★</span>
 
 Is jy opsoek na ’n aanvulling om die leemte in jou liefdeslewe op Valentynsdag te vul? _This Little Love of Mine_ is dan die fliek vir jou.
 
