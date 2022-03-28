@@ -4,7 +4,7 @@ image_height: 1000
 title: Van kraletjies op ’n tou tot iets wat almal in hul sak ronddra
 subtitle: ''
 author: Eileen Jeanette Vermeulen
-image_credit: ''
+image_credit: Emma Olivier
 image: "/images/sakrekenaar.JPG"
 published: true
 primary_color: "#efefef"
