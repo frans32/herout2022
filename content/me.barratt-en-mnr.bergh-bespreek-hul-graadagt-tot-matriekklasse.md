@@ -4,7 +4,7 @@ image_height: 2000
 title: Me. Barratt en mnr. Bergh bespreek hul graadagt- tot matriekklasse
 subtitle: ''
 author: Lise Keyser
-image_credit: ''
+image_credit: " Yana Mans"
 image: "/images/homepage.jpg"
 published: false
 primary_color: "#efefef"
