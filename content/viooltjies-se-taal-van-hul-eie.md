@@ -4,7 +4,7 @@ image_height: 1000
 title: Viooltjies se taal van hul eie
 subtitle: ''
 author: Hannah de Wet
-image_credit: ''
+image_credit: Emma Olivier
 image: "/images/viooltjies.JPG"
 published: true
 primary_color: "#efefef"
