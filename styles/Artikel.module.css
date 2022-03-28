@@ -66,6 +66,12 @@ main.content p:first-child {
   text-decoration: underline;
 }
 
+.content img {
+  max-width: 100%;
+  max-height: 80vh;
+  overflow: hidden;
+}
+
 @media (min-width: 900px) {
   .article_info {
     padding: 48px 16px;
