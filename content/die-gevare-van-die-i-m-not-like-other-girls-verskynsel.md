@@ -4,7 +4,7 @@ image_height: 2000
 title: Die gevare van die I’m not like other girls-verskynsel
 subtitle: ''
 author: Misha Coetzee
-image_credit: ''
+image_credit: Emma Olivier
 image: "/images/not-like-other-girls.JPG"
 published: true
 primary_color: "#efefef"
