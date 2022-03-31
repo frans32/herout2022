@@ -1,15 +1,15 @@
 ---
-image_width: 2000
-image_height: 1000
+image_width: 4752
+image_height: 3168
 title: Viooltjies se taal van hul eie
-subtitle: ''
+subtitle: ""
 author: Hannah de Wet
 image_credit: Emma Olivier
 image: "/images/viooltjies.JPG"
 published: true
 primary_color: "#efefef"
-
 ---
+
 Tydens die Victoriaanse era (1837-1901) het ’n diverse taal vanuit mense se liefde vir blomme ontwikkel.
 
 Impressioniste en Post-Impressioniste het gedurig blomme en blomrangskikkings tussen die jare 1880 en 1900 geskilder. Vincent Van Gogh het ’n obsessie met sonneblomme gehad. Die twaalf skilderye wat hy van slegs sonneblomme geverf het, kan daarvan getuig. Claude Monet is weer vir sy skilderye van waterlelies alombekend. Tydens hierdie tydperk in Europa het mense eksotiese blomme van rondom die wêreld versamel en in hul tuine uitgestal. Skilders het die geleentheid aangegryp en pragtige kunswerke van byna elke blom onder die son begin produseer.
@@ -40,12 +40,12 @@ Indien jy ’n teepot viooltjietee wil voorberei, voeg jy net soveel teelepels b
 
 Gedroogte kroonblare maak ’n sterker tee. Slegs een tot twee teelepels droë blare word benodig. Kroonblare word uitgedroog deur dieselfde metodes as dié wat vir kruie gebruik word.
 
-1) Versamel vars Viooltjies vanuit jou tuin, verkieslik vroeg in die oggend voordat hulle son kry. Die blomme kan eers gedroog word of jy kan hulle dadelik gebruik.
+1. Versamel vars Viooltjies vanuit jou tuin, verkieslik vroeg in die oggend voordat hulle son kry. Die blomme kan eers gedroog word of jy kan hulle dadelik gebruik.
 
-2) Spoel die kroonblare sorgvuldig af en verwyder enige insekte.
+2. Spoel die kroonblare sorgvuldig af en verwyder enige insekte.
 
-3) Voeg twee tot drie teelepels kroonblare by een koppie kokende water.
+3. Voeg twee tot drie teelepels kroonblare by een koppie kokende water.
 
-4) Laat dit vir vyf minute trek, voordat jy die kroonblare uitsif. Dan kan jy jou koppie tee geniet.
+4. Laat dit vir vyf minute trek, voordat jy die kroonblare uitsif. Dan kan jy jou koppie tee geniet.
 
-5) Onthou om jou koppie met ’n vars tuinviooltjie te versier.
+5. Onthou om jou koppie met ’n vars tuinviooltjie te versier.

@@ -60,7 +60,7 @@ export default function Post({ matter, source }) {
         </div>
       </section>
       <main className={styles.content}>
-        <MDXRemote {...source} components={{}} />
+        <MDXRemote {...source} components={{ Image }} />
       </main>
 
       <Head>
@@ -68,7 +68,7 @@ export default function Post({ matter, source }) {
           {matter.title.replace("<i>", "").replace("</i>", "")} - Die Herout
           2022
         </title>
-        <meta name="theme-color" content={matter.primary_color} />
+        <meta name="theme-color" content="#efefef" />
       </Head>
     </>
   );

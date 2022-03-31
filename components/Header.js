@@ -4,7 +4,9 @@ import styles from "../styles/Header.module.css";
 
 export default function Header(props) {
   return (
-    <header className={styles.header}>
+    <header
+      className={props.dark ? styles.header + " " + styles.dark : styles.header}
+    >
       <Link href="/">
         <a>
           <img

@@ -1,63 +1,91 @@
 .mainArticle {
   width: 100%;
-}
-
-.mainArticle:first-of-type {
-  background: #fff1f1;
-}
-
-.mainArticle:last-of-type {
-  background: #fff1f1;
+  background: #143b33;
   margin-bottom: 32px;
 }
 
 .mainArticle > div {
+  position: relative;
   margin: 0 auto;
   width: 800px;
   max-width: 100%;
-  padding: 28px 32px;
+  padding: 24px 0 0;
+  color: #efefef;
 }
 
 .mainArticle h1 {
-  font-size: 32px;
-  font-family: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  margin-bottom: 12px;
+  font: 36px/44px "Shippori Mincho", "Outfit", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+  letter-spacing: -10%;
+  padding: 0 24px;
+  margin: 0;
 }
 
-.tag {
-  font-size: 12px;
-  text-transform: uppercase;
-  color: rgba(0, 0, 0, 0.64);
+.mainImage {
+  margin-left: 24px;
+}
+
+.author {
+  font-family: "Outfit", -apple-system, sans-serif;
+  color: #d0f5ed;
+  padding: 24px;
 }
 
 .btnLees {
   display: block;
+  position: absolute;
+  bottom: 24px;
+  right: 24px;
   width: 72px;
-  background: #fafafa;
-  color: #a00909;
-  font-weight: 400;
-  line-height: 1;
   padding: 11px 17px;
+
+  background: #143b33;
+  color: #efefef;
+  border: #efefef21 2px solid;
+  border-radius: 8px;
+
+  font: 1em/1 "Outfit", -apple-system, sans-serif;
   text-align: center;
-  border-radius: 12px;
   text-decoration: none;
   user-select: none;
-  border: #eaeaea 2px solid;
-}
-
-.btnLees {
-  margin-top: 32px;
-  border: rgb(240, 205, 205) 2px solid;
-  transition: border 0.2s;
-}
-
-.btnLees:hover {
-  border: rgb(206, 159, 159) 2px solid;
 }
 
 @media (min-width: 900px) {
+  .mainArticle {
+    position: relative;
+    background: #143b3370;
+  }
+
+  .mainArticle h1 {
+    font: 44px/1.2 "Shippori Mincho", "Outfit", -apple-system,
+      BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+      "Open Sans", "Helvetica Neue", sans-serif;
+  }
+
   .mainArticle > div {
-    padding: 48px 32px;
+    position: static;
+    padding: 100px 0;
+  }
+
+  .mainImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    z-index: -1;
+    margin: 0;
+  }
+
+  .btnLees {
+    position: static;
+    margin: 12px 0 0 24px;
+  }
+
+  .btnLees:hover {
+    border: #ffffff36 2px solid;
   }
 }

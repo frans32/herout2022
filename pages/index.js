@@ -33,34 +33,30 @@ export const getStaticProps = async () => {
   };
 };
 
-export default function Home({ posts }) {
-  let mainArticles = posts.filter((i) =>
-    [
-      "die-verhaal-agter-valentynsdag",
-      "i-i-still-believe-i-n-liefdesverhaal-treffer-vir-hierdie-dekade",
-      "i-this-little-love-of-mine-i-ideale-ligte-valentyns-vermaak",
-    ].includes(i.slug)
-  );
+let mainArticleSlugs = [
+  "die-gevare-van-die-i-m-not-like-other-girls-verskynsel",
+  "van-kraletjies-op-n-tou-tot-iets-wat-almal-in-hul-sak-ronddra",
+  "moet-dit-nie-so-ligtelik-opneem-nie",
+  "me.barratt-en-mnr.bergh-bespreek-hul-graadagt-tot-matriekklasse",
+  "viooltjies-se-taal-van-hul-eie",
+];
 
-  let otherArticles = posts.filter(
-    (i) =>
-      ![
-        "die-verhaal-agter-valentynsdag",
-        "i-i-still-believe-i-n-liefdesverhaal-treffer-vir-hierdie-dekade",
-        "i-this-little-love-of-mine-i-ideale-ligte-valentyns-vermaak",
-      ].includes(i.slug)
-  );
+export default function Home({ posts }) {
+  let mainArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
+
+  let otherArticles = posts.filter((i) => !mainArticleSlugs.includes(i.slug));
 
   return (
     <>
-      <Header />
-
-      <MainArticle article={mainArticles[0]} />
-      <MainArticle article={mainArticles[1]} />
-      <MainArticle article={mainArticles[2]} />
+      <MainArticle article={mainArticles[4]}>
+        <Header dark />
+      </MainArticle>
 
       <div className={styles.splitter}>
-        <ArticleList title="Artikels" posts={otherArticles} />
+        <div className={styles.largeCol}>
+          <ArticleList title="Nuwe Artikels" posts={mainArticles} />
+          <ArticleList title="Argief" posts={otherArticles} />
+        </div>
         <Wapen />
       </div>
     </>

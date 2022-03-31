@@ -24,3 +24,7 @@
   flex-wrap: wrap;
   overflow: hidden;
 }
+
+.largeCol {
+  flex: 1 648px;
+}

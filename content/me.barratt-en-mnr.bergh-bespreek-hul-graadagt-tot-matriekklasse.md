@@ -2,21 +2,29 @@
 image_width: 2292
 image_height: 1557
 title: Me. Barratt en mnr. Bergh bespreek hul graadagt- tot matriekklasse
-subtitle: ''
+subtitle: ""
 author: Lise Keyser
-image_credit: " Yana Mans"
+image_credit: "Yana Mans"
 image: "/images/onderwysers.jpg"
 published: false
 primary_color: "#efefef"
-
 ---
+
 ’n Hele paar nuwe onderwysers het in 2022 by die DF-familie aangesluit. Ek het die geleentheid gekry om met twee van die nuwe onderwysers, me. Carina Barratt en meneer Lourens Bergh, onderhoude te voer.
 
-<Image src="/images/onderwysers-1.jpeg" layout="intrinsic"/>
+<div style={{textAlign: "center"}}>
+    <Image src="/images/onderwysers-1.jpeg" layout="intrinsic" width={1081} height={1581}/>
+    <br/>
+    <small style={{color: "#555"}}>Foto: Yana Mans</small>
+</div>
 
 Juffrou Barratt het chemiese ingenieurswese studeer, maar toe sy begin tutor het, bewus geraak van die bevredigende gevoel wat ’n mens ervaar deur vir ander mense te help verstaan en besef dat onderwys haar roeping is.
 
-![](/images/onderwysers-2.jpeg)
+<div style={{textAlign: "center"}}>
+    <Image src="/images/onderwysers-2.jpeg" layout="intrinsic" width={2736} height={3453}/>
+    <br/>
+    <small style={{color: "#555"}}>Foto: Yana Mans</small>
+</div>
 
 Meneer Bergh was vir ses jaar by Die Hoërskool Velddrif en vir 1 jaar by Stellenberg Akademie.
 
