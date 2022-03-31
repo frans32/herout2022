@@ -1,6 +1,6 @@
 ---
-image_width: 2000
-image_height: 1000
+image_width: 1408
+image_height: 1056
 title: Moet dit nie so ligtelik opneem nie
 subtitle: ''
 author: René Theron
