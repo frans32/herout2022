@@ -1,6 +1,6 @@
 ---
-image_width: 2000
-image_height: 1000
+image_width: 4752
+image_height: 3168
 title: Van kraletjies op ’n tou tot iets wat almal in hul sak ronddra
 subtitle: ''
 author: Eileen Jeanette Vermeulen
