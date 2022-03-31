@@ -10,8 +10,6 @@ published: false
 primary_color: "#efefef"
 
 ---
-import { Image } from "next/image"
-
 ’n Hele paar nuwe onderwysers het in 2022 by die DF-familie aangesluit. Ek het die geleentheid gekry om met twee van die nuwe onderwysers, me. Carina Barratt en meneer Lourens Bergh, onderhoude te voer.
 
 <Image src="/images/onderwysers-1.jpeg" layout="intrinsic"/>
