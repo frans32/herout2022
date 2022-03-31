@@ -38,17 +38,19 @@ let mainArticleSlugs = [
   "van-kraletjies-op-n-tou-tot-iets-wat-almal-in-hul-sak-ronddra",
   "moet-dit-nie-so-ligtelik-opneem-nie",
   "me.barratt-en-mnr.bergh-bespreek-hul-graadagt-tot-matriekklasse",
-  "viooltjies-se-taal-van-hul-eie",
 ];
 
 export default function Home({ posts }) {
   let mainArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
-
   let otherArticles = posts.filter((i) => !mainArticleSlugs.includes(i.slug));
 
   return (
     <>
-      <MainArticle article={mainArticles[4]}>
+      <MainArticle
+        article={
+          posts.filter((i) => i.slug == "viooltjies-se-taal-van-hul-eie")[0]
+        }
+      >
         <Header dark />
       </MainArticle>
 
