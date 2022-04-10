@@ -53,10 +53,16 @@ export default function Post({ matter, source }) {
               sizes="min(1000px, 100vw)"
             />
           </div>
-          <div
-            className={styles.image_credit}
-            dangerouslySetInnerHTML={{ __html: "Foto: " + matter.image_credit }}
-          />
+          {matter.image_credit ? (
+            <div
+              className={styles.image_credit}
+              dangerouslySetInnerHTML={{
+                __html: "Foto: " + matter.image_credit,
+              }}
+            />
+          ) : (
+            ""
+          )}
         </div>
       </section>
       <main className={styles.content}>
