@@ -34,23 +34,24 @@ export const getStaticProps = async () => {
 };
 
 let mainArticleSlugs = [
-  "die-gevare-van-die-i-m-not-like-other-girls-verskynsel",
-  "van-kraletjies-op-n-tou-tot-iets-wat-almal-in-hul-sak-ronddra",
-  "moet-dit-nie-so-ligtelik-opneem-nie",
-  "me.barratt-en-mnr.bergh-bespreek-hul-graadagt-tot-matriekklasse",
+  "glo-jy-in-spoke",
+  "is-magiese-paddastoele-die-nuwe-toekoms",
+  "my-mening-mondelinge-moet-afgeskaf-word-en-hier-is-die-alternatief",
+  "the-batman-2022-kinematografiese-meesterstuk-bereik-byna-selfs-joker-vlak",
 ];
+
+let heroArticleSlug =
+  "tweede-oudste-werkende-lighuis-in-sa-perfek-vir-naweek-uitstappie";
 
 export default function Home({ posts }) {
   let mainArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
-  let otherArticles = posts.filter((i) => !mainArticleSlugs.includes(i.slug));
+  let otherArticles = posts.filter(
+    (i) => !mainArticleSlugs.includes(i.slug) && i.slug != heroArticleSlug
+  );
 
   return (
     <>
-      <MainArticle
-        article={
-          posts.filter((i) => i.slug == "viooltjies-se-taal-van-hul-eie")[0]
-        }
-      >
+      <MainArticle article={posts.filter((i) => i.slug == heroArticleSlug)[0]}>
         <Header dark />
       </MainArticle>
 

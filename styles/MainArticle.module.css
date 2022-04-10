@@ -1,6 +1,6 @@
 .mainArticle {
   width: 100%;
-  background: #143b33;
+  background: #3754ad;
   margin-bottom: 32px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .mainArticle h1 {
-  font: 36px/44px "Shippori Mincho", "Outfit", -apple-system, BlinkMacSystemFont,
+  font: 32px/40px "Shippori Mincho", "Outfit", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
     sans-serif;
   letter-spacing: -10%;
@@ -24,6 +24,8 @@
 
 .mainImage {
   margin-left: 24px;
+  max-height: 240px;
+  overflow: hidden;
 }
 
 .author {
@@ -40,7 +42,7 @@
   width: 72px;
   padding: 11px 17px;
 
-  background: #143b33;
+  background: #1647b1;
   color: #efefef;
   border: #efefef21 2px solid;
   border-radius: 8px;
@@ -54,7 +56,7 @@
 @media (min-width: 900px) {
   .mainArticle {
     position: relative;
-    background: #143b3370;
+    background: #3d3d3d70;
   }
 
   .mainArticle h1 {
@@ -75,7 +77,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    overflow: hidden;
+    max-height: none;
     z-index: -1;
     margin: 0;
   }
