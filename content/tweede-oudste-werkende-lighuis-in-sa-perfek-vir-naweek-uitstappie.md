@@ -4,7 +4,7 @@ image_height: 1200
 title: Tweede oudste werkende lighuis in SA perfek vir naweek-uitstappie
 subtitle: ''
 author: Anika Burger
-image_credit: ''
+image_credit: Anika Burger
 image: "/images/ligtoring.jpg"
 published: false
 primary_color: "#efefef"
