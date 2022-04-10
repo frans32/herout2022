@@ -4,7 +4,7 @@ image_height: 3168
 title: Is magiese paddastoele die nuwe toekoms?
 subtitle: ''
 author: Hannah de Wet
-image_credit: ''
+image_credit: Emma Olivier
 image: "/images/paddastoel.JPG"
 published: false
 primary_color: "#efefef"
