@@ -1,7 +1,7 @@
 ---
 image_width: 4000
 image_height: 1869
-title: 'The Batman (2022): kinematografiese meesterstuk bereik byna selfs Joker-vlak'
+title: "<i>The Batman</i> (2022): kinematografiese meesterstuk bereik byna selfs <i>Joker</i>-vlak"
 subtitle: ''
 author: Emma Olivier
 image_credit: ''
@@ -10,7 +10,7 @@ published: false
 primary_color: "#efefef"
 
 ---
-**★★★★★**
+<span style={{color: "#ffab1c"}}>★★★★★</span>
 
 _“Gotham loves a comeback story.”_
 
