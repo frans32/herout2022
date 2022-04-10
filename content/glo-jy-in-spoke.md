@@ -4,7 +4,7 @@ image_height: 720
 title: Glo jy in spoke?
 subtitle: ''
 author: Chantelle van Wyk
-image_credit: ''
+image_credit: Cara Fourie
 image: "/images/spoke.jpg"
 published: false
 primary_color: "#efefef"
