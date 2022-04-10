@@ -4,7 +4,7 @@ image_height: 2882
 title: 'My mening: mondelinge moet afgeskaf word (en hier is die alternatief)'
 subtitle: ''
 author: Jana Burger
-image_credit: ''
+image_credit: Yana Mans
 image: "/images/mondelinge.jpg"
 published: false
 primary_color: "#efefef"
