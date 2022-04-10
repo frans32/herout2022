@@ -4,7 +4,7 @@ image_height: 1869
 title: "<i>The Batman</i> (2022): kinematografiese meesterstuk bereik byna selfs <i>Joker</i>-vlak"
 subtitle: ''
 author: Emma Olivier
-image_credit: ''
+image_credit: Warner Brothers
 image: "/images/batman.jpg"
 published: false
 primary_color: "#efefef"
