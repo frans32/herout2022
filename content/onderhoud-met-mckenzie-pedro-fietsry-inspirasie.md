@@ -4,7 +4,7 @@ image_height: 2100
 title: Onderhoud met McKenzie Pedro, fietsry-inspirasie
 subtitle: ''
 author: Liza Theron
-image_credit: ''
+image_credit: Bianca Stander
 image: "/images/mckenzie.jpg"
 published: false
 primary_color: "#efefef"
