@@ -22,25 +22,7 @@ Volgens die Oxford Woordeboek is wiel _’n sirkelvormige voorwerp wat op ’n a
 
 (Sommige van die volgende getalle kon intussen verander het.)
 
-| --- | --- |
-| Voorwerpe met wiele | Geskatte aantal voorwerpe (en aantal wiele) |
-| Motors | 11446 biljoen (5784 biljoen) |
-| Skaatsplanke | 85 miljoen (340 miljoen) |
-| Rolstoele | 75 miljoen (5625 miljoen) |
-| Treine | 350 000 (3 500 000) |
-| Stootwaentjies | 8 miljoen (32 miljoen) |
-| Skopfietse | 4,6 miljoen (9,2 miljoen) |
-| Stoele | 16,5 miljoen (82,5 miljoen) |
-| Rollemskaatse | 20 025 |
-| Trollies | 3 536 105 miljoen (14 144 420 miljoen) |
-| Perdekarre | 1,5 biljoen (3 biljoen) |
-| Vullisdromme | 6 biljoen (12 biljoen) |
-| Tasse | 868 750 000 |
-| Ferris wheels | 138 |
-| Busse | 3 miljoen (21 miljoen) |
-| Klein wiele | 200 miljoen (400 miljoen) |
-| Fietse | 1 biljoen (2 biljoen) |
-| Grassnyer | 1,6 triljoen (3,2 triljoen) |
+![](/images/screenshot-2022-05-12-at-17-25-25.png)
 
 Hierdie getalle is bymekaar 344 816 119 558.
 
