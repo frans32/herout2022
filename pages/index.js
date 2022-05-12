@@ -35,7 +35,7 @@ export const getStaticProps = async () => {
 
 let mainArticleSlugs = [
   "onderhoud-met-mckenzie-pedro-fietsry-inspirasie",
-  "die-ware-antwoord-meer-wiele-of-deure",
+  /* "die-ware-antwoord-meer-wiele-of-deure",*/
   "n-gesprek-met-ontwerpers-van-die-toekoms",
   "n-reflektiewe-onderhoud-met-juffrou-roelofse",
 ];
