@@ -1,6 +1,6 @@
 .mainArticle {
   width: 100%;
-  background: #3754ad;
+  background: #222;
   margin-bottom: 32px;
 }
 
@@ -42,7 +42,7 @@
   width: 72px;
   padding: 11px 17px;
 
-  background: #1647b1;
+  background: #333;
   color: #efefef;
   border: #efefef21 2px solid;
   border-radius: 8px;

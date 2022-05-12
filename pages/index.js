@@ -34,14 +34,14 @@ export const getStaticProps = async () => {
 };
 
 let mainArticleSlugs = [
-  "glo-jy-in-spoke",
-  "is-magiese-paddastoele-die-nuwe-toekoms",
-  "my-mening-mondelinge-moet-afgeskaf-word-en-hier-is-die-alternatief",
-  "the-batman-2022-kinematografiese-meesterstuk-bereik-byna-selfs-joker-vlak",
+  "onderhoud-met-mckenzie-pedro-fietsry-inspirasie",
+  "die-ware-antwoord-meer-wiele-of-deure",
+  "n-gesprek-met-ontwerpers-van-die-toekoms",
+  "n-reflektiewe-onderhoud-met-juffrou-roelofse",
 ];
 
 let heroArticleSlug =
-  "tweede-oudste-werkende-lighuis-in-sa-perfek-vir-naweek-uitstappie";
+  "wat-probeer-vladimir-putin-bereik-die-oorsake-en-gevolge-van-die-oorlog-in-oekraine";
 
 export default function Home({ posts }) {
   let mainArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
@@ -58,6 +58,14 @@ export default function Home({ posts }) {
       <div className={styles.splitter}>
         <div className={styles.largeCol}>
           <ArticleList title="Nuwe Artikels" posts={mainArticles} />
+          <div className={styles.ad}>
+            <Image
+              src="/images/ad-1.jpg"
+              width={404}
+              height={524}
+              layout="responsive"
+            />
+          </div>
           <ArticleList title="Argief" posts={otherArticles} />
         </div>
         <Wapen />
