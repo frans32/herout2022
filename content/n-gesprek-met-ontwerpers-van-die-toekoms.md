@@ -4,7 +4,7 @@ image_height: 520
 title: "’n Gesprek met ontwerpers van die toekoms"
 subtitle: ''
 author: Chané Smith
-image_credit: ''
+image_credit: 'Instagram: @denise_ontwerp'
 image: "/images/ontwerp-1.JPG"
 published: false
 primary_color: "#efefef"
