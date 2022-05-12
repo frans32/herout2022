@@ -5,7 +5,7 @@ title: Wat probeer Vladimir Putin bereik? Die oorsake en gevolge van die oorlog 
   Oekraïne
 subtitle: ''
 author: Leah Coetzee
-image_credit: ''
+image_credit: Emma Snyman
 image: "/images/oorlog.jpg"
 published: false
 primary_color: "#efefef"
