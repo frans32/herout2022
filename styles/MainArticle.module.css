@@ -1,6 +1,6 @@
 .mainArticle {
   width: 100%;
-  background: #222;
+  background: rgb(181, 224, 201);
   margin-bottom: 32px;
 }
 
@@ -10,7 +10,7 @@
   width: 800px;
   max-width: 100%;
   padding: 24px 0 0;
-  color: #efefef;
+  color: #333;
 }
 
 .mainArticle h1 {
@@ -30,7 +30,7 @@
 
 .author {
   font-family: "Outfit", -apple-system, sans-serif;
-  color: rgba(255, 255, 255, 0.777);
+  color: rgba(0, 0, 0, 0.777);
   padding: 24px;
 }
 
@@ -56,7 +56,8 @@
 @media (min-width: 900px) {
   .mainArticle {
     position: relative;
-    background: #3d3d3d70;
+    background: #ffffffad;
+    overflow: hidden;
   }
 
   .mainArticle h1 {
@@ -80,6 +81,8 @@
     max-height: none;
     z-index: -1;
     margin: 0;
+    filter: blur(6px);
+    transform: scale(1.1);
   }
 
   .btnLees {

@@ -28,14 +28,3 @@
 .largeCol {
   flex: 1 648px;
 }
-
-.ad{
-  text-align: left;
-  overflow: hidden;
-  margin-bottom: 32px;
-}
-
-.ad img{
-  background: #efefef;
-  border-radius: 4px;
-}

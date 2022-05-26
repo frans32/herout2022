@@ -1,15 +1,15 @@
 ---
 image_width: 1275
 image_height: 2379
-title: 'Die ware antwoord: “meer wiele of deure?”'
-subtitle: ''
+title: "Die ware antwoord: “meer wiele of deure?”"
+subtitle: ""
 author: Eileen Jeanette Vermeulen
 image_credit: Emma Snyman
 image: "/images/deure.jpeg"
 published: false
-primary_color: "#ccc"
-
+primary_color: "#efefef"
 ---
+
 Is daar meer wiele of deure?
 
 Dit is die bekende vraag wat sosiale mediaverbruikers se gedagtes prikkel. Die antwoord verskil van persoon tot persoon. Party sê wiele. Ander sê deure. Sommiges sê daar is ewe veel.

@@ -34,14 +34,12 @@ export const getStaticProps = async () => {
 };
 
 let mainArticleSlugs = [
-  "onderhoud-met-mckenzie-pedro-fietsry-inspirasie",
-  /* "die-ware-antwoord-meer-wiele-of-deure",*/
-  "n-gesprek-met-ontwerpers-van-die-toekoms",
-  "n-reflektiewe-onderhoud-met-juffrou-roelofse",
+  "i-harry-s-house-i-bring-intieme-lirieke-met-goedvoel-klank-tuis",
+  "die-ware-antwoord-meer-wiele-of-deure",
+  "geselsie-met-kamer-13-se-koningin-juffrou-carstens",
 ];
 
-let heroArticleSlug =
-  "wat-probeer-vladimir-putin-bereik-die-oorsake-en-gevolge-van-die-oorlog-in-oekraine";
+let heroArticleSlug = "die-stokperdjie-verg-rots-moed";
 
 export default function Home({ posts }) {
   let mainArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
@@ -52,20 +50,12 @@ export default function Home({ posts }) {
   return (
     <>
       <MainArticle article={posts.filter((i) => i.slug == heroArticleSlug)[0]}>
-        <Header dark />
+        <Header />
       </MainArticle>
 
       <div className={styles.splitter}>
         <div className={styles.largeCol}>
           <ArticleList title="Nuwe Artikels" posts={mainArticles} />
-          <div className={styles.ad}>
-            <Image
-              src="/images/ad-1.jpg"
-              width={404}
-              height={524}
-              layout="responsive"
-            />
-          </div>
           <ArticleList title="Argief" posts={otherArticles} />
         </div>
         <Wapen />
