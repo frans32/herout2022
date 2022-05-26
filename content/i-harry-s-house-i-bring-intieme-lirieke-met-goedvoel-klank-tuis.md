@@ -2,14 +2,14 @@
 image_width: 1170
 image_height: 875
 title: "<i>Harry’s House</i> bring intieme lirieke met goedvoel-klank tuis"
-subtitle: ''
+subtitle: ""
 author: Lise Keyser
 image_credit: " Columbia Studios"
 image: "/images/harry-styles.jpeg"
 published: false
 primary_color: "#efefef"
-
 ---
+
 Harry Styles het sy musiekberoep in 2010 begin toe hy deel was van _One Direction_, een van die grootste musiekgroepe ter wêreld. Na die groep se onbepaalde hiatus in 2016, het Styles in dieselfde jaar sy solo-loopbaan begin en in 2017 sy debuut-enkelsnit, _Sign of the Times_, vrygestel.
 
 Ná _Sign of the Times_ het hy verskeie ander geliefkoosde treffers soos _Golden_, _Adore You_ en _Watermelon Sugar_ vrygestel. In sy vorige twee albums, _Harry Styles_ en _Fine Line_, het hy sy eie klank ontwikkel en sy luisteraars met ’n prettige _pop-rock_-klank betower.
@@ -17,6 +17,20 @@ Ná _Sign of the Times_ het hy verskeie ander geliefkoosde treffers soos _Golden
 Styles verlaat nou sy _Fine Line_-era. Aanhangers het op 20 Mei 2022 sy nuwe album, _Harry’s House_, met liefde en opgewondenheid verwelkom.
 
 Op 23 Maart het Styles die album se naam bekendgestel (wat natuurlik sy aanhangers absoluut met afwagting laat borrel het). Dit was selfs nog meer opwindend toe hy ’n nuwe _Twitter_-rekening geskep het, spesiaal om leidrade te oor _Harry’s House_-liedjies se lirieke te deel. Op 1 April het Styles een liedjie as ’n voorsmakie van _Harry’s House_ vrygestel. _As It Was_ het binne slegs ’n paar uur stroom-rekords gebreek.
+
+<iframe 
+    loading="lazy"
+    allow="autoplay *; encrypted-media *;"
+    frameborder="0"
+    height="450"
+    style={{ 
+        width: "100%",
+        overflow: "hidden",
+        background: "#efefef",
+        borderRadius: "10px"
+    }}
+    sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/za/album/harrys-house/1615584999">
+</iframe>
 
 Dit het glad nie lank gevat vir die wêreld om op hierdie een liedjie verlief te raak nie, maar dit was net die begin.
 
@@ -37,3 +51,7 @@ Die betekenis agter Styles se lirieke hou moontlik verband met sy vorige rol in 
 Styles se aanhangers sal seker van mening verskil as hulle _Harry’s House_ met sy vorige albums sou moet vergelyk. _Harry’s House_ bou op _Harry Styles_ en _Fine Line_, maar het definitief groot musikale impak in sy eie reg.
 
 _Harry’s House_ is nou op stroomplatforms beskikbaar. Gaan luister as jy ’n aanhanger is, of net lus is vir ’n pragtige versameling liedjies wat jy by enige geleentheid kan geniet!
+
+[Apple Music](https://music.apple.com/za/album/harrys-house/1615584999) |
+[Spotify](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h?si=zZFGU-bhS5u2Z204zvZWLw) |
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mu3voG4KzkhRlc7eIWpkOieVW-I5GFMKs&feature=share)
