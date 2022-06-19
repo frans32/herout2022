@@ -27,12 +27,6 @@ function MyApp({ Component, pageProps }) {
           href="https://fonts.gstatic.com"
           crossOrigin="true"
         />
-
-        <script
-          defer
-          src="https://static.cloudflareinsights.com/beacon.min.js"
-          data-cf-beacon='{"token": "7d58bcb74d7145f291500018a5fab232"}'
-        ></script>
       </Head>
       <Component {...pageProps} />
     </>
