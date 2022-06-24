@@ -27,8 +27,12 @@ function MyApp({ Component, pageProps }) {
           href="https://fonts.gstatic.com"
           crossOrigin="true"
         />
-    
-        <script async data-domain="herout.co.za" src="https://stats.herout.co.za/js/plausible.js"></script>
+
+        <script
+          async
+          data-domain="herout.co.za"
+          src="https://herout.co.za/js/plausible.js"
+        ></script>
       </Head>
       <Component {...pageProps} />
     </>
