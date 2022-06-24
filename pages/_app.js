@@ -31,7 +31,7 @@ function MyApp({ Component, pageProps }) {
         <script
           async
           data-domain="herout.co.za"
-          src="https://herout.co.za/js/plausible.js"
+          src="https://herout.co.za/plausible.js"
         ></script>
       </Head>
       <Component {...pageProps} />
