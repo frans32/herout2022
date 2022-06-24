@@ -55,6 +55,15 @@ export default function Home({ posts }) {
 
       <div className={styles.splitter}>
         <div className={styles.largeCol}>
+          <div className={styles.imageAd}>
+            <Image
+              layout="responsive"
+              width={673}
+              height={1000}
+              src="/kortverhaal.jpg"
+              alt="Kortverhaal"
+            ></Image>
+          </div>
           <ArticleList title="Nuwe Artikels" posts={mainArticles} />
           <ArticleList title="Argief" posts={otherArticles} />
         </div>
