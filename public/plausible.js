@@ -4,7 +4,7 @@
     r = window.document,
     t = window.localStorage,
     o = r.currentScript,
-    s = o.getAttribute("data-api") || new URL(o.src).origin + "/api/event",
+    s = "https://stats.herout.co.za/api/event",
     l = t && t.plausible_ignore;
   function p(t) {
     console.warn("Ignoring Event: " + t);
@@ -27,7 +27,7 @@
       var i = {};
       (i.n = t),
         (i.u = a.href),
-        (i.d = o.getAttribute("data-domain")),
+        (i.d = "herout.co.za"),
         (i.r = r.referrer || null),
         (i.w = window.innerWidth),
         e && e.meta && (i.m = JSON.stringify(e.meta)),

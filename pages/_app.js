@@ -28,11 +28,7 @@ function MyApp({ Component, pageProps }) {
           crossOrigin="true"
         />
 
-        <script
-          async
-          data-domain="herout.co.za"
-          src="https://herout.co.za/plausible.js"
-        ></script>
+        <script defer src="https://herout.co.za/plausible.js"></script>
       </Head>
       <Component {...pageProps} />
     </>
