@@ -1,5 +1,5 @@
 User-agent: Googlebot-Image
-Disallow: *
+Disallow: _next/*
 
 User-agent: *
 Allow: *
