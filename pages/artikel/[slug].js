@@ -38,6 +38,11 @@ export default function Post({ matter, source }) {
       <Header />
       <section className={styles.article_info}>
         <h1 dangerouslySetInnerHTML={{ __html: matter.title }}></h1>
+        {matter.subtitle ? (
+          <h2 dangerouslySetInnerHTML={{ __html: matter.subtitle }}></h2>
+        ) : (
+          <></>
+        )}
         <small>{matter.author}</small>
       </section>
       <section>

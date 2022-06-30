@@ -10,6 +10,12 @@
   margin: 1em 0 0.5em;
 }
 
+.article_info h2 {
+  font: 500 1.5em "Outfit";
+  margin: 0 0 1em 0;
+  color: #555;
+}
+
 .article_info small {
   display: block;
   color: #444;
