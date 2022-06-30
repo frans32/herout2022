@@ -10,6 +10,8 @@ published: false
 primary_color: "#efefef"
 ---
 
+<span style={{color: "#ffab1c"}}>★★★★★</span>
+
 Die sesde en finale reeks van _Peaky Blinders_ is op 10 Junie 2022 op _Netflix_ vrygestel. Die nuwe reeks begin met dieselfde spannende noot waarop die vorige reeks afgesluit het en sal jou senuweeagtig die mees onlangse ses episodes laat verorber.
 
 Verwag ’n storm. In _Peaky Blinders_ se nuwe reeks konfronteer bendeleier, Thomas Shelby, weer sy demone terwyl hy sy magsposisie in pre-tweede wêreldoorlog-Birmingam teen menige vyand probeer verdedig. Hierdie keer raak dinge gevaarliker en is alles weer vir Thomas Shelby op die spel terwyl hy met sy mededingers, asook innerlike morele wroegings, moet stoei.
