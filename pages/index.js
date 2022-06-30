@@ -34,12 +34,14 @@ export const getStaticProps = async () => {
 };
 
 let mainArticleSlugs = [
-  "i-harry-s-house-i-bring-intieme-lirieke-met-goedvoel-klank-tuis",
-  "die-ware-antwoord-meer-wiele-of-deure",
-  "geselsie-met-kamer-13-se-koningin-juffrou-carstens",
+  "on-a-gathering-storm-peaky-blinders-is-terug",
+  "is-dit-die-moeite-werd-om-n-nuwe-taal-te-leer",
+  "i-stranger-things-4-i-lei-kykers-dieper-deur-die-i-upside-down-i",
+  "hoor-jy-die-kosmosse-fluister",
 ];
 
-let heroArticleSlug = "die-stokperdjie-verg-rots-moed";
+let heroArticleSlug =
+  "pessimisme-vs-optimisme-watter-houding-het-die-punt-beet";
 
 export default function Home({ posts }) {
   let mainArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
@@ -55,6 +57,7 @@ export default function Home({ posts }) {
 
       <div className={styles.splitter}>
         <div className={styles.largeCol}>
+          <ArticleList title="Nuwe Artikels" posts={mainArticles} />
           <div className={styles.imageAd}>
             <Image
               layout="responsive"
@@ -64,7 +67,6 @@ export default function Home({ posts }) {
               alt="Kortverhaal"
             ></Image>
           </div>
-          <ArticleList title="Nuwe Artikels" posts={mainArticles} />
           <ArticleList title="Argief" posts={otherArticles} />
         </div>
         <Wapen />
