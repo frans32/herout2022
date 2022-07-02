@@ -2,6 +2,18 @@
 label: Tuisblad
 hide_body: true
 fields:
+- name: mainArticle
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: artikels
+      file: 
+      path: 
+  label: Hoof Artikel
 - name: newArticles
   type: list
   config:
