@@ -13,7 +13,7 @@ export default function ArticleList({ posts, title }) {
             <Link href={"/artikel/" + i.slug}>
               <a className={styles.article}>
                 <div className={styles.articleImage}>
-                  <Image src={i.image} sizes="300px" layout="fill" alt="" />
+                  <Image src={i.image} sizes="84px" layout="fill" alt="" />
                 </div>
                 <div className={styles.articleInfo}>
                   <h3 dangerouslySetInnerHTML={{ __html: i.title }} />
