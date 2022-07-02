@@ -11,11 +11,11 @@ import Wapen from "../components/Wapen";
 import MainArticle from "../components/MainArticle";
 
 export const getStaticProps = async () => {
-  const files = fs.readdirSync(path.join("content"));
+  const files = fs.readdirSync(path.join("content/artikels"));
 
   const posts = files.map((filename) => {
     const markdownWithMeta = fs.readFileSync(
-      path.join("content", filename),
+      path.join("content/artikels", filename),
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);

@@ -13,7 +13,7 @@ import path from "path";
 
 export const getStaticProps = async ({ params }) => {
   const markdownWithMeta = fs.readFileSync(
-    path.join("content", params.slug + ".md"),
+    path.join("content/artikels", params.slug + ".md"),
     "utf-8"
   );
   const { data, content } = Matter(markdownWithMeta);
@@ -23,7 +23,7 @@ export const getStaticProps = async ({ params }) => {
 };
 
 export function getStaticPaths() {
-  const files = fs.readdirSync(path.join("content"));
+  const files = fs.readdirSync(path.join("content/artikels"));
 
   const posts = files.map((filename) => {
     return "/artikel/" + filename.slice(0, filename.length - 3);
