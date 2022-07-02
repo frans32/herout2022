@@ -2,14 +2,13 @@
 image_width: 4752
 image_height: 3168
 title: Van kraletjies op ’n tou tot iets wat almal in hul sak ronddra
-subtitle: ''
+subtitle: ""
 author: Eileen Jeanette Vermeulen
 image_credit: Emma Olivier
 image: "/images/sakrekenaar.JPG"
 published: true
-primary_color: "#efefef"
-
 ---
+
 Sakrekenaars - ’n wiskundeboffin se beste maat en een van die beste ontdekkings wat gemaak is om in vandag se tyd mense nog steeds te help. Dit is iets wat selfs die briljantste wiskundiges nodig kry.
 
 Die abakus (’n houtraam met krale wat ’n mens op draad kan rondgly om somme te maak) is volgens die Rekenaareskiedenismuseum een van die eerste hulpmiddels vir sommemaak wat vandag nog gebruik word. Dit was die vroegste “sakrekenaar”.

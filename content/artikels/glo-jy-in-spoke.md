@@ -2,14 +2,13 @@
 image_width: 846
 image_height: 720
 title: Glo jy in spoke?
-subtitle: ''
+subtitle: ""
 author: Chantelle van Wyk
 image_credit: Cara Fourie
 image: "/images/spoke.jpg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 Suid-Afrika het geen tekort aan spookstories nie. Van dwaalgeeste in die Karoo tot vreemde gedaantes wat hotelle teister, is daar altyd ’n verhaal of twee. Die meeste mense sal stry oor die betroubaarheid van die vergesogte verhale, maar dalk bevat dit ’n tikkie waarheid?
 
 Drie mans genaamd Lutterodt, Seurrier van Conradersfontein en Anthony de Heer het gedurende November 1887 vanaf Ceres tot Beaufort-Wes gereis. Diep in die spokeveld gedurende ’n donker Karoo-nag is die stilte deur die geraas van ’n ossewa verbreek, alhoewel die drie alleen op die pad was. Skielik sien hulle veertien osse met leë oogkasse wat padlangs struikel, terwyl hul besete drywer vervaard die leisels vasklou. Verstrooid vra Lutterrodt waarheen hy op pad is. Die man skree in ’n hees stem: “Hel toe! Hel toe!”

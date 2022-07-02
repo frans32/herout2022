@@ -7,7 +7,6 @@ author: Misha Coetzee
 image_credit: Emma Olivier
 image: "/images/not-like-other-girls.JPG"
 published: true
-primary_color: "#efefef"
 ---
 
 Die _not like other girls_-verskynsel is een wat orals in vandag se media, alledaagse lewe en selfs _memes_ gesien kan word. Dit is ’n misoginistiese denkwyse (ander gewone vroue word gehaat) waar die individu haarself definieer as “uniek”, omdat sy nie van stereotipies vroulike aktiwiteite en kenmerke hou nie.

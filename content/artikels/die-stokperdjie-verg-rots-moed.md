@@ -2,14 +2,13 @@
 image_width: 1043
 image_height: 626
 title: Dié stokperdjie verg rots-moed
-subtitle: ''
+subtitle: ""
 author: Noa du Plessis
 image_credit: CityROCK
 image: "/images/stokperdjie.jpg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 Almal het een of ander passie, belangstelling of stokperdjie - of dit nou teken, lees of tennis, opwindend, kalmerend of dalk gevaarlik is.
 
 Mia Ferreira, graadagt in DF, hou haarself met ’n opwindende en, toegegee, effense gevaarlike stokperdjie besig: rotsklim.

@@ -7,7 +7,6 @@ author: Lise Keyser
 image_credit: "Yana Mans"
 image: "/images/onderwysers.jpg"
 published: false
-primary_color: "#efefef"
 ---
 
 ’n Hele paar nuwe onderwysers het in 2022 by die DF-familie aangesluit. Ek het die geleentheid gekry om met twee van die nuwe onderwysers, me. Carina Barratt en meneer Lourens Bergh, onderhoude te voer.

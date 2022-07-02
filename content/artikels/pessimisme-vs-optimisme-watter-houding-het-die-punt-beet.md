@@ -1,15 +1,14 @@
 ---
 image_width: 4752
 image_height: 3168
-title: 'Pessimisme vs optimisme: watter houding het die punt beet?'
-subtitle: ''
+title: "Pessimisme vs optimisme: watter houding het die punt beet?"
+subtitle: ""
 author: Chanzel Hammond
 image_credit: Emma Olivier
 image: "/images/optimisme.jpeg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 Maak nie saak of jy Elon Musk of ‘n leerder op skool is nie - elkeen van ons het al teleurstelling ervaar. Dalk het jou broer daardie laaste stuk pizza verorber voor jy daarby kon uitkom. Dalk het jou kwartaalpunt nie jou verwagting bereik nie.
 
 Die wêreld stel teleur.

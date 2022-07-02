@@ -2,14 +2,13 @@
 image_width: 1960
 image_height: 3242
 title: Die mensdom ’n ontdekkingreis van verskeidenheid
-subtitle: ''
+subtitle: ""
 author: Janike Smith
 image_credit: Anri Brand
 image: "/images/ontdek2.jpg"
 published: true
-primary_color: "#bd8d5e"
-
 ---
+
 Wie is jy? Hoe stel jy jouself aan mense voor?
 
 Elke mens is uniek. Dit weet ons almal. Daar is soveel fasette van ons menswees. Kom leer meer oor ons mense en ontdek net hoe divers ons almal is en wat ’n mens maak.

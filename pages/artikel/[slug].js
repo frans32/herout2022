@@ -47,7 +47,7 @@ export default function Post({ matter, source }) {
       </section>
       <section>
         <div className={styles.main_image}>
-          <div style={{ background: matter.primary_color }}>
+          <div style={{ background: "#efefef" }}>
             <Image
               src={matter.image}
               width={matter.image_width}

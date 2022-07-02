@@ -1,15 +1,14 @@
 ---
 image_width: 3844
 image_height: 2882
-title: 'My mening: mondelinge moet afgeskaf word (en hier is die alternatief)'
-subtitle: ''
+title: "My mening: mondelinge moet afgeskaf word (en hier is die alternatief)"
+subtitle: ""
 author: Jana Burger
 image_credit: Yana Mans
 image: "/images/mondelinge.jpg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 Een manier om ’n hele klas angstig te maak, is om vir hulle te sê dat hulle die volgende week ’n mondeling het. Dit is baie kinders se grootste nagmerrie en ’n bron van stres.
 
 Daarom maak dit tog sin dat ons mondelinge met ’n alternatief vervang wat vir jou meer vaardighede sal aanleer as die mondeling wat jou ure neem om te skryf en memoriseer. In plaas daarvan om kinders te dwing om ’n vierminuut-lange toespraak met ’n netjiese plakkaat of _powerpoint_ te lewer, sal hulle meer daarby baat om die vaardighede van debattering aan te leer.

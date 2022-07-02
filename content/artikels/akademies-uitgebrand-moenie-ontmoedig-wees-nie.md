@@ -7,7 +7,6 @@ author: Kyla van der Riel
 image_credit: Bianca Stander
 image: "/images/uitbrand.jpg"
 published: true
-primary_color: "#625754"
 ---
 
 Voel jy verstandelik of emosioneel uitgeput?

@@ -2,14 +2,13 @@
 image_width: 3024
 image_height: 4032
 title: Ontspanning - steeds moontlik in ‘n eeu van produktiwiteit?
-subtitle: ''
+subtitle: ""
 author: Kaylin Grobler
 image_credit: Aimee Hough
 image: "/images/ontspanning.jpg"
 published: true
-primary_color: "#aea09a"
-
 ---
+
 Rus - die opsetlike neerlê van werk en die doelbewuste toestand van verfrissing en herstel. Klink dít nou nie heerlik nie?
 
 Rus verryk ons lewenskwaliteit. Dit beïnvloed elke aspek van ons lewe, van fisiese instaatstelling en intellektuele bewussyn, tot emosionele stabiliteit en geestelike sekuriteit. Die gejaag van die wêreld maak dit egter moeilik om stil te raak en tyd te maak om te rus. Die gebrek aan ontspanning kan gevaarlik wees. Dit maak ons kwesbaar vir emosionele, intellektuele, fisiese, en geestelike aanvalle.

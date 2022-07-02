@@ -2,14 +2,13 @@
 image_width: 1045
 image_height: 521
 title: "<i>Stranger Things 4</i> lei kykers dieper deur die <i>Upside Down</i>"
-subtitle: ''
+subtitle: ""
 author: Emma Olivier
 image_credit: Netflix
 image: "/images/strangerthings1.jpg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 <span style={{color: "#ffab1c"}}>★★★★</span>
 
 Op 27 Mei het _Netflix_ die eerste sewe episodes van die gewilde _Stranger Things_ se vierde reeks vrygestel. Die _Herout_ het slegs positiewe dinge oor hierdie innoverende nuwe hoofstuk van die Duffer-broers (skrywers en regisseurs) se meesterstuk te sê.

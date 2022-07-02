@@ -7,7 +7,6 @@ author: Eileen Vermeulen
 image_credit: Lionsgate Films
 image: "/images/i-still-believe.jpg"
 published: true
-primary_color: "#f08981"
 ---
 
 <span style={{color: "#ffab1c"}}>★★★★</span>

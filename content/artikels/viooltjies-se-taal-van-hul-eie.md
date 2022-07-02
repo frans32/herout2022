@@ -7,7 +7,6 @@ author: Hannah de Wet
 image_credit: Emma Olivier
 image: "/images/viooltjies.JPG"
 published: true
-primary_color: "#efefef"
 ---
 
 Tydens die Victoriaanse era (1837-1901) het ’n diverse taal vanuit mense se liefde vir blomme ontwikkel.

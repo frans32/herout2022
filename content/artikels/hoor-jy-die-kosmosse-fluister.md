@@ -2,14 +2,13 @@
 image_width: 4752
 image_height: 3168
 title: Hoor jy die kosmosse fluister?
-subtitle: ''
+subtitle: ""
 author: Hannah de Wet
 image_credit: Emma Olivier
 image: "/images/blom.jpeg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 ’n Veld vol kosmosse laat my altyd aan feetjies en sprokiesverhale dink - ’n Betowerende beeld wat ’n mens se oë vasgryp.
 
 Perfekte blomme wat tot 180 sentimeter hoog kan groei met kragtige, kleurvolle gesiggies - hierdie fraai blomme blom twee keer in ’n jaar, in Maart en November.

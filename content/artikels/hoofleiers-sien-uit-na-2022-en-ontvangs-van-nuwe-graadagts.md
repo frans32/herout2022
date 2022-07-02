@@ -7,7 +7,6 @@ author: Leandri Odendal
 image_credit: Hoërskool DF Malan
 image: "/images/hoofleiers.jpg"
 published: true
-primary_color: "#2f251a"
 ---
 
 Ons begin die nuwe skooljaar met ’n gesprek met Tala Wiese en Henry Bothwell, DF-hoofleiers van 2022. Hulle deel hul doelwitte en ’n spesiale boodskap aan hul mede-Dee-Effers.

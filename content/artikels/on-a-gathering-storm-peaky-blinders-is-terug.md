@@ -7,7 +7,6 @@ author: Emma Olivier
 image_credit: Netflix
 image: "/images/peakyblinders.jpeg"
 published: false
-primary_color: "#efefef"
 ---
 
 <span style={{color: "#ffab1c"}}>★★★★★</span>

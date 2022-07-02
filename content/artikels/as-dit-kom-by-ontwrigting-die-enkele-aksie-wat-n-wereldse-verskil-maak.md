@@ -7,7 +7,6 @@ author: Janike Smith
 image_credit: Illustrasie deur Alexa Wium
 image: "/images/ontwrig.jpg"
 published: true
-primary_color: "#c1b2b1"
 ---
 
 In die tye van die Covid-19-pandemie het baie van ons ervaar wat die woord _ontwrig_ beteken. Kortliks: ’n gebeurtenis wat jou lewe verander - gewoonlik op ’n negatiewe manier.

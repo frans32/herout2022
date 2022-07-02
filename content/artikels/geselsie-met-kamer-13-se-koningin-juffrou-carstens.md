@@ -2,14 +2,13 @@
 image_width: 1842
 image_height: 2666
 title: Geselsie met Kamer 13 se koningin, Juffrou Carstens
-subtitle: ''
+subtitle: ""
 author: Leanri Pretorius
 image_credit: Yana Mans
 image: "/images/juf-carstens.jpg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 Mense glo die nommer 13 kan net teëspoed bring, maar as jy in DF se kamer 13 instap, is voorspoed wat jy kan verwag.
 
 Me. Carstens is uiters georganiseerd en sy is net so lief vir skoolgee as wat sy is vir tuinmaak. Dié formidabele ouma van twee is nie net ’n Engels-onderwyseres nie, maar sy het ook haar Honeursgraad in Afrikaans-Nederlands en B.Ed-Onderwysgraad voltooi. Boonop het sy op die ouderdom van 25 (x2) haar Meestersgraad in Onderwys begin. Sy beskryf haar onderwys-reis: “Die hardste wat ek al ooit in my hele lewe gewerk het.”

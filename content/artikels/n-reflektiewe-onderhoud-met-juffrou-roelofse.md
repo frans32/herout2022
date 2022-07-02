@@ -2,14 +2,13 @@
 image_width: 1400
 image_height: 2100
 title: "’n Reflektiewe onderhoud met juffrou Roelofse"
-subtitle: ''
+subtitle: ""
 author: Nienke de Vaal
 image_credit: Hoërskool DF Malan
 image: "/images/juf-roelofse.JPG"
 published: false
-primary_color: "#efefef"
-
 ---
+
 29 April 2022 was ongelukkig juffrou Susan Roelofse se laaste dag by DF. Ek het die voorreg gehad om ’n refleksie-onderhoud met haar oor haar tyd by DF te voer.
 
 **Wanneer het juffrou by DF aangesluit?**
@@ -76,7 +75,7 @@ _Eerstens, dat ek omgee en dat ek my beste vir hulle gegee het. Dat ek ook tegem
 
 _Ek gaan beslis die kinders en die mense die meeste mis! Daardie gang van die jaar waar die nuwe kinders kom - wie is die nuwe kinders? Jy ontmoet elke keer \`n nuwe klomp mense._
 
-_Ja, daar is spanning in die stryd om mekaar te leer ken, verstaan en om as ’n klas te “_gel_”, maar dan is dit ook bevredigend hoe mense nader aan mekaar beweeg en mekaar leer vertrou en om in mekaar se harte te klim._
+_Ja, daar is spanning in die stryd om mekaar te leer ken, verstaan en om as ’n klas te “\_gel_”, maar dan is dit ook bevredigend hoe mense nader aan mekaar beweeg en mekaar leer vertrou en om in mekaar se harte te klim.\_
 
 _Hoe jy ’n verskil kan maak._
 

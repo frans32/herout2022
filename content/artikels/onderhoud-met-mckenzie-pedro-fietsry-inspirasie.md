@@ -2,14 +2,13 @@
 image_width: 1398
 image_height: 2100
 title: Onderhoud met McKenzie Pedro, fietsry-inspirasie
-subtitle: ''
+subtitle: ""
 author: Liza Theron
 image_credit: Bianca Stander
 image: "/images/mckenzie.jpg"
 published: false
-primary_color: "#efefef"
-
 ---
+
 McKenzie Pedro is DF se eie sportster! Fietsry is deel van wie sy is. Nadat sy onoorwonne by die _South African National Track Championship_ weggeloop het, hou sy net aan inspireer.
 
 McKenzie ry al fiets vandat sy tien jaar oud is. Haar passie het egter tydens die grendeltydperk vlamgevat toe sy ’n oefenprogram vir fietsry begin volg het. Sy kompeteer al vir ’n jaar en half en het binne ’n aansienlike kort tydperk die titel as kampioen verower.

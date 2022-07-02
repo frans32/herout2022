@@ -7,7 +7,6 @@ author: Erica Chen
 image_credit: Verskaf deur die Hoërskool DF Malan
 image: "/images/visser.jpg"
 published: true
-primary_color: "#745e57"
 ---
 
 Meneer Gert Visser is een van die onderwysers wat die langste by DF skool betrokke is. In ’n eksklusiewe _Herout_-onderhoud, leer ek dat hy eintlik baie vriendelik is wanneer jy met hom gesels. Al glimlag hy nie veel nie en gebruik woorde wat amper nie meer in woordeboeke bestaan nie, is daar nie te veel redes om hom te vrees nie.

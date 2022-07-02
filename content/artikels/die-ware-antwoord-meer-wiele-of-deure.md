@@ -7,7 +7,6 @@ author: Eileen Jeanette Vermeulen
 image_credit: Emma Snyman
 image: "/images/deure.jpeg"
 published: false
-primary_color: "#efefef"
 ---
 
 Is daar meer wiele of deure?

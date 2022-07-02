@@ -2,14 +2,13 @@
 image_width: 420
 image_height: 520
 title: "’n Gesprek met ontwerpers van die toekoms"
-subtitle: ''
+subtitle: ""
 author: Chané Smith
-image_credit: 'Instagram: @denise_ontwerp'
+image_credit: "Instagram: @denise_ontwerp"
 image: "/images/ontwerp-1.JPG"
 published: false
-primary_color: "#efefef"
-
 ---
+
 Onderhoude met Denise Rose (’n leerder wat ontwerp by DF neem) en Nadia van Zyl (’n leerder wat juweliersontwerp by Tygerberg Kunssentrum neem) gee ons ’n dieper kyk in die studie van ontwerp.
 
 **Hoekom het jy gekies om ontwerp te neem?**
@@ -20,7 +19,7 @@ Nadia: _Ek het juweliersontwerp gekies, want dit bied meer vaardighede met ander
 
 **Watter tipe dinge leer julle in ontwerp?**
 
-Denise: _In ons teorie leer ons oor ontwerpgeskiedenis en verskeie stylbewegings wat ’n impak op die samelewing gehad het. Ons leer byvoorbeeld oor die industriële revolusie en die Victoriaanse tydperk. In ons praktiese werk leer ons hoe om take te beplan en ons leer nuwe vaardighede, byvoorbeeld_ lino cutting_, die maak van klere en binnenshuise ontwerp, aan._
+Denise: _In ons teorie leer ons oor ontwerpgeskiedenis en verskeie stylbewegings wat ’n impak op die samelewing gehad het. Ons leer byvoorbeeld oor die industriële revolusie en die Victoriaanse tydperk. In ons praktiese werk leer ons hoe om take te beplan en ons leer nuwe vaardighede, byvoorbeeld_ lino cutting*, die maak van klere en binnenshuise ontwerp, aan.*
 
 Nadia: _Ons leer oor ’n paar bekende ontwerpers en basiese ontwerpsbeginsels, wat help met ons praktiese take en hoe om die ontwerpe te vorm. Verder leer ons ook oor kunselemente. Ons bestudeer verskillende nuwe tegnieke vir juweliersontwerp en ons tekeninge moet presies soos ons eindprodukte lyk. Ons leer ook vaardighede met masjienerie soos om met ’n_ pressdrill _te werk, te boor, te soldeer en te saag._
 

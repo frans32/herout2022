@@ -2,14 +2,13 @@
 image_width: 5184
 image_height: 3456
 title: Wenke vir die ontkiem van vriendskap in ’n sosiale media-wêreld
-subtitle: ''
+subtitle: ""
 author: Kaylin Grobler
 image_credit: Cara Louw
 image: "/images/ontkiem.jpg"
 published: true
-primary_color: "#606464"
-
 ---
+
 Almal het gesonde verhoudings nodig. Dit dra by tot ’n langer lewe en gesonde gewoontes. Dit produseer hormone en chemikalieë in ons breine soos dopamien (laat jou goed voel), serotonien en oksitosien.
 
 Vandag se wêrelduitkyk maak dit vir ons moeilik om waardevolle verhoudings en vriendskappe te onderhou.
@@ -24,7 +23,7 @@ Die basis van die driehoek bestaan uit positiwiteit. Dit is wat ons na die ander
 
 Die tweede element van die driehoek is volhoubaarheid. Vir ’n vaste verhouding om te ontstaan, is dit belangrik dat daar ’n gereelde interaksie (veral aan die begin van ’n vriendskap) is.
 
-Kwesbaarheid sluit hierdie driehoek af. In ’n vriendskap moet albei persone bereid wees om goeie (en slegte) ervaringe, stories en gebeurtenisse te deel. Ons moet oop wees vir die idee om onsself opreg uit te druk en bloot te stel aan die mense wat ons vertrou. 
+Kwesbaarheid sluit hierdie driehoek af. In ’n vriendskap moet albei persone bereid wees om goeie (en slegte) ervaringe, stories en gebeurtenisse te deel. Ons moet oop wees vir die idee om onsself opreg uit te druk en bloot te stel aan die mense wat ons vertrou.
 
 Om ’n vriendskap werklik te laat blom, moet jy in jou kop vasstel dat dit nie net oor jou gaan nie. Ja, jy moet ook voordeel trek uit interaksie; dit is tog nie net een wat tot die verhouding kan bydra nie, maar dit is gesond vir elkeen se fokus om te lê by die ander persoon se behoeftes.
 

@@ -2,14 +2,13 @@
 image_width: 5184
 image_height: 3456
 title: Peusel aan hierdie interessante ontbyt-feite
-subtitle: ''
+subtitle: ""
 author: Janike Smith
 image_credit: Kayla de Freitas
 image: "/images/ontbyt.jpg"
 published: true
-primary_color: "#957f63"
-
 ---
+
 Daar word gesê dat ontbyt die belangrikste maaltyd van die dag is. Alhoewel ontbyt noodsaaklik is, is dit ook ’n baie lekker aanknopingspunt vir gesprekke. Hier volg ’n paar interessante en snaakse feite oor ontbyt.
 
 Eerste indrukke is altyd blywende indrukke. Net so weet ons almal dat ontbyt die eerste-ding-in-die-oggend-ete is. Maar wie het gesê ontbyt is slegs vir die oggende? Baie mense eet selfs spek en eiers vir aandete.

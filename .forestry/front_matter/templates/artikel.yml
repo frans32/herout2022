@@ -2,63 +2,54 @@
 label: Artikel
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
+  - name: author
+    type: text
+    config:
+      required: true
+    label: Author
+    default: ""
+  - name: image_credit
+    type: text
+    config:
+      required: false
+    label: Image Credit
+  - name: image
+    type: file
+    config:
+      maxSize: 40
+    label: foto
+  - name: published
+    type: boolean
+    label: Published
+  - name: image_width
+    type: number
+    description: ""
+    default: 0
     required: true
-  label: Title
-- name: subtitle
-  type: text
-  config:
-    required: false
-  label: Subtitle
-- name: author
-  type: text
-  config:
+    config:
+      min:
+      max:
+      step:
+      required: true
+    label: width - Image
+  - name: image_height
+    type: number
+    description: ""
+    default: 0
     required: true
-  label: Author
-  default: ''
-- name: image_credit
-  type: text
-  config:
-    required: false
-  label: Image Credit
-- name: image
-  type: file
-  config:
-    maxSize: 40
-  label: foto
-- name: published
-  type: boolean
-  label: Published
-- name: image_width
-  type: number
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-    required: true
-  label: width - Image
-- name: image_height
-  type: number
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-    required: true
-  label: height - Image
-- name: primary_color
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Primary color
+    config:
+      min:
+      max:
+      step:
+      required: true
+    label: height - Image

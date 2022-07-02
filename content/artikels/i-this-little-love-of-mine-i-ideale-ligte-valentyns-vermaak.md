@@ -7,7 +7,6 @@ author: Liza Theron
 image_credit: Netflix
 image: "/images/this-little-love-of-mine.jpg"
 published: true
-primary_color: "#f08981"
 ---
 
 <span style={{color: "#ffab1c"}}>★★★</span>

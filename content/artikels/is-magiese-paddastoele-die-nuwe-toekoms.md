@@ -2,14 +2,13 @@
 image_width: 4752
 image_height: 3168
 title: Is magiese paddastoele die nuwe toekoms?
-subtitle: ''
+subtitle: ""
 author: Hannah de Wet
 image_credit: Emma Olivier
 image: "/images/paddastoel.JPG"
 published: false
-primary_color: "#efefef"
-
 ---
+
 _Let daarop dat hierdie artikel nie mediese raad bevat nie en dat dit nie die doel van die artikel is om die gebruik van enige middels aan te beveel nie._
 
 Hoekom is mense so geneig om vreemde sampioene te vermy?

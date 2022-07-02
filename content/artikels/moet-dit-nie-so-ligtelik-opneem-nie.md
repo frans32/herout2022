@@ -2,14 +2,13 @@
 image_width: 1408
 image_height: 1056
 title: Moet dit nie so ligtelik opneem nie
-subtitle: ''
+subtitle: ""
 author: René Theron
 image_credit: Nika Armfield
 image: "/images/ligbesoedeling.jpg"
 published: true
-primary_color: "#efefef"
-
 ---
+
 Die ontdekking van die gloeilamp in 1879 is as een van die merkwaardigste tegnologiese mylpale ooit beskou. Daar is baie voordele aan die beskikbaarheid van lig. Mense se lewens word nie meer onderbreek wanneer dit buite donker word nie.
 
 Maar is daar iets soos te veel lig?

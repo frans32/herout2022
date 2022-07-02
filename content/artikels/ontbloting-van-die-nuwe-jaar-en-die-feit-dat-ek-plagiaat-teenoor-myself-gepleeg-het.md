@@ -9,7 +9,6 @@ author: Emma Olivier
 image_credit: Emma Snyman
 image: "/images/homepage.jpg"
 published: true
-primary_color: "#636a6f"
 ---
 
 Heil die leser
