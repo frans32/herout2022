@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/home.json
   label: Tuisblad
-  match: "**/*"
 - type: directory
   path: content/artikels
   label: Artikels

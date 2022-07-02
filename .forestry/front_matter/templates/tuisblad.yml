@@ -1,4 +1,14 @@
 ---
 label: Tuisblad
 hide_body: true
-fields: []
+fields:
+- name: newArticles
+  type: list
+  config:
+    use_select: true
+    min: 1
+    max: 
+    source:
+      type: pages
+      section: artikels
+  label: Nuwe Artikels
