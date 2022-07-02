@@ -18,7 +18,7 @@ export default function ArticleList({ posts, title }) {
                     sizes="84px"
                     layout="fill"
                     alt=""
-                    quality={50}
+                    quality={65}
                   />
                 </div>
                 <div className={styles.articleInfo}>
