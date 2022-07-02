@@ -15,6 +15,7 @@ export default function MainArticle(props) {
               src={props.article.image}
               width={props.article.image_width}
               height={props.article.image_height}
+              priority
               layout="responsive"
             />
           </div>
