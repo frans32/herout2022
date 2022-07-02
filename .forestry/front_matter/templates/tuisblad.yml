@@ -12,3 +12,5 @@ fields:
       type: pages
       section: artikels
   label: Nuwe Artikels
+pages:
+- content/home.json
