@@ -24,5 +24,10 @@ fields:
       type: pages
       section: artikels
   label: Nuwe Artikels
+- name: advertisement
+  type: file
+  config:
+    maxSize: 64
+  label: Advertensie
 pages:
 - content/home.json
