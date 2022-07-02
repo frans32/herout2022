@@ -10,8 +10,11 @@ import ArticleList from "../components/ArticleList";
 import Wapen from "../components/Wapen";
 import MainArticle from "../components/MainArticle";
 
+import homeConfig from "../content/home.json";
+
 export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content/artikels"));
+  const trimSlug = (slug) => slug.slice(17, slug.length - 3);
 
   const posts = files.map((filename) => {
     const markdownWithMeta = fs.readFileSync(
@@ -26,45 +29,42 @@ export const getStaticProps = async () => {
     };
   });
 
-  return {
-    props: {
-      posts,
-    },
-  };
-};
+  let mainArticleSlugs = homeConfig.newArticles.map((i) => trimSlug(i));
+  let heroArticleSlug = trimSlug(homeConfig.mainArticle);
 
-let mainArticleSlugs = [
-  "on-a-gathering-storm-peaky-blinders-is-terug",
-  "is-dit-die-moeite-werd-om-n-nuwe-taal-te-leer",
-  "i-stranger-things-4-i-lei-kykers-dieper-deur-die-i-upside-down-i",
-  "hoor-jy-die-kosmosse-fluister",
-];
-
-let heroArticleSlug =
-  "pessimisme-vs-optimisme-watter-houding-het-die-punt-beet";
-
-export default function Home({ posts }) {
-  let mainArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
+  let mainArticle = posts.filter((i) => i.slug == heroArticleSlug)[0];
+  let newArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
   let otherArticles = posts.filter(
     (i) => !mainArticleSlugs.includes(i.slug) && i.slug != heroArticleSlug
   );
 
+  return {
+    props: {
+      newArticles,
+      otherArticles,
+      mainArticle,
+      ad: homeConfig.advertisement,
+    },
+  };
+};
+
+export default function Home({ mainArticle, newArticles, otherArticles, ad }) {
   return (
     <>
-      <MainArticle article={posts.filter((i) => i.slug == heroArticleSlug)[0]}>
+      <MainArticle article={mainArticle}>
         <Header />
       </MainArticle>
 
       <div className={styles.splitter}>
         <div className={styles.largeCol}>
-          <ArticleList title="Nuwe Artikels" posts={mainArticles} />
+          <ArticleList title="Nuwe Artikels" posts={newArticles} />
           <div className={styles.imageAd}>
             <Image
               layout="responsive"
               width={673}
               height={1000}
-              src="/kortverhaal.jpg"
-              alt="Kortverhaal"
+              src={ad}
+              alt=""
             ></Image>
           </div>
           <ArticleList title="Argief" posts={otherArticles} />
