@@ -23,12 +23,10 @@ export const getStaticProps = async () => {
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);
-    const imgSize = imageSize(frontMatter.image);
 
     return {
       slug: filename.slice(0, filename.length - 3),
       ...frontMatter,
-      ...imgSize,
     };
   });
 
@@ -40,6 +38,9 @@ export const getStaticProps = async () => {
   let otherArticles = posts.filter(
     (i) => !mainArticleSlugs.includes(i.slug) && i.slug != heroArticleSlug
   );
+
+  const imgSize = await imageSize(mainArticle.image);
+  mainArticle = { ...mainArticle, ...imgSize };
 
   return {
     props: {

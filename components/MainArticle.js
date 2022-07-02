@@ -16,7 +16,7 @@ export default function MainArticle(props) {
               width={props.article.imgWidth}
               height={props.article.imgHeight}
               priority
-              layout="responsive"
+              layout="intrinsic"
             />
           </div>
           <Link href={"/artikel/" + props.article.slug}>
