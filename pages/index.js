@@ -63,6 +63,8 @@ export default function Home({ mainArticle, newArticles, otherArticles, ad }) {
               layout="responsive"
               width={673}
               height={1000}
+              sizes="95vw"
+              quality={50}
               src={ad}
               alt=""
             ></Image>
