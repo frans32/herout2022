@@ -28,3 +28,14 @@ fields:
   config:
     maxSize: 40
   label: foto
+- name: date_published
+  type: datetime
+  label: Date published
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+  hidden: true
