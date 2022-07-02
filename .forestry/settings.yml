@@ -15,7 +15,7 @@ upload_dir: public/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":filename:-:month:-:year:"
 build:
   install_dependencies_command: npm install
   preview_docker_image: forestryio/node:12
