@@ -1,12 +1,9 @@
 ---
-image_width: 4752
-image_height: 3168
 title: Is magiese paddastoele die nuwe toekoms?
 subtitle: ""
 author: Hannah de Wet
 image_credit: Emma Olivier
 image: "/images/paddastoel.JPG"
-published: false
 ---
 
 _Let daarop dat hierdie artikel nie mediese raad bevat nie en dat dit nie die doel van die artikel is om die gebruik van enige middels aan te beveel nie._

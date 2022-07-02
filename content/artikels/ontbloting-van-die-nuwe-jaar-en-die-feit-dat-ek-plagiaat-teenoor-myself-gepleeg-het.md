@@ -1,6 +1,4 @@
 ---
-image_width: 5954
-image_height: 3901
 title:
   Ontbloting van die nuwe jaar en die feit dat ek plagiaat teenoor myself gepleeg
   het
@@ -8,7 +6,6 @@ subtitle: ""
 author: Emma Olivier
 image_credit: Emma Snyman
 image: "/images/homepage.jpg"
-published: true
 ---
 
 Heil die leser

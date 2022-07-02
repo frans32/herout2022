@@ -13,8 +13,8 @@ export default function MainArticle(props) {
           <div className={styles.mainImage}>
             <Image
               src={props.article.image}
-              width={props.article.image_width}
-              height={props.article.image_height}
+              width={props.article.imgWidth}
+              height={props.article.imgHeight}
               priority
               layout="responsive"
             />

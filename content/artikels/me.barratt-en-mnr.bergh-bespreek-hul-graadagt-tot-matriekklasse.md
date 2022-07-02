@@ -1,12 +1,9 @@
 ---
-image_width: 2292
-image_height: 1557
 title: Me. Barratt en mnr. Bergh bespreek hul graadagt- tot matriekklasse
 subtitle: ""
 author: Lise Keyser
 image_credit: "Yana Mans"
 image: "/images/onderwysers.jpg"
-published: false
 ---
 
 ’n Hele paar nuwe onderwysers het in 2022 by die DF-familie aangesluit. Ek het die geleentheid gekry om met twee van die nuwe onderwysers, me. Carina Barratt en meneer Lourens Bergh, onderhoude te voer.

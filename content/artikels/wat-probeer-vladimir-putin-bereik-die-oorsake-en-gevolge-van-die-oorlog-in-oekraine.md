@@ -1,6 +1,4 @@
 ---
-image_width: 5618
-image_height: 3746
 title:
   Wat probeer Vladimir Putin bereik? Die oorsake en gevolge van die oorlog in
   Oekraïne
@@ -8,7 +6,6 @@ subtitle: ""
 author: Leah Coetzee
 image_credit: Emma Snyman
 image: "/images/oorlog.jpg"
-published: false
 ---
 
 Vladimir Putin, President van Rusland, het die vrede in Europa verpletter toe hy Russiese troepe gestuur het om Oekraïne op die 24ste Februarie 2022 binne te val.

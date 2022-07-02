@@ -1,12 +1,9 @@
 ---
-image_width: 1960
-image_height: 3242
 title: Die mensdom ’n ontdekkingreis van verskeidenheid
 subtitle: ""
 author: Janike Smith
 image_credit: Anri Brand
 image: "/images/ontdek2.jpg"
-published: true
 ---
 
 Wie is jy? Hoe stel jy jouself aan mense voor?

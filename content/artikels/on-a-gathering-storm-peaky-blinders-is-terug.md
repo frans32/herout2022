@@ -1,12 +1,9 @@
 ---
-image_width: 2000
-image_height: 1270
 title: "<i>On a gathering storm: Peaky Blinders</i> is terug"
 subtitle: Sesde en finale reeks nogmaals met aksie belaai
 author: Emma Olivier
 image_credit: Netflix
 image: "/images/peakyblinders.jpeg"
-published: false
 ---
 
 <span style={{color: "#ffab1c"}}>★★★★★</span>

@@ -1,12 +1,9 @@
 ---
-image_width: 1045
-image_height: 521
 title: "<i>Stranger Things 4</i> lei kykers dieper deur die <i>Upside Down</i>"
 subtitle: ""
 author: Emma Olivier
 image_credit: Netflix
 image: "/images/strangerthings1.jpg"
-published: false
 ---
 
 <span style={{color: "#ffab1c"}}>★★★★</span>

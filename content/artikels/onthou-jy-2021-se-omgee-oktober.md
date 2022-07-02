@@ -1,12 +1,9 @@
 ---
-image_width: 5147
-image_height: 3413
 title: Onthou jy 2021 se Omgee-Oktober?
 subtitle: ""
 author: Leah Coetzee
 image_credit: Cara Louw
 image: "/images/omgee.jpg"
-published: true
 ---
 
 Stap by enige klas in en vra ’n Dee-Effer om ‘n oomblik te noem waarvoor DF omgee. Ek is seker jy sal meer as net een antwoord kry. Met ’n splinternuwe jaar wat voorlê, kan ons gerus terugkyk na die vorige kwartaal vir 2022-inspirasie.

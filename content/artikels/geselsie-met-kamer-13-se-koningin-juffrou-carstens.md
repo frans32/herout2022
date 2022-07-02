@@ -1,12 +1,9 @@
 ---
-image_width: 1842
-image_height: 2666
 title: Geselsie met Kamer 13 se koningin, Juffrou Carstens
 subtitle: ""
 author: Leanri Pretorius
 image_credit: Yana Mans
 image: "/images/juf-carstens.jpg"
-published: false
 ---
 
 Mense glo die nommer 13 kan net teëspoed bring, maar as jy in DF se kamer 13 instap, is voorspoed wat jy kan verwag.

@@ -1,12 +1,9 @@
 ---
-image_width: 846
-image_height: 720
 title: Glo jy in spoke?
 subtitle: ""
 author: Chantelle van Wyk
 image_credit: Cara Fourie
 image: "/images/spoke.jpg"
-published: false
 ---
 
 Suid-Afrika het geen tekort aan spookstories nie. Van dwaalgeeste in die Karoo tot vreemde gedaantes wat hotelle teister, is daar altyd ’n verhaal of twee. Die meeste mense sal stry oor die betroubaarheid van die vergesogte verhale, maar dalk bevat dit ’n tikkie waarheid?

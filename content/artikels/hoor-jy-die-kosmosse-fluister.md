@@ -1,12 +1,9 @@
 ---
-image_width: 4752
-image_height: 3168
 title: Hoor jy die kosmosse fluister?
 subtitle: ""
 author: Hannah de Wet
 image_credit: Emma Olivier
 image: "/images/blom.jpeg"
-published: false
 ---
 
 ’n Veld vol kosmosse laat my altyd aan feetjies en sprokiesverhale dink - ’n Betowerende beeld wat ’n mens se oë vasgryp.

@@ -1,12 +1,9 @@
 ---
-image_width: 1275
-image_height: 2379
 title: "Die ware antwoord: “meer wiele of deure?”"
 subtitle: ""
 author: Eileen Jeanette Vermeulen
 image_credit: Emma Snyman
 image: "/images/deure.jpeg"
-published: false
 ---
 
 Is daar meer wiele of deure?

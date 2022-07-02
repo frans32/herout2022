@@ -1,12 +1,9 @@
 ---
-image_width: 4752
-image_height: 3128
 title: "Ontduik konflik: verandering  is die enigste konstante"
 subtitle: ""
 author: Leah Coetzee
 image_credit: Emma Olivier
 image: "/images/verandering.jpg"
-published: true
 ---
 
 Die afgelope twee jaar het ons geleer dat verandering onvermydelik is, maar dat dit moontlik is om verandering op effektiewe maniere te verwerk.

@@ -1,12 +1,9 @@
 ---
-image_width: 1600
-image_height: 1200
 title: Tweede oudste werkende lighuis in SA perfek vir naweek-uitstappie
 subtitle: ""
 author: Anika Burger
 image_credit: Anika Burger
 image: "/images/ligtoring.jpg"
-published: false
 ---
 
 Ongeveer 70 jaar gelede is die Kaap Agulhas lighuis op die Suidpunt van Afrika gebou.

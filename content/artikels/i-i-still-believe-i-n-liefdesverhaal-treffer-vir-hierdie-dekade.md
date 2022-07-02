@@ -1,12 +1,9 @@
 ---
-image_width: 1400
-image_height: 1050
 title: "<i>I Still Believe</i>: ’n liefdesverhaal-treffer vir hierdie dekade."
 subtitle: ""
 author: Eileen Vermeulen
 image_credit: Lionsgate Films
 image: "/images/i-still-believe.jpg"
-published: true
 ---
 
 <span style={{color: "#ffab1c"}}>★★★★</span>

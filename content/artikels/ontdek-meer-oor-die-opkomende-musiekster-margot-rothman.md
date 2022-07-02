@@ -1,12 +1,9 @@
 ---
-image_width: 966
-image_height: 525
 title: Ontdek meer oor die opkomende musiekster, Margot Rothman
 subtitle: ""
 author: Emma Olivier
 image_credit: Skermgreep van Tydelike Afleiding-musiekvideo
 image: "/images/margot.jpg"
-published: true
 ---
 
 Ek het die sangeres, Margot Rothman, se sangstem die eerste keer gehoor toe sy Grace VanderWaal se _I Don’t Know My Name_ in DF se 2017-revue gesing het. Ek het hoendervleis gekry. Ek was toe nog nie in DF nie, maar was al klaar beïndruk met die hoeveelheid talent wat ek daardie aand gesien het.

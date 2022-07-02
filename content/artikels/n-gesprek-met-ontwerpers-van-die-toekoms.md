@@ -1,12 +1,9 @@
 ---
-image_width: 420
-image_height: 520
 title: "’n Gesprek met ontwerpers van die toekoms"
 subtitle: ""
 author: Chané Smith
 image_credit: "Instagram: @denise_ontwerp"
 image: "/images/ontwerp-1.JPG"
-published: false
 ---
 
 Onderhoude met Denise Rose (’n leerder wat ontwerp by DF neem) en Nadia van Zyl (’n leerder wat juweliersontwerp by Tygerberg Kunssentrum neem) gee ons ’n dieper kyk in die studie van ontwerp.

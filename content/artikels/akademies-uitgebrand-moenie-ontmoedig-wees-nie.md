@@ -1,12 +1,9 @@
 ---
-image_width: 3280
-image_height: 4928
 title: Akademies uitgebrand? Moenie ontmoedig wees nie
 subtitle: ""
 author: Kyla van der Riel
 image_credit: Bianca Stander
 image: "/images/uitbrand.jpg"
-published: true
 ---
 
 Voel jy verstandelik of emosioneel uitgeput?

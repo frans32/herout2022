@@ -1,12 +1,9 @@
 ---
-image_width: 3024
-image_height: 4032
 title: Ontspanning - steeds moontlik in ‘n eeu van produktiwiteit?
 subtitle: ""
 author: Kaylin Grobler
 image_credit: Aimee Hough
 image: "/images/ontspanning.jpg"
-published: true
 ---
 
 Rus - die opsetlike neerlê van werk en die doelbewuste toestand van verfrissing en herstel. Klink dít nou nie heerlik nie?

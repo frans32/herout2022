@@ -28,28 +28,3 @@ fields:
     config:
       maxSize: 40
     label: foto
-  - name: published
-    type: boolean
-    label: Published
-  - name: image_width
-    type: number
-    description: ""
-    default: 0
-    required: true
-    config:
-      min:
-      max:
-      step:
-      required: true
-    label: width - Image
-  - name: image_height
-    type: number
-    description: ""
-    default: 0
-    required: true
-    config:
-      min:
-      max:
-      step:
-      required: true
-    label: height - Image

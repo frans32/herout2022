@@ -1,12 +1,9 @@
 ---
-image_width: 5184
-image_height: 3456
 title: Wenke vir die ontkiem van vriendskap in ’n sosiale media-wêreld
 subtitle: ""
 author: Kaylin Grobler
 image_credit: Cara Louw
 image: "/images/ontkiem.jpg"
-published: true
 ---
 
 Almal het gesonde verhoudings nodig. Dit dra by tot ’n langer lewe en gesonde gewoontes. Dit produseer hormone en chemikalieë in ons breine soos dopamien (laat jou goed voel), serotonien en oksitosien.

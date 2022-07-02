@@ -1,12 +1,9 @@
 ---
-image_width: 1398
-image_height: 2100
 title: Onderhoud met McKenzie Pedro, fietsry-inspirasie
 subtitle: ""
 author: Liza Theron
 image_credit: Bianca Stander
 image: "/images/mckenzie.jpg"
-published: false
 ---
 
 McKenzie Pedro is DF se eie sportster! Fietsry is deel van wie sy is. Nadat sy onoorwonne by die _South African National Track Championship_ weggeloop het, hou sy net aan inspireer.

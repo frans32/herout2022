@@ -1,12 +1,9 @@
 ---
-image_width: 3825
-image_height: 2800
 title: Is dit die moeite werd om ’n nuwe taal te leer?
 subtitle: ""
 author: Anika Burger
 image_credit: Emma Olivier
 image: "/images/taal.jpeg"
-published: false
 ---
 
 Italiaans? Frans? Japannees? Om ’n nuwe taal aan te leer, klink dalk nie soos die moeite werd nie, aangesien die meeste Dee-Effers alreeds tweetalig is.

@@ -10,6 +10,7 @@ import Header from "../../components/Header";
 
 import fs from "fs";
 import path from "path";
+import imageSize from "../../utils/imageSize";
 
 export const getStaticProps = async ({ params }) => {
   const markdownWithMeta = fs.readFileSync(
@@ -19,7 +20,10 @@ export const getStaticProps = async ({ params }) => {
   const { data, content } = Matter(markdownWithMeta);
   const source = await serialize(content);
 
-  return { props: { source, matter: data } };
+  const imgSize = await imageSize(data.image);
+  const matter = { ...data, ...imgSize };
+
+  return { props: { source, matter } };
 };
 
 export function getStaticPaths() {
@@ -50,8 +54,8 @@ export default function Post({ matter, source }) {
           <div style={{ background: "#efefef" }}>
             <Image
               src={matter.image}
-              width={matter.image_width}
-              height={matter.image_height}
+              width={matter.imgWidth}
+              height={matter.imgHeight}
               layout="responsive"
               priority={true}
               alt=""

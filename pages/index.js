@@ -11,6 +11,7 @@ import Wapen from "../components/Wapen";
 import MainArticle from "../components/MainArticle";
 
 import homeConfig from "../content/home.json";
+import imageSize from "../utils/imageSize";
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content/artikels"));
@@ -22,10 +23,12 @@ export const getStaticProps = async () => {
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);
+    const imgSize = imageSize(frontMatter.image);
 
     return {
       slug: filename.slice(0, filename.length - 3),
       ...frontMatter,
+      ...imgSize,
     };
   });
 

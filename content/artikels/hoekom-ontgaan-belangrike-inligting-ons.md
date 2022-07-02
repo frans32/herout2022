@@ -1,12 +1,9 @@
 ---
-image_width: 1381
-image_height: 1213
 title: Hoekom ontgaan belangrike inligting ons?
 subtitle: ""
 author: Jana Burger
 image_credit: Illustrasie deur Alexa Wium
 image: "/images/ontgaan.jpg"
-published: true
 ---
 
 Daar is vir sommige mense niks erger as om hard vir ’n eksamen te leer en dan tydens die toets nie te onthou wat om te skryf nie. Hierdie scenario is in werklikheid wat baie meer algemeen en normal is as wat ons besef.

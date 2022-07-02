@@ -1,12 +1,9 @@
 ---
-image_width: 1170
-image_height: 875
 title: "<i>Harry’s House</i> bring intieme lirieke met goedvoel-klank tuis"
 subtitle: ""
 author: Lise Keyser
 image_credit: " Columbia Studios"
 image: "/images/harry-styles.jpeg"
-published: false
 ---
 
 Harry Styles het sy musiekberoep in 2010 begin toe hy deel was van _One Direction_, een van die grootste musiekgroepe ter wêreld. Na die groep se onbepaalde hiatus in 2016, het Styles in dieselfde jaar sy solo-loopbaan begin en in 2017 sy debuut-enkelsnit, _Sign of the Times_, vrygestel.

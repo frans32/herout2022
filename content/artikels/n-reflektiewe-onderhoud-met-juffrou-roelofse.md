@@ -1,12 +1,9 @@
 ---
-image_width: 1400
-image_height: 2100
 title: "’n Reflektiewe onderhoud met juffrou Roelofse"
 subtitle: ""
 author: Nienke de Vaal
 image_credit: Hoërskool DF Malan
 image: "/images/juf-roelofse.JPG"
-published: false
 ---
 
 29 April 2022 was ongelukkig juffrou Susan Roelofse se laaste dag by DF. Ek het die voorreg gehad om ’n refleksie-onderhoud met haar oor haar tyd by DF te voer.

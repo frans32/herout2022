@@ -1,12 +1,9 @@
 ---
-image_width: 1600
-image_height: 1200
 title: Die verhaal agter Valentynsdag
 subtitle: ""
 author: Nienke de Vaal
 image_credit: Shianne Brand
 image: "/images/99fc052e-c0ca-46bd-b828-387bf973c8a3.jpeg"
-published: true
 ---
 
 Valentynsdag is ’n dag wat wêreldwyd gevier word. Dit is ’n dag waar geliefdes hulle liefde aan mekaar wys deur geskenke soos hartvormige sjokoladeboksies, blomme en kaartjies vir mekaar uit te deel.
