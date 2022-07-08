@@ -3,6 +3,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import Image from "next/image";
+import Head from "next/head";
 
 import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
@@ -76,6 +77,10 @@ export default function Home({ mainArticle, newArticles, otherArticles, ad }) {
           <ArticleList title="Argief" posts={otherArticles} />
         </div>
         <Wapen />
+            
+        <Head>
+          <title>Die Herout: Die amptelike skoolkoerant van die Hoërskool DF Malan</title>
+        </Head>
       </div>
     </>
   );
