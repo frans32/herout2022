@@ -6,7 +6,6 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>{Component.title || "Die Herout"}</title>
         <meta name="robots" content="noarchive" />
         <meta property="og:site_name" content="Die Herout" />
         <meta
