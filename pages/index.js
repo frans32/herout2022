@@ -77,13 +77,13 @@ export default function Home({ mainArticle, newArticles, otherArticles, ad }) {
           <ArticleList title="Argief" posts={otherArticles} />
         </div>
         <Wapen />
-            
+
         <Head>
-          <title>Die Herout: Die amptelike skoolkoerant van die Hoërskool DF Malan</title>
+          <title>
+            Die Herout: Die amptelike skoolkoerant van die Hoërskool DF Malan
+          </title>
         </Head>
       </div>
     </>
   );
 }
-
-Home.title = "Die Herout 2022";
