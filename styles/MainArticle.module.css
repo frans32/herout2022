@@ -28,7 +28,7 @@
 }
 
 .mainImage > span {
-  display: block;
+  display: block !important;
 }
 
 .author {
