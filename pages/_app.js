@@ -16,11 +16,7 @@ function MyApp({ Component, pageProps }) {
           property="og:description"
           content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
         />
-        <link
-          rel="shortcut icon"
-          type="image/png"
-          href="/favicon/logo192.png"
-        />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/favicon/logo192.png" />
         <link rel="manifest" href="/manifest.json" />
 
