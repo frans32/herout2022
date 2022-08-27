@@ -39,3 +39,5 @@ fields:
     display_utc: false
   default: now
   hidden: true
+pages:
+- content/artikels/herout-en-tala-gesels-passies-en-herinneringe.md
