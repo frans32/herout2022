@@ -24,6 +24,10 @@ export const getStaticProps = async () => {
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);
+    
+    if (frontMatter.date_published){ 
+      frontMatter.date_published = JSON.stringify(frontMatter.date_published);
+    }
 
     return {
       slug: filename.slice(0, filename.length - 3),
