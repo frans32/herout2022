@@ -1,6 +1,6 @@
 ---
 date_published: 2022-08-27T18:35:58+02:00
-title: Doctor Strange in the Multiverse of alles wat verkeerd gegaan het
+title: "<i>Doctor Strange in the Multiverse of</i> alles wat verkeerd gegaan het"
 subtitle: ''
 author: Jana Burger
 image_credit: Marvel Studios
