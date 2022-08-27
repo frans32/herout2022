@@ -4,7 +4,7 @@ title: Wat maak Anne Frank se dagboek so spesiaal?
 subtitle: ''
 author: 'Nienke de Vaal '
 image_credit: Emma Snyman
-image: ''
+image: "/images/anne-frank-08-2022.jpg"
 
 ---
 Anne Frank - een van geskiedenis se bekendste figure in die Tweede Wêreldoorlog. Haar dagboek is wȇreldwyd bekend en gee ons ’n kykie in die lewe van ’n Joodse slagoffer wat die Holocaust ervaar het.
