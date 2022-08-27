@@ -4,7 +4,7 @@ title: Herout en Tala gesels passies en herinneringe
 subtitle: Leer ken ons Dee-Effers! ’n reeks
 author: Leah Coetzee
 image_credit: Lize van Rooyen
-image: ''
+image: "/images/tala-08-2022.jpeg"
 
 ---
 Wie is Tala se grootste inspirasie in die skool? Wat beplan sy om met die res van haar lewe te doen? Wat is haar raad vir oorlewing in die hoërskool? Kom ons leer ken ons hoofmeisie, Tala Wiese!
