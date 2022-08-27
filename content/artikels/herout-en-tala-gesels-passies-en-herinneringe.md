@@ -1,6 +1,6 @@
 ---
 date_published: 2022-08-27T18:19:06+02:00
-title: Herout en Tala gesels passies en herinneringe
+title: "<i>Herout</i> en Tala gesels passies en herinneringe"
 subtitle: Leer ken ons Dee-Effers! ’n reeks
 author: Leah Coetzee
 image_credit: Lize van Rooyen
