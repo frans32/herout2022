@@ -23,6 +23,10 @@ export const getStaticProps = async ({ params }) => {
   const imgSize = await imageSize(data.image);
   const matter = { ...data, ...imgSize };
 
+  if (matter.date_published){ 
+    matter.date_published = JSON.stringify(matter.date_published);
+  }
+  
   return { props: { source, matter } };
 };
 
