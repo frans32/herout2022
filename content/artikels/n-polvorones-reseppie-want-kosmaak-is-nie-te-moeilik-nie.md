@@ -1,10 +1,10 @@
 ---
-date_published: 2022-08-27T19:06:42+02:00
+date_published: 2022-08-27T19:06:42.000+02:00
 title: "'n Polvorones-reseppie, want kosmaak is nie te moeilik nie!"
 subtitle: 'Hierdie tradisionele Spaanse koekie is jou nuwe vinnige soethappie-wenresep '
 author: Melani Rautenbach
 image_credit: ''
-image: ''
+image: "/images/dall-e-2022-08-26-21-28-41-polverones-08-2022.jpg"
 
 ---
 Polvorones is tradisionele Kersfeeskoekies wat meestal in Spanje, Mexiko en die Filippyne geniet word. Dit is bekend vir die soet, botterige smaak wat binne net 20 minute gemaak kan word!
