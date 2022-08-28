@@ -7,7 +7,7 @@ image_credit: Carel Stander
 image: "/images/tienertoneel-12-08-2022.jpg"
 
 ---
-Op 25 en 26 Julie het DF se tienertoneelstuk, geskryf deur Margo Kotze en onder regie van haar en meneer Ian van der Westhuizen (genomineer vir beste regie by die ATKV-tienertoneelkompetisie), gehore in die gesellige _Collective Arts_-teater in Boston vermaak - en weer op 16 Augustus in die ATKV-tienertoneelkompetisie by die Kunstekaapteater geskitter.
+Op 25 en 26 Julie het DF se [tienertoneelstuk](/artikel/i-operasie-kersfees-i-agter-die-skerms "<i>Operasie Kersfees</i> agter die skerms"), geskryf deur Margo Kotze en onder regie van haar en meneer Ian van der Westhuizen (genomineer vir beste regie by die ATKV-tienertoneelkompetisie), gehore in die gesellige _Collective Arts_-teater in Boston vermaak - en weer op 16 Augustus in die ATKV-tienertoneelkompetisie by die Kunstekaapteater geskitter.
 
 Hierdie skreeusnaakse komedie het Kersfees vroeg na gehore gebring: dit is Kersvakansie en Ma wil weg. Sy en Pa bly nie meer saam nie en sy verkies ’n tropiese vakansie bó een met Kersbome en kalkoen. Sussa het ’n plan om die gesin bymekaar te hou, maar sy moet staat maak op die diskresie van haar boetie, Oupa en Ouma, en die buurt… Misverstande, lag-jouself-stukkend-grappe en groot pret volg!
 
