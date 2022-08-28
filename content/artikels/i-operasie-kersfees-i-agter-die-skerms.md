@@ -53,7 +53,7 @@ _Dis ’n moeilike vraag, want al die karakters is pret om te speel. Ek dink elk
 
 _Alles._
 
-_Dit was vir my baie lekker, want dit was ’n ongelooflike, vriendelike, respekvolle en hardwerkende groep leerders met wie ek gewerk het. Dit het die hele proses lekker gemaak. Vir my was van die snaaksste oomblikke elke keer wanneer die drieling inkom, wanneer tannie Karen vir die die eerste keer inkom en vra: “Waar is my_ Tupperware_?!” en dan natuurlik die dans aan die einde._
+_Dit was vir my baie lekker, want dit was ’n ongelooflike, vriendelike, respekvolle en hardwerkende groep leerders met wie ek gewerk het. Dit het die hele proses lekker gemaak. Vir my was van die snaaksste oomblikke elke keer wanneer die drieling inkom, wanneer tannie Karen vir die die eerste keer inkom en vra: “Waar is my_ Tupperware?!” _en dan natuurlik die dans aan die einde._
 
 **Wanneer is die volgende toneelstuk?**
 
