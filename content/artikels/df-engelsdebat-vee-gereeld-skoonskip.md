@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:33:45+02:00
+date_published: 2022-08-27T18:33:45.000+02:00
 title: DF-Engelsdebat vee gereeld skoonskip
 subtitle: Nie almal ken egter die “pad van debat” nie – hier is hoe dit werk
 author: Emily Byleveld
@@ -15,7 +15,7 @@ Wat is _Rotary Debating_? Ongeveer 40 skooldebatspanne, met junior - en senior s
 
 Dit is ’n driefase-kompetisie, waarin ’n span van drie mense elk, hul gegewe onderwerp debatteer. Daar is ’n eerste spreker, wat die debat met ’n treffende inleiding, konteks oor die onderwerp, en twee argumente, moet afskop. Dan volg die tweede spreker, wat die res van die argumente voorstel, en die derde spreker wat _rebuttal_ of _clashes_ gee.
 
-Die _reply speech_ word geskryf, terwyl die res van die sprekers praat. Die eerste spreker of tweede spreker van beide spanne is verantwoordelik vir die skryf en oordra van die _reply speech_. Die hele toespraak word gebruik om die opponerende span se argumente teen te staan en hul eie span se argumente verder te ondersteun. Die _reply-_spreker kan nie voor die tyd vir die debat voorberei nie.
+Die _reply speech_ word geskryf, terwyl die res van die sprekers praat. Die eerste spreker of tweede spreker van beide spanne is verantwoordelik vir die skryf en oordra van die _reply speech_. Die hele toespraak word gebruik om die opponerende span se argumente teen te staan en hul eie span se argumente verder te ondersteun. Die _reply_-spreker kan nie voor die tyd vir die debat voorberei nie.
 
 Die voorsitter sal hulle hande klap of ’n klokkie op gereelde tydsintervalle lui, aangesien elke spreker net ’n sekere aantal minute het om te praat. Nadat elke span klaar gepraat het, word die wenners en die beste sprekers aangekondig. Opbouende kritiek word na die tyd vir elke span gegee.
 
