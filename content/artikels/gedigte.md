@@ -7,10 +7,6 @@ image_credit: ''
 image: "/images/homepage.jpg"
 
 ---
-<video width="960" height="540" autoplay loop controls="false">
-<source src="/images/gedigte-08-2022.mp4" type="video/mp4"/>
-</video>
-
 ### Diep blou see
 
 **Hannah de Wet**
