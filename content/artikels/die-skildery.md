@@ -4,7 +4,7 @@ title: Die skildery
 subtitle: ''
 author: Elmie van Wyngaard
 image_credit: ''
-image: ''
+image: "/images/homepage.jpg"
 
 ---
 Robin skiet met haastige voetstappe by die straat af. Die klank wat deur die straat weergalm, verpletter die oggendkalmte.
