@@ -1,6 +1,6 @@
 ---
 date_published: ! '"2022-08-28"'
-title: "’n Spel van Harte"
+title: "’n Spel van Harte: kortverhaal"
 subtitle: ''
 author: Hannah de Wet
 image_credit: ''
