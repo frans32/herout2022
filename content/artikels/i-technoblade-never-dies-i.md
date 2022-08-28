@@ -3,7 +3,7 @@ date_published: 2022-08-27T18:51:11.000+02:00
 title: "<i>“Technoblade never dies”</i>"
 subtitle: Huldeblyk aan oorlede Minecraft Youtuber
 author: Erica Chen
-image_credit: profielkuns van <i>technoblade</i> se <i>YouTube</i>-kanaal
+image_credit: profielkuns van <i>technoblade</i> se <i>Youtube</i>-kanaal
 image: "/images/technoblade-08-2022.jpg"
 
 ---
