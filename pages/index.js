@@ -35,6 +35,8 @@ export const getStaticProps = async () => {
     };
   });
 
+  posts = posts.filter((i) => i.slug != "gedigte");
+
   let mainArticleSlugs = homeConfig.newArticles.map((i) => trimSlug(i));
   let heroArticleSlug = trimSlug(homeConfig.mainArticle);
 
