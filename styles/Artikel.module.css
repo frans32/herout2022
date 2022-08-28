@@ -49,7 +49,7 @@ main.content {
   font: 18px/1.8 "PT Serif", serif;
   text-align: start;
   margin: 0 auto;
-  padding: 16px 24px;
+  padding: 16px 24px 64px;
   width: 800px;
   max-width: 100%;
 }
