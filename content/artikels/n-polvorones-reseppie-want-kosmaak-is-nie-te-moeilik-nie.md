@@ -9,16 +9,23 @@ image: "/images/dall-e-2022-08-26-21-28-41-polverones-08-2022.jpg"
 ---
 Polvorones is tradisionele Kersfeeskoekies wat meestal in Spanje, Mexiko en die Filippyne geniet word. Dit is bekend vir die soet, botterige smaak wat binne net 20 minute gemaak kan word!
 
-| --- | --- | --- |
-| Bestanddele | Hoeveelhede | Eenheid |
-| Koekmeel | 480 | ml |
-| Koeksoda | 5 | ml |
-| Sout | 5 | ml |
-| Margarien | 240 | ml |
-| Witsuiker | 240 | ml |
-| Vanieljegeursel | 10 | ml |
-| Voedselkleursel | Opsioneel |  |
-| Strooisuiker | Opsioneel |  |
+**Bestanddele** 
+
+480 ml Koekmeel 
+
+5 ml Koeksoda
+
+5ml Sout
+
+240 ml Margarien
+
+240 ml Witsuiker
+
+10 ml Vanieljegeursel
+
+Voedselkleursel (Opsioneel) 
+
+Strooisuiker (Opsioneel)
 
 **Instruksies:**
 
