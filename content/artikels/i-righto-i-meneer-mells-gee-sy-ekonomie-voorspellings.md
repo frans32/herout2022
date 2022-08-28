@@ -31,4 +31,4 @@ _Op hierdie stadium het ons een groep wat onder die top vyf lê, omdat hulle kon
 
 **Hoe sal Meneer toekomstige leerders motiveer om ekonomie as vak te neem?**
 
-_Leerders wat in die ekonomie belangstel, moet dit neem. Dit sal hulle met hul loopbane en studies help. Dit is nie ’n_ Mickey Mouse_-vak nie. Leerders wat ekonomie neem, werk hard. Hulle het geweldige aanvoeling vir die vak en is terselfdetyd vir drie jaar met my opgeskeep - hierdie vak is nie vir enige iemand nie._
+_Leerders wat in die ekonomie belangstel, moet dit neem. Dit sal hulle met hul loopbane en studies help. Dit is nie ’n_ Mickey Mouse-_vak nie. Leerders wat ekonomie neem, werk hard. Hulle het geweldige aanvoeling vir die vak en is terselfdetyd vir drie jaar met my opgeskeep - hierdie vak is nie vir enige iemand nie._
