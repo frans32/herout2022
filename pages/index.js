@@ -18,7 +18,7 @@ export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content/artikels"));
   const trimSlug = (slug) => slug.slice(17, slug.length - 3);
 
-  const posts = files.map((filename) => {
+  let posts = files.map((filename) => {
     const markdownWithMeta = fs.readFileSync(
       path.join("content/artikels", filename),
       "utf-8"
