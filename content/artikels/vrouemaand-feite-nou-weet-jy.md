@@ -4,7 +4,7 @@ title: Vrouemaand-feite – nou weet jy!
 subtitle: ''
 author: Misha Coetzee
 image_credit: ''
-image: ''
+image: "/images/homepage.jpg"
 
 ---
 ...Flaterwater, jou Afrikaansonderwyser se grootste haat, is deur Bette Nesmith Graham, ‘n Amerikaanse tikster, ontwerp.
