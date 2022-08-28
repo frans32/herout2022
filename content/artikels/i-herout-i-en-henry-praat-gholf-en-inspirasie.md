@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:58:27+02:00
+date_published: 2022-08-27T18:58:27.000+02:00
 title: "<i>Herout</i> en Henry praat gholf en inspirasie"
 subtitle: Leer ken ons Dee-Effers!  ’n reeks
 author: Leah Coetzee
@@ -31,9 +31,9 @@ _Ek wil nie iets spesifiek binne vyf jaar klaar of gedoen hê nie. Ek dink ek wi
 
 **Wat is jou grootste passie?**
 
-_Enige sport! Bergfiets, draf, golf, krieket, tennis, hokkie… Ek hou van buite wees. Ek lees ’n klein bietjie. Op die oomblik lees ek_ Around Africa on My Bicycle _en_ Fifty Reasons Why Jesus Came to Die_. Ek lees dit nie baie vinnig nie en ook nie genoeg nie, maar ek lees… Ek moet ook sê, een van my passies is mense. Ek is lief vir mense!_
+_Enige sport! Bergfiets, draf, golf, krieket, tennis, hokkie… Ek hou van buite wees. Ek lees ’n klein bietjie. Op die oomblik lees ek_ Around Africa on My Bicycle _en_ Fifty Reasons Why Jesus Came to Die. _Ek lees dit nie baie vinnig nie en ook nie genoeg nie, maar ek lees… Ek moet ook sê, een van my passies is mense. Ek is lief vir mense!_
 
-**Vinnige Vrae:**
+### Vinnige Vrae
 
 **Gunstelingfliek?**
 
