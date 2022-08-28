@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T19:08:43+02:00
+date_published: 2022-08-27T19:08:43.000+02:00
 title: Vreesaanjaende fondsinsameling spook, maar spartel nie!
 subtitle: DF-spookhuis hou tradisie vol én baat Aksie Omgee
 author: Liza Theron
@@ -21,6 +21,12 @@ Daarna volg die _kraamsaal_ waar die gille seker nog lank by die kinders sal spo
 
 Die _orgaanskenkkamer_ met regte longe, ingewande en ’n hart deur ’n slaghuis verskaf, sou enigiemand se nekhare laat rys.
 
+![](/images/spookhuis-1-08-2022.jpg)
+
+Foto: Cara Louw
+
+***
+
 Volgende stop: _kosmetiese chirurgie_ waar die kinders senuweeagtig in die dokter se spreekkamer moes wag en toe ’n vreesaanjaende vertoning deur Reagan en Emma ervaar het.
 
 Laaste op die toerlys was die _operasieteater_ waar pasiënte links en regs opgespring het en van onder hospitaalbeddens uitgespring het.
@@ -30,6 +36,12 @@ Daar was vreemde geluide oor die interkom, spookpasiënte in jaende rolstoele en
 Volgens die juniors het Reagan se “spreekkamer”, asook die chirurgie-teater, die meeste vrees by hulle opgewek.
 
 Nicola Steyn _(@nicoladoesmakeup_ op _Instagram_) het die grimering gedoen. Met spesiale effekte-grimering kon sy ’n realisme aan die spoke bring wat beslis die juniors die skrik op die lyf gejaag het. Allerlei kostuums, van dié van bloedbesmeerde dokters en pasiënte tot verband-bedekte skimme en gemaskerde spoke, het almal met vrees vervul.
+
+![](/images/spookhuis-11-08-2022.jpg)
+
+Foto: Cara Louw
+
+***
 
 Kaartjies het R30 gekos en al die geld het na Aksie Omgee gegaan. Byna 300 kaartjies is verkoop en R9000 is vir dié goeie doel om ander te help, ingesamel.
 
