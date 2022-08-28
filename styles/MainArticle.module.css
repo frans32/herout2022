@@ -59,12 +59,12 @@
 @media (min-width: 900px) {
   .mainArticle {
     position: relative;
-    background: #ffffffad;
+    background: #ffffffcf;
     overflow: hidden;
   }
 
   .mainArticle h1 {
-    font: 44px/1.2 "Shippori Mincho", "Outfit", -apple-system,
+    font: 700 44px/1.2 "Shippori Mincho", "Outfit", -apple-system,
       BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
       "Open Sans", "Helvetica Neue", sans-serif;
   }
@@ -84,7 +84,6 @@
     max-height: none;
     z-index: -1;
     margin: 0;
-    filter: blur(6px);
     transform: scale(1.1);
   }
 

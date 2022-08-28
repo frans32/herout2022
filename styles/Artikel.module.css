@@ -11,7 +11,7 @@
 }
 
 .article_info h2 {
-  font: 500 1.5em "Outfit";
+  font: 500 1.4em "Outfit";
   margin: 0 0 1em 0;
   color: #555;
 }
@@ -26,12 +26,12 @@
 .main_image {
   display: block;
   margin: 0 auto;
-  width: 1000px;
+  width: 1080px;
   max-width: 100%;
 }
 
 .main_image span {
-  max-height: 160vh;
+  max-height: 150vh;
 }
 
 .main_image img {
@@ -81,6 +81,6 @@ main.content p:first-child {
 
 @media (min-width: 900px) {
   .article_info {
-    padding: 48px 16px;
+    padding: 72px 16px;
   }
 }

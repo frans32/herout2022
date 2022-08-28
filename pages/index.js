@@ -24,8 +24,8 @@ export const getStaticProps = async () => {
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);
-    
-    if (frontMatter.date_published){ 
+
+    if (frontMatter.date_published) {
       frontMatter.date_published = JSON.stringify(frontMatter.date_published);
     }
 
@@ -67,16 +67,21 @@ export default function Home({ mainArticle, newArticles, otherArticles, ad }) {
       <div className={styles.splitter}>
         <div className={styles.largeCol}>
           <ArticleList title="Nuwe Artikels" posts={newArticles} />
+
           <div className={styles.imageAd}>
-            <Image
-              layout="responsive"
-              width={673}
-              height={1000}
-              sizes="95vw"
-              quality={60}
-              src={ad}
-              alt=""
-            ></Image>
+            {ad ? (
+              <Image
+                layout="responsive"
+                width={1024}
+                height={1024}
+                sizes="95vw"
+                quality={60}
+                src={ad}
+                alt=""
+              ></Image>
+            ) : (
+              <></>
+            )}
           </div>
           <ArticleList title="Argief" posts={otherArticles} />
         </div>
