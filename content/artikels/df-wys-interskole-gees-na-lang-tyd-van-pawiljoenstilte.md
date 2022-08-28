@@ -55,6 +55,12 @@ Die A-spanne het hul ondersteuners by DF se _big brag_ trots laat juig. DF se ee
 
 By Bellville het DF se hokkiespanne en al die blou gees op die pawiljoene ons trots gemaak.
 
+![](/images/interskole-vlaggies-08-2022.jpg)
+
+Vrydag se gees op die pawiljoen | Foto: Die Hoërskool DF Malan
+
+***
+
 **Saterdag, 27 Augustus**
 
 Sekere van die hokkiespanne wat nie Vrydag gespeel het nie, het vandag verder gespeel. Die netbalspanne het ook DF se naam hoog gehou.
