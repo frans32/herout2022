@@ -4,7 +4,7 @@ title: 'Moenie: ’n kortverhaal'
 subtitle: ''
 author: Jana Kriek
 image_credit: ''
-image: "/images/homepage.jpg"
+image: "/images/moenie-08-2022.jpg"
 
 ---
 Die smaraggroen steen glinster in my bewende hande. Nooit het ek gedink dat ek, Tracey van der Vaal, so iets sal vashou nie.

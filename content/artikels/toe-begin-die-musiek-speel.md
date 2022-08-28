@@ -4,7 +4,7 @@ title: 'Toe begin die musiek speel: ’n kortverhaal'
 subtitle: ''
 author: Enge Coetzer
 image_credit: ''
-image: "/images/homepage.jpg"
+image: "/images/musiek-08-2022.jpg"
 
 ---
 “Moenie so gestres lyk nie, Janlu. Wanneer die musiek begin speel en jy haar sien, sal al jou bekommernisse verdwyn. Glo my,” fluister Dian in sy oor.
