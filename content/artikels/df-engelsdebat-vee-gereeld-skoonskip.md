@@ -19,6 +19,6 @@ Die _reply speech_ word geskryf, terwyl die res van die sprekers praat. Die eers
 
 Die voorsitter sal hulle hande klap of ’n klokkie op gereelde tydsintervalle lui, aangesien elke spreker net ’n sekere aantal minute het om te praat. Nadat elke span klaar gepraat het, word die wenners en die beste sprekers aangekondig. Opbouende kritiek word na die tyd vir elke span gegee.
 
-Die debatkuns is een wat die analitiese denke, luistervaardighede en begrip vir verskillende perspektiewe verskerp en ontwikkel.
+Die [debatkuns](/artikel/my-mening-mondelinge-moet-afgeskaf-word-en-hier-is-die-alternatief "My mening: mondelinge moet afgeskaf word (en hier is die alternatief)") is een wat die analitiese denke, luistervaardighede en begrip vir verskillende perspektiewe verskerp en ontwikkel.
 
 DF se Engelse debatspan is een van die skool se mees hardwerkende en suksesvolle spanne op ’n kompeterende vlak. Enigiemand is welkom om die oefeninge by te woon of selfs net te kom ondersteun wanneer DF teen ander skole debatteer. Dit is gewaarborg om verrykend te wees!
