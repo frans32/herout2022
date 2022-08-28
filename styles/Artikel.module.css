@@ -8,12 +8,14 @@
 .article_info h1 {
   font: 500 2em "Outfit";
   margin: 1em 0 0.5em;
+  word-break: break-word;
 }
 
 .article_info h2 {
   font: 500 1.4em "Outfit";
   margin: 0 0 1em 0;
   color: #555;
+  word-break: break-word;
 }
 
 .article_info small {
