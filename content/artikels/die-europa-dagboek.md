@@ -35,6 +35,12 @@ Groot opgewondenheid, terwyl ons Venesië binnevaar.
 
 Uurlange staptog om die restaurant vir aandete wat “net om die draai” van die hotel is, te vind.
 
+![](/images/europa-6-08-2022.jpg)
+
+Foto: Shianne Brand
+
+***
+
 ### Vrydag, 31 Junie 2022
 
 Ons het verdwaal. En die Rialto-brug gesien… verdwaal… en op ’n gondola gery. Het ’n boks kersies van ’n bootjie af gekoop en in ’n straatjie gesit en eet. Om die dag af te sluit, het party die €44-boete aangedurf om te swem.
