@@ -7,7 +7,7 @@ image_credit: Nikita le Roux
 image: "/images/tienertoneel-9-08-2022.jpg"
 
 ---
-Hierdie jaar se tienertoneelstuk, _Operasie Kersfees_, het ons almal lekker laat lag. Die opvoering het by die _Collective Arts_ _Theatre_ en Kunstekaapteater plaasgevind en kaartjies het spoedig verkoop.
+Hierdie jaar se tienertoneelstuk, [_Operasie Kersfees_](/artikel/i-operasie-kersfees-i-verloop-vlot-by-tienertoneel "<i>Operasie Kersfees</i> verloop vlot by tienertoneel"), het ons almal lekker laat lag. Die opvoering het by die _Collective Arts_ _Theatre_ en Kunstekaapteater plaasgevind en kaartjies het spoedig verkoop.
 
 DF se drama-meneer, meneer Van der Westhuizen was die regisseur van die toneelspel en hy het baie interessante inligting oor die opvoering om met _Die_ _Herout_ te deel.
 
