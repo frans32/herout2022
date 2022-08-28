@@ -2,7 +2,7 @@
 date_published: ! '"2022-08-28"'
 title: Die skildery
 subtitle: ''
-author: Anoniem
+author: Elmie van Wyngaard
 image_credit: ''
 image: ''
 
