@@ -31,7 +31,7 @@ Pouse se onnies-teen-matrieks-pretdebat was groot pret. Die onderwerp: _Lang har
 
 **Woensdag, 24 Augustus**
 
-DF se onderwysers het teen Bellville se onderwysers gholf gespeel. Later het die landloopatlete en _FIFA_-e-speletjiesspan ons ook trots verteenwoordig. Die aand is met ’n _praise and worship-_sessie afgesluit.
+DF se onderwysers het teen Bellville se onderwysers gholf gespeel. Later het die landloopatlete en _FIFA_-e-speletjiesspan ons ook trots verteenwoordig. Die aand is met ’n _praise and worship_-sessie afgesluit.
 
 By DF het onderwysers pouse teen die matrieks hokkie gespeel. Meneer Conradie het definitief die meeste ondersteuners gehad. Al die DF sportspanne, behalwe die A-spanne, het ’n kans gehad om op die verhoog by die _mini brag,_ met groot ondersteuning van die skool, bekendgestel te word. Daniël Vorster die leerders met sy asemrowende stem vermaak toe hy die skool in ’n roerende _Sweet Caroline_ gelei het. Ons graad elf-dramaleerders het die skool ook met ’n oorspronklike komiese vertoning (waarin hulle 20 musiekblyspele in vyf minute uitgebeeld het) verras.
 
