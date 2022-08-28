@@ -3,7 +3,7 @@ date_published: 2022-08-27T19:06:42.000+02:00
 title: "'n Polvorones-reseppie, want kosmaak is nie te moeilik nie!"
 subtitle: 'Hierdie tradisionele Spaanse koekie is jou nuwe vinnige soethappie-wenresep '
 author: Melani Rautenbach
-image_credit: ''
+image_credit: DALL·E 2 (OpenAI)
 image: "/images/dall-e-2022-08-26-21-28-41-polverones-08-2022.jpg"
 
 ---
@@ -12,22 +12,15 @@ Polvorones is tradisionele Kersfeeskoekies wat meestal in Spanje, Mexiko en die 
 ### Bestanddele
 
 * 480 ml Koekmeel
+* 5 ml Koeksoda
+* 5ml Sout
+* 240 ml Margarien
+* 240 ml Witsuiker
+* 10 ml Vanieljegeursel
+* Voedselkleursel (Opsioneel)
+* Strooisuiker (Opsioneel)
 
-5 ml Koeksoda
-
-5ml Sout
-
-240 ml Margarien
-
-240 ml Witsuiker
-
-10 ml Vanieljegeursel
-
-Voedselkleursel (Opsioneel)
-
-Strooisuiker (Opsioneel)
-
-**Instruksies:**
+### **Instruksies:**
 
 1\. Verhit die oond tot 180°C.
 
