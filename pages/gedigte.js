@@ -6,11 +6,11 @@ import Image from "next/image";
 import Head from "next/head";
 
 import styles from "../../styles/Artikel.module.css";
-import Header from "../../components/Header";
+import Header from "../components/Header";
 
 import fs from "fs";
 import path from "path";
-import imageSize from "../../utils/imageSize";
+import imageSize from "../utils/imageSize";
 
 export const getStaticProps = async () => {
   const markdownWithMeta = fs.readFileSync(

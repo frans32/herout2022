@@ -27,6 +27,14 @@ export const getStaticProps = async ({ params }) => {
     matter.date_published = JSON.stringify(matter.date_published);
   }
 
+  if (params.slug == "gedigte") {
+    return {
+      redirect: {
+        destination: "/gedigte",
+      },
+    };
+  }
+
   return { props: { source, matter } };
 };
 
