@@ -1,6 +1,6 @@
 ---
 date_published: ! '"2022-08-28"'
-title: 'Swanesang '
+title: 'Swanesang: ’n kortverhaal'
 subtitle: ''
 author: Francé Esterhuyse
 image_credit: ''
