@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:23:38+02:00
+date_published: 2022-08-27T18:23:38.000+02:00
 title: Wat maak Anne Frank se dagboek so spesiaal?
 subtitle: ''
 author: 'Nienke de Vaal '
@@ -17,7 +17,7 @@ Die Tweede Wêreldoorlog op 1 September 1939 vlamgevat, met die Nazi’s se inva
 
 Vir haar 13de verjaarsdag, het Anne ’n dagboek by haar ouers ontvang.
 
-Anne se ouers was in die proses om ’n wegkruipplek voor te berei, met die hulp van Otto Frank se vorige kollegas. Die wegkruipplek was by Otto se fabriek. ’n Geheime ruimte agter ’n boekrak in die kantoor het hulle weggesteek. Anne het dit die _Secret Annexe_ genoem_._ Anne en haar gesin het die _Secret Annexe_ met nog vier ander mense gedeel, naamlik Hermann en Auguste van Pels en hulle seuns, en Peter en Fritz Pfeffer. Die vorige kollegas van Otto het vir hulle kos en ander benodighede gebring.
+Anne se ouers was in die proses om ’n wegkruipplek voor te berei, met die hulp van Otto Frank se vorige kollegas. Die wegkruipplek was by Otto se fabriek. ’n Geheime ruimte agter ’n boekrak in die kantoor het hulle weggesteek. Anne het dit die _Secret Annexe_ genoem. Anne en haar gesin het die _Secret Annexe_ met nog vier ander mense gedeel, naamlik Hermann en Auguste van Pels en hulle seuns, en Peter en Fritz Pfeffer. Die vorige kollegas van Otto het vir hulle kos en ander benodighede gebring.
 
 Gedurende die twee jaar wat Anne weggekruip het, het sy dagboek gehou en geskryf oor al die gebeure in die _Secret Annexe_ - ook al haar gedagtes en oortuigings. Anne se laaste dagboekinskrywing is op 1 Augustus 1944 geskryf.
 
