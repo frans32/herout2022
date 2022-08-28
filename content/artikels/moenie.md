@@ -9,7 +9,7 @@ image: ''
 ---
 Die smaraggroen steen glinster in my bewende hande. Nooit het ek gedink dat ek, Tracey van der Vaal, so iets sal vashou nie.
 
-Die maanlig wat skadu’s deur die venster van die Nasionale Steenmuseum gooi, laat die sewe karaat-diamant in my handpalm gloei. Ek is so vasgevang in die oomblik, dat ek eers wakkerskrik na my bril van my neus afgly.
+Die maanlig wat skadu’s deur die venster van die Nasionale Steenmuseum gooi, laat die sewe karaat-diamant in my handpalm gloei. Ek is so in die oomblik vasgevang, dat ek eers wakkerskrik na my bril van my neus afgly.
 
 Die geluid van my bril wat val, is oorverdowend, maar die geskree van die museum se alarm is veel erger. Die bril moes seker ’n sensor geaktiveer het, want terstond is die ruimte om my verlig en sirenes blaker in die verte.
 
