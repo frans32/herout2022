@@ -23,10 +23,10 @@ export const getStaticProps = async ({ params }) => {
   const imgSize = await imageSize(data.image);
   const matter = { ...data, ...imgSize };
 
-  if (matter.date_published){ 
+  if (matter.date_published) {
     matter.date_published = JSON.stringify(matter.date_published);
   }
-  
+
   return { props: { source, matter } };
 };
 
@@ -37,7 +37,7 @@ export function getStaticPaths() {
     return "/artikel/" + filename.slice(0, filename.length - 3);
   });
 
-  return { paths: posts, fallback: false };
+  return { paths: posts, fallback: true };
 }
 
 export default function Post({ matter, source }) {
