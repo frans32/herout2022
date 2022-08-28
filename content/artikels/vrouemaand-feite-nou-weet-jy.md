@@ -17,7 +17,7 @@ Vrouens wat grimering dra, eet ’n geskatte 1.8kg tot 4kg lipstiffie in hul lee
 
 Vrouens lewe oor die algemeen 8% langer as mans.
 
-Opha May Johnson was die eerste vrou wat in die Amerikaanse weermag in die Tweede Wêreldoorlog, in 1918, baklei het.
+Opha May Johnson was die eerste vrou wat in die Amerikaanse weermag in die Eerste Wêreldoorlog baklei het.
 
 Hatshepsut was ’n Egiptiese koningin wat die rol van Farao oorgeneem het na haar man se dood. Sy het Egipte se vloot magtiger en sterker as ooit van tevore gemaak.
 
