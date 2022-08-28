@@ -3,8 +3,8 @@ date_published: ! '"2022-08-28"'
 title: Goeie nuus! ’n Geskenk van eenhonderd bergfietse
 subtitle: Leerders ontvang nie net fietse nie, maar ook die hoop om te matrikuleer
 author: Chantelle van Wyk
-image_credit: ''
-image: "/images/homepage.jpg"
+image_credit: DALL·E 2 (OpenAI)
+image: "/images/dall-e-2022-08-28-21-49-29-colourful-painting-of-mountainbikes-08-2022.jpg"
 
 ---
 Eenhonderd bergfietse is op 13 Julie aan Olefile Sekondêre Skool, in Noord-Wes geleё, geskenk.
