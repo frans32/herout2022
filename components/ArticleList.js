@@ -10,7 +10,9 @@ export default function ArticleList({ posts, title }) {
         <div className={styles.heading}>{title}</div>
         {posts.map((i, index) => (
           <div key={index}>
-            <Link href={"/artikel/" + i.slug}>
+            <Link
+              href={i.slug != "gedigte" ? "/artikel/" + i.slug : "/gedigte"}
+            >
               <a className={styles.article}>
                 <div className={styles.articleImage}>
                   <Image
