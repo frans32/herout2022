@@ -29,6 +29,12 @@ Daardie aand het DF se Engels- en Afrikaansdebatspanne vir Bellville bang gepraa
 
 Pouse se onnies-teen-matrieks-pretdebat was groot pret. Die onderwerp: _Lang hare maak jou slimmer_. Ongelukkig kon Tala Wiese, Reagan Johnson en Zander Taljaard nie teen juffrou Meyer, meneer De Wet en meneer Van der Westhuizen se vlymskerp argumente wen nie.
 
+![](/images/image1-08-2022.jpeg)
+
+Interskolebalkie deur Zander Taljaard ontwerp
+
+***
+
 **Woensdag, 24 Augustus**
 
 DF se onderwysers het teen Bellville se onderwysers gholf gespeel. Later het die landloopatlete en _FIFA_-e-speletjiesspan ons ook trots verteenwoordig. Die aand is met ’n _praise and worship_-sessie afgesluit.
