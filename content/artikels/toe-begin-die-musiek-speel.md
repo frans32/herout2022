@@ -1,6 +1,6 @@
 ---
 date_published: ! '"2022-08-28"'
-title: Toe begin die musiek speel
+title: 'Toe begin die musiek speel: ’n kortverhaal'
 subtitle: ''
 author: Enge Coetzer
 image_credit: ''
