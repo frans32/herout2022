@@ -9,7 +9,7 @@ image: "/images/dirigente-08-2022.jpg"
 ---
 _Waarskuwing: ek stel voor dat geen Bellville-leerder die artikel sonder ouertoesig lees nie, aangesien dit vrees, paniek en_ ’_n fobie vir blou mag veroorsaak._
 
-Sedert 2020 was daar beperkte geleenthede om DF-gees en -trots te wys, maar by 2022 se Interskole het elke DF-speler en -ondersteuner bewys dat blou bloed sterker as ooit deur ons are druis.
+Sedert 2020 was daar beperkte geleenthede om DF-gees en -trots te wys, maar by 2022 se [Interskole](/artikel/df-wys-interskole-gees-na-lang-tyd-van-pawiljoenstilte "DF wys Interskole-gees na lang tyd van pawiljoenstilte") het elke DF-speler en -ondersteuner bewys dat blou bloed sterker as ooit deur ons are druis.
 
 Hierdie is egter nie ’n artikel oor interskole nie. In die artikel gesels ons ’n bietjie met die DF-dirigente oor gees agter die skerms.
 
