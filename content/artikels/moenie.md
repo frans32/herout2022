@@ -4,7 +4,7 @@ title: Moenie!
 subtitle: ''
 author: Jana Kriek
 image_credit: ''
-image: ''
+image: "/images/homepage.jpg"
 
 ---
 Die smaraggroen steen glinster in my bewende hande. Nooit het ek gedink dat ek, Tracey van der Vaal, so iets sal vashou nie.
