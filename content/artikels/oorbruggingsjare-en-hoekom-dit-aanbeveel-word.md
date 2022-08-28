@@ -4,7 +4,7 @@ title: Oorbruggingsjare en hoekom dit aanbeveel word
 subtitle: "’n “<i>Gap</i>-jaar” kan ’n goeie idee wees"
 author: Andrea van Wyk
 image_credit: ''
-image: ''
+image: "/images/homepage.jpg"
 
 ---
 Steve Jobs, Elon Musk, J. K. Rowling en Mayim Bialik…
