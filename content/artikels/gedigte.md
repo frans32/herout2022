@@ -4,7 +4,7 @@ title: Herout Gediggenot
 subtitle: ''
 author: Redaksie
 image_credit: ''
-image: ''
+image: "/images/homepage.jpg"
 
 ---
 **Diep blou see**
