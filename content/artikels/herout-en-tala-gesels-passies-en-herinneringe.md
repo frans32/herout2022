@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:19:06+02:00
+date_published: 2022-08-27T18:19:06.000+02:00
 title: "<i>Herout</i> en Tala gesels passies en herinneringe"
 subtitle: Leer ken ons Dee-Effers! ’n reeks
 author: Leah Coetzee
@@ -11,7 +11,7 @@ Wie is Tala se grootste inspirasie in die skool? Wat beplan sy om met die res va
 
 **Wat is een van jou gunsteling-herinneringe van DF?**
 
-_Daar is regtig ’n klomp! Die jaar wat ons dubbel goud gewen het by MTBS maak verseker die lys. Die samehorigheid van die skool wanneer ons ’n gemeenskaplike doel bereik, is ’n wonderlike gevoel. Beide die koortoere wat ek al bygewoon het was ook net_ woah_. En dan natuurlik Interskole-debat in 2019! Dit was die beste ervaring om te weet dat jou hele skool jou bystaan. Ontgroening saam met hierdie jaar se graadagt-groep was ook fantasties. Dit was so lekker om almal te leer ken._
+_Daar is regtig ’n klomp! Die jaar wat ons dubbel goud gewen het by MTBS maak verseker die lys. Die samehorigheid van die skool wanneer ons ’n gemeenskaplike doel bereik, is ’n wonderlike gevoel. Beide die koortoere wat ek al bygewoon het was ook net woah. En dan natuurlik Interskole-debat in 2019! Dit was die beste ervaring om te weet dat jou hele skool jou bystaan. Ontgroening saam met hierdie jaar se graadagt-groep was ook fantasties. Dit was so lekker om almal te leer ken._
 
 **Beskryf jou graadagt-ontgroening in net drie woorde.**
 
@@ -37,7 +37,7 @@ _Ek sal my dag begin deur eers negeuur of tienuur op te staan. Ek sal lekker war
 
 _Debat! Ek praat gemakliker in Engels, maar ek is net so lief daarvoor om in Afrikaans te praat. Ek is mal oor draf en ek is versot op lees. Ek is ook baie lief vir kuns en baie van my tyd word daaraan bestee. Ek is ook só lief vir die natuur. Ek is baie bevoorreg om ouers te hê, veral my pa, wat net so mal is oor die natuur._
 
-**Vinnige vrae:**
+### Vinnige vrae
 
 **Gunstelingfliek?**
 
@@ -53,7 +53,7 @@ _’n Cappuccino._
 
 **Gunstelling-_medley?_**
 
-Afrikaans _en dan_ Rebel_!_
+Afrikaans _en dan_ Rebel!
 
 **Gunstellingboek?**
 
