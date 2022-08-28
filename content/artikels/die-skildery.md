@@ -4,7 +4,7 @@ title: 'Die skildery: ’n kortverhaal'
 subtitle: ''
 author: Elmie van Wyngaard
 image_credit: ''
-image: "/images/homepage.jpg"
+image: "/images/skildery-08-2022.jpg"
 
 ---
 Robin skiet met haastige voetstappe by die straat af. Die klank wat deur die straat weergalm, verpletter die oggendkalmte.

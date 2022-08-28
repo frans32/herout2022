@@ -4,7 +4,7 @@ title: "’n Spel van harte: ’n kortverhaal"
 subtitle: ''
 author: Hannah de Wet
 image_credit: ''
-image: "/images/homepage.jpg"
+image: "/images/harte-08-2022.jpg"
 
 ---
 Eens op ’n tyd het ’n grapjas geom met duister motiewe gekom en vier dames se harte verower. Hy het met elkeen ’n ander masker gedra.
