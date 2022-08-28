@@ -1,6 +1,6 @@
 ---
 date_published: ! '"2022-08-28"'
-title: Gedigte
+title: Herout Gediggenot
 subtitle: ''
 author: Redaksie
 image_credit: ''
