@@ -45,6 +45,12 @@ Wat is nou lekkerder as ’n piekniek op groen gras met allerhande soorte voëls
 
 Addres: Rhodes Rylaan, Newlands, Kaapstad
 
+![](/images/kirstenbosch-3-08-2022.JPG)
+
+’n Stappie in Kirstenbosch | Foto: Frida Nel
+
+***
+
 ### 7. Leeukop
 
 Met ’n 360°-uitsig oor die hele stad, is dié vyf kilometer-staptog beslis die moeite werd! Om Leeukop aan te durf, sal jou niks behalwe so twee of drie ure van jou dag kos nie. Daar is ’n paar moeilike hindernisse wat jy moet oorkom, maar as jy ’n passievolle stapper is, is dit niks wat jy nie sal kan hanteer nie.
