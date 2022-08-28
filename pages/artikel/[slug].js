@@ -37,7 +37,7 @@ export function getStaticPaths() {
     return "/artikel/" + filename.slice(0, filename.length - 3);
   });
 
-  return { paths: posts, fallback: true };
+  return { paths: posts, fallback: false };
 }
 
 export default function Post({ matter, source }) {
