@@ -4,7 +4,7 @@ title: 'Swanesang '
 subtitle: ''
 author: Francé Esterhuyse
 image_credit: ''
-image: ''
+image: "/images/homepage.jpg"
 
 ---
 Die skemer trek my geliefde Sol die aarde in – ‘n verbysterende beeld. Die stryd: goed teen sleg, lig teen donker, duur etlike minute. Lig klou desperaat aan elke greintjie lewe vas, maar die bose heet Oorwinnaar en die Franse landskap word met gitswart ink toegeverf. My goudgeelgevlekte lapdoek is gestempel met ‘n dik olieveflandskap - gebalanseer op ‘n esel wat lendelam gedruk is deur tyd.
