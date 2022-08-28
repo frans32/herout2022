@@ -7,7 +7,7 @@ image_credit: Lize van Rooyen
 image: "/images/tala-08-2022.jpeg"
 
 ---
-Wie is Tala se grootste inspirasie in die skool? Wat beplan sy om met die res van haar lewe te doen? Wat is haar raad vir oorlewing in die hoërskool? Kom ons leer ken ons hoofmeisie, Tala Wiese!
+Wie is Tala se grootste inspirasie in die skool? Wat beplan sy om met die res van haar lewe te doen? Wat is haar raad vir oorlewing in die hoërskool? Kom ons leer ken ons [hoofmeisie](/artikel/hoofleiers-sien-uit-na-2022-en-ontvangs-van-nuwe-graadagts "Hoofleiers sien uit na 2022 en ontvangs van nuwe graadagts"), Tala Wiese!
 
 **Wat is een van jou gunsteling-herinneringe van DF?**
 
