@@ -7,7 +7,7 @@ image_credit: Frans Vergeest
 image: "/images/henry-08-2022.jpeg"
 
 ---
-Ons sien hom voor in die saal sit. Ons sien hom deur die gange stap. Ons sien hom speel op die krieketveld. Maar wie is ons [hoofseun](https://herout.co.za/artikel/hoofleiers-sien-uit-na-2022-en-ontvangs-van-nuwe-graadagts "Hoofleiers sien uit na 2022 en ontvangs van nuwe graadagts"), Henry Bothwell, regtig? In hierdie onderhoud leer ken ons hom beter.
+Ons sien hom voor in die saal sit. Ons sien hom deur die gange stap. Ons sien hom speel op die krieketveld. Maar wie is ons [hoofseun](/artikel/hoofleiers-sien-uit-na-2022-en-ontvangs-van-nuwe-graadagts "Hoofleiers sien uit na 2022 en ontvangs van nuwe graadagts"), Henry Bothwell, regtig? In hierdie onderhoud leer ken ons hom beter.
 
 **Wat maak DF Malan vir jou die beste skool?**
 
