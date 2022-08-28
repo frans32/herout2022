@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
 
-import styles from "../../styles/Artikel.module.css";
+import styles from "../styles/Artikel.module.css";
 import Header from "../components/Header";
 
 import fs from "fs";
