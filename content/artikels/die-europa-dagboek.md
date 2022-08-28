@@ -37,7 +37,7 @@ Uurlange staptog om die restaurant vir aandete wat “net om die draai” van di
 
 ![](/images/europa-6-08-2022.jpg)
 
-Foto: Shianne Brand
+Die kanale van Venisië | Foto: Shianne Brand
 
 ***
 
