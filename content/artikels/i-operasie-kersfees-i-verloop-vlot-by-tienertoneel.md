@@ -13,7 +13,17 @@ Hierdie skreeusnaakse komedie het Kersfees vroeg na gehore gebring: dit is Kersv
 
 Drie wit skerms om die gange van die huis te skep, en ’n sneeuwit Kersboom, was al nodige dekor - die kleurvolle, deurdagte beligting en oorspronklike _blocking_ het hierdie verhoog eenvoudig, maar elegant, die gees van die seisoen laat skep.
 
+![](/images/tienertoneel-3-08-2022.jpg)
+
+Foto: Nikita le Roux
+
+***
+
 Die komedie bevat ’n gesonde balans tussen woordspel en dramatiese ironie, en skreeusnaakse _slapstick_. Die akteurs en aktrises (VJ Bassett, Mia Groenewald, Kornè Drijfhout, Carli Carstens, Janelle Jansen, Heinrich Henning, Juan Visagie, Daniël Wiese, Timothy Lodewyk, Ingrid Klopper, Emke van Schalkwyk , Jessica Schoeman en Elzaan Louw) het almal goeie interaksie op die verhoog gehad en heerlik mekaar se energie aangevul. Daardie energie was aansteeklik. Hulle het my deurlopend laat glimlag.
+
+![](/images/tienertoneel-4-08-2022.jpg)
+
+Foto: Nikita le Roux
 
 VJ Bassett is by die ATKV-Tienertoneelkompetisie as die beste akteur in ’n ondersteunende rol aangewys en Ingrid Klopper as beste aktrise in ’n ondersteunende rol. Heinrich Henning is vir beste ondersteunende akteur genomineer.
 
