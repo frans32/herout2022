@@ -71,7 +71,6 @@ Tog is daar 'n nederigheid
 
 aan die diep blou see...
 
-  
 **’n Wederkoms**
 
 **Hannah de Wet**
