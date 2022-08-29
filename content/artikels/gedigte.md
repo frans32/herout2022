@@ -7,6 +7,8 @@ image_credit: ''
 image: "/images/homepage.jpg"
 
 ---
+***
+
 ### Diep blou see
 
 **Hannah de Wet**
@@ -71,6 +73,8 @@ Tog is daar 'n nederigheid
 
 aan die diep blou see...
 
+***
+
 ### ’n Wederkoms
 
 **Hannah de Wet**
@@ -111,9 +115,11 @@ Wat bring die weer
 
 vandag vir my?
 
+***
+
 ### die meerkoningin i
 
-**emma olivier**
+**Emma Olivier**
 
 waar die son soos dou aan die blare kleef
 
