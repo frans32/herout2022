@@ -19,17 +19,17 @@ Dit is ’n feit dat jy geneig is om verkeerde keuses te maak wanneer jy gespann
 
 Waarom word oorbruggingsjare aanbeveel?
 
-1. **Om ’n blaaskans te neem**
+### 1. Om ’n blaaskans te neem
 
 ’n Oorbruggingsjaar is die tyd tussen ’n skolier se voltooiing van sy of haar hoërskoolloopbaan tot die begin ’n universiteitsloopbaan. Ongeag van hoe lank ’n oorbruggingsjaar duur, is die onderliggende idee dat die pouse ’n jong volwassene tyd gee om te besin oor dinge soos die toekoms, meer lewenservaring op te doen en te besluit wat hulle nou eintlik ná skool wil aanpak, deur onderrig tydelik op te skort en/of rond te reis, deel te raak van ’n oorbruggingskursus of tydelike werk te soek. Tieners bring ongeveer twaalf jaar op skool deur. Voordat hulle in ’n see van akademiese eise en die druk om "geld te maak" ná graduering, met tersiëre studies begin, is dit van kardinale belang dat hulle ’n blaaskans kry.
 
-2. **Om studieskuld te vermy of minimaliseer**
+### 2. Om studieskuld te vermy of minimaliseer
 
 In 2022 is Amerikaners ongeveer $1.75 triljoen verskuldig aan studieskuld wat grotendeels om rede is dat skoliere direk na skool graag wil studeer, maar onseker is waarvoor. Ongelukkig volg baie skoolverlaters dan studierigtings waarin hulle nie werklik belangstel nie.
 
 ’n Oorbruggingsjaar kan help om te vermy dat onnodige kursusse geneem word deur die skoolverlaters ’n kans te gee om oor hulle belangstellings na te dink en hulle ook geld te maak om vir toekomstige studies te betaal.
 
-3. **Statistieke**
+### 3. Statistieke
 
 Ongeveer ’n derde van eerstejaarstudente wat direk na skool gaan studeer, hou met universiteit op, terwyl dié tellings grotendeels afneem by studente wat wel ’n oorbruggingsjaar geneem het.
 

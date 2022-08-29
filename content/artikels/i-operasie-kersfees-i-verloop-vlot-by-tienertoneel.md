@@ -23,6 +23,8 @@ Foto: Nikita le Roux
 
 Die komedie bevat ’n gesonde balans tussen woordspel en dramatiese ironie, en skreeusnaakse _slapstick_. Die akteurs en aktrises (VJ Bassett, Mia Groenewald, Kornè Drijfhout, Carli Carstens, Janelle Jansen, Heinrich Henning, Juan Visagie, Daniël Wiese, Timothy Lodewyk, Ingrid Klopper, Emke van Schalkwyk , Jessica Schoeman en Elzaan Louw) het almal goeie interaksie op die verhoog gehad en heerlik mekaar se energie aangevul. Daardie energie was aansteeklik. Hulle het my deurlopend laat glimlag.
 
+<br/>
+
 ![](/images/tienertoneel-4-08-2022.jpg)
 
 Foto: Nikita le Roux
