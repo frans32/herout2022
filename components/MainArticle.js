@@ -16,6 +16,7 @@ export default function MainArticle(props) {
               width={props.article.imgWidth}
               height={props.article.imgHeight}
               priority
+              quality={36}
               layout="intrinsic"
             />
           </div>
