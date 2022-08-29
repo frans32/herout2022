@@ -13,21 +13,21 @@ export default function ArticleList({ posts, title }) {
             <a
               href="https://music.apple.com/za/playlist/herout-cottagecore/pl.u-LdbqBDvTxG5djMJ"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               <img src="/playlists/cottagecore256.jpg" />
             </a>
             <a
               href="https://music.apple.com/za/playlist/herout-juffrou-meyer-treffers/pl.u-vxy6Dzxsza46ld9"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               <img src="/playlists/meyer256.jpg" />
             </a>
             <a
               href="https://music.apple.com/za/playlist/middernag/pl.u-PDb4464TerbgAl4"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               <img src="/playlists/middernag256.jpg" />
             </a>
