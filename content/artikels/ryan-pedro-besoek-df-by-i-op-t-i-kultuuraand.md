@@ -35,9 +35,13 @@ Ryan het geantwoord dat daar nie ’n spesifieke skryfproses is wat hy volg nie,
 
 Ryan het ons op 16 Augustus 2022 om 19:00 by die DF-Trein besoek. Die aand saam met hom het ongeveer twee ure lank geduur, met heerlike eet- en drinkgoed, deur die _OP!T_-komitee voorsien. Hierdie versnapperinge het warmsjokolade, malvalekkers, melktert, samosas en hondjievormige koekies ingesluit. Vir ’n bietjie hitte op die koue wintersaand, het die _OP!T_-komitee die trein se binnebraai aangesteek. Dit het ook ’n gunstige atmosfeer meegebring.
 
+<br/>
+
 ![](/images/ryan-pedro-2-08-2022.jpg)
 
 Versnapperings | Foto: Die Hoërskool DF Malan
+
+***
 
 Ryan het twee gedigte uit sy bundel _Pienk Ceramic-Hondjies_. Die gedig wat my die meeste geraak het, was _Mixtape 3_. Ryan het gesê dat hierdie hoofstuk vir hom baie spesiaal is omdat hy dit geskryf het toe ’n vriendin van hom deur ’n baie moelike tyd gegaan het. Die gedig handel oor die spreker wat saam met sy geliefde op die stoep staan terwyl hulle twee na hul grootwordjare verlang.
 
