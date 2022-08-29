@@ -7,6 +7,34 @@ export default function ArticleList({ posts, title }) {
   return (
     <div className={styles.articleList}>
       <section>
+        <div className={styles.heading}>Speellysies</div>
+        <div className={styles.playlistWrapper}>
+          <div className={styles.playlist}>
+            <a
+              href="https://music.apple.com/za/playlist/herout-cottagecore/pl.u-LdbqBDvTxG5djMJ"
+              target="_blank"
+              rel="noopener"
+            >
+              <img src="/playlists/cottagecore256.jpg" />
+            </a>
+            <a
+              href="https://music.apple.com/za/playlist/herout-juffrou-meyer-treffers/pl.u-vxy6Dzxsza46ld9"
+              target="_blank"
+              rel="noopener"
+            >
+              <img src="/playlists/meyer256.jpg" />
+            </a>
+            <a
+              href="https://music.apple.com/za/playlist/middernag/pl.u-PDb4464TerbgAl4"
+              target="_blank"
+              rel="noopener"
+            >
+              <img src="/playlists/middernag256.jpg" />
+            </a>
+          </div>
+        </div>
+      </section>
+      <section>
         <div className={styles.heading}>{title}</div>
         {posts.map((i, index) => (
           <div key={index}>

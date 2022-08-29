@@ -5,8 +5,8 @@ subtitle: DF-spookhuis hou tradisie vol én baat Aksie Omgee
 author: Liza Theron
 image_credit: Carel Stander
 image: "/images/spookhuis-2-08-2022.jpg"
-
 ---
+
 Donderdagaand, 28 Julie, het daar behoorlik geeste in DF se gange gesweef. Afwagting onder die graadagts en -neges was hoog. Dit was DF se eerste spookhuis na twee jaar van COVID-19-beperkings. Die matrieks het hierdie riller-fondsinsameling vir die juniors ten bate van Aksie Omgee aangebied.
 
 Die matrieks het van ná skool tot sesuur hul kostuums en grimering gereed gekry en die skool met kreatiewe dekor in ’n spookhospitaal te verander.
@@ -23,9 +23,9 @@ Die _orgaanskenkkamer_ met regte longe, ingewande en ’n hart deur ’n slaghui
 
 ![](/images/spookhuis-1-08-2022.jpg)
 
-Foto: Cara Louw
+Foto: Carel Stander
 
-***
+---
 
 Volgende stop: _kosmetiese chirurgie_ waar die kinders senuweeagtig in die dokter se spreekkamer moes wag en toe ’n vreesaanjaende vertoning deur Reagan en Emma ervaar het.
 
@@ -41,7 +41,7 @@ Nicola Steyn _(@nicoladoesmakeup_ op _Instagram_) het die grimering gedoen. Met 
 
 Foto: Cara Louw
 
-***
+---
 
 Kaartjies het R30 gekos en al die geld het na Aksie Omgee gegaan. Byna 300 kaartjies is verkoop en R9000 is vir dié goeie doel om ander te help, ingesamel.
 
