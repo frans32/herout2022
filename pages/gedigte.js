@@ -46,7 +46,14 @@ export default function Post({ matter, source }) {
       <section>
         <div className={styles.main_image}>
           <div style={{ background: "#efefef" }}></div>
-          <video style={{ width: "100%" }} autoPlay muted loop controls={false}>
+          <video
+            style={{ width: "100%" }}
+            autoPlay
+            muted
+            loop
+            playsInline
+            controls={false}
+          >
             <source src="/images/gedigte-08-2022.mp4" type="video/mp4" />
           </video>
           <div className={styles.image_credit}>Video: Emma Olivier</div>
