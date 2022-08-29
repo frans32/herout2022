@@ -49,7 +49,7 @@ _Ek kan my oë kruis!_
 
 **_Go-to_ bestelling by die koffieblik?**
 
-_’n Cappuccino._
+_’n_ Cappuccino_._
 
 **Gunstelling-_medley?_**
 
