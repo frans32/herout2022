@@ -11,7 +11,7 @@ Na drie jaar was dit uiteindelik weer sulke tyd - ’n tyd van spanwerk en gees 
 
 _Die Herout_ dokumenteer ’n oorsig van Geesweek gedurende 2022 se Interskole teen Die Hoërskool Bellville, wat hierdie jaar die gasheerskool was.
 
-**Maandag, 22 Augustus**
+### Maandag, 22 Augustus
 
 Interskoleweek het afgeskop met ’n geleentheid vir Dee-Effers om _funky_ sokkies skool toe te dra en heerlik gedurende pouse te sokkie.
 
@@ -21,7 +21,7 @@ Hierdie jaar is daar ook vir die eerste keer ’n bakkompetisie gehou, waar seke
 
 Die hoogtepunt van die skooldag was die netbalwedstryd tussen die onnies en die matrieks. Niemand het verwag dat die onderwysers ’n paar geheime toertjies sou uithaal nie. Meneer Jordaan was ook definitief die speler van die dag!
 
-**Dinsdag, 23 Augustus**
+### Dinsdag, 23 Augustus
 
 DF se skaakspan het hul strategieë vir Bellville gewys.
 
@@ -35,17 +35,17 @@ Interskolebalkie deur Zander Taljaard ontwerp
 
 ***
 
-**Woensdag, 24 Augustus**
+### Woensdag, 24 Augustus
 
 DF se onderwysers het teen Bellville se onderwysers gholf gespeel. Later het die landloopatlete en _FIFA_-e-speletjiesspan ons ook trots verteenwoordig. Die aand is met ’n _praise and worship_-sessie afgesluit.
 
 By DF het onderwysers pouse teen die matrieks hokkie gespeel. Meneer Conradie het definitief die meeste ondersteuners gehad. Al die DF sportspanne, behalwe die A-spanne, het ’n kans gehad om op die verhoog by die _mini brag,_ met groot ondersteuning van die skool, bekendgestel te word. Daniël Vorster die leerders met sy asemrowende stem vermaak toe hy die skool in ’n roerende _Sweet Caroline_ gelei het. Ons graad elf-dramaleerders het die skool ook met ’n oorspronklike komiese vertoning (waarin hulle 20 musiekblyspele in vyf minute uitgebeeld het) verras.
 
-**Donderdag, 25 Augustus**
+### Donderdag, 25 Augustus
 
 DF het baie uitgesien om in _Great Gatsby_-geïnspireerde kleredrag skool toe te kom vir die _Roaring ’20s_ _J&B MET_. Elke registerklas het ’n “perderuiter” en “perd” genomineer om hulle in die wedren op die rugbyveld te verteenwoordig. Daar is ook ’n kompetisie vir die beste kostuum! Die matriekmeisies het gedurende pouse met hul damesdans (choreografie deur Nicola Steyn, Carlene Theart, Enge Coetzer en Luca Steinhobel) gees vir die skool gebring. Die matriekseuns se _Audacity_-dans het almal ook laat glimlag.
 
-**Vrydag, 26 Augustus**
+### Vrydag, 26 Augustus
 
 Die oggend het bedrywig met _toet vir DF_ voor skool begin.
 
@@ -61,7 +61,7 @@ Vrydag se gees op die pawiljoen | Foto: Die Hoërskool DF Malan
 
 ***
 
-**Saterdag, 27 Augustus**
+### Saterdag, 27 Augustus
 
 Sekere van die hokkiespanne wat nie Vrydag gespeel het nie, het vandag verder gespeel. Die netbalspanne het ook DF se naam hoog gehou.
 
