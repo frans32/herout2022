@@ -79,7 +79,7 @@ aan die diep blou see...
 
 **Hannah de Wet**
 
-My oë loer oor die horizon,
+My oë loer oor die horison,
 
 donkerte wroemel op die rand
 
