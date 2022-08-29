@@ -4,7 +4,7 @@ title: Herout Gediggenot
 subtitle: ''
 author: Redaksie
 image_credit: ''
-image: "/images/homepage.jpg"
+image: "/images/sj-objio-xfwizta2ub0-unsplash-08-2022.jpg"
 
 ---
 ***
