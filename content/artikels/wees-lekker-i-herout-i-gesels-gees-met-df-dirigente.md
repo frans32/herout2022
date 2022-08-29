@@ -27,7 +27,7 @@ Emma: _My hoogtepunt was die voorreg om saam met_ ’_n groep wonderlike mense_ 
 
 Robert: _Te min slaap._
 
-Lize: _Die ovoorspelbaarheid wat met dirigentwees gepaard gaan. Dit is soos meneer De Wet sê: “_The only constant is change.”
+Lize: _Die onvoorspelbaarheid wat met dirigentwees gepaard gaan. Dit is soos meneer De Wet sê_: “The only constant is change.”
 
 **Watter advies kan jy aan aspirant-dirigente gee?**
 
