@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:49:46+02:00
+date_published: 2022-08-27T18:49:46.000+02:00
 title: 'Verander jou verhouding met verandering '
 subtitle: ''
 author: Chanzel Hammond
@@ -19,7 +19,7 @@ Daardie groeipyne wat jy as kind ervaar het, hou nie op sodra jy ouer word nie. 
 
 Daar sal verskeie groot veranderinge jou in die gesig staar, wat jou met ’n sekere vlak van ongemak los. Dit gaan alles oor hoe jy dit dan hanteer. Ek glo dat daar ’n sekere krag is, wat verkry word deur uitdagings aan te pak. Wanneer jy iets bereik wat baie van jou verg, gee dit jou ’n dapperheid wat jy nie kan namaak nie. Ons kan nie al die dinge om ons beheer nie, maar ons kan beheer hoe ons op hulle reageer.
 
-**Maar hoe moet jy reageer?**
+### Maar hoe moet jy reageer?
 
 Leer om gemaklik met die ongemak te word.
 
@@ -31,7 +31,7 @@ Onthou ook dat jy aan die ander kant ’n sterker mens gaan uitkom. Sodra jy dan
 
 Sodra jy die “geen pyn, geen wins”-mentaliteit gesond kan handhaaf, sal jy nuwe hoogtes bereik - ’n ,mentalitiet wat jou gaan toelaat om uit die moeras van gemak te styg. Maar die pad na selfgroei is nie vining nie. Daar is geen ompad nie. Dis hoekom daar ’n kritiese aspek is om by te hou:
 
-**Konsekwentheid**
+### Konsekwentheid
 
 Om in die langtermyn van die mentaliteit te baat, moet dit van jou daaglikse lewe deel wees. Elke oomblik wat jy kry om ongemak te ervaar, moet jy aangryp. Wees die eerste om jou hand in die klas op te steek en die vraag met selfvertroue te beantwoord – al is jy nie reg nie, het jy probeer en hopelik iets geleer. Begin ’n nuwe sport. Vra die meisie of ou wat jy al lank beoog uit. Die pad van selfgroei behels konstante korttermyn-ongemak in diens van langtermyn-winste.
 
