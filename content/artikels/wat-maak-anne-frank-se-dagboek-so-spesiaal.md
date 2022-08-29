@@ -9,7 +9,7 @@ image: "/images/anne-frank-08-2022.jpg"
 ---
 Anne Frank - een van geskiedenis se bekendste figure in die Tweede Wêreldoorlog. Haar dagboek is wȇreldwyd bekend en gee ons ’n kykie in die lewe van ’n Joodse slagoffer wat die Holocaust ervaar het.
 
-**Wie was Anne Frank?**
+### Wie was Anne Frank?
 
 Annelies Marie Frank is op 12 Junie 1929 in Frankfurt, Duitsland, gebore. Haar ouers was Otto en Edith Frank, en sy het een ouer suster, Margot, gehad. Anne het gedurende die tyd van Adolf Hitler en die Nazi Party se strewe na absolute politieke beheer, groot geword. Hitler het Jode vervolg en die meerderheid van Duitsers het anti-semities begin optree. Eskalasie in die ekonomie en toenemende diskriminasie teenoor die Jode het daartoe gelei dat Anne se gesin na Amsterdam moes trek.
 
@@ -27,7 +27,7 @@ Uit al die bewoners van die _Secret Annexe,_ was Otto Frank, Anne se pa, die eni
 
 Tans is daar oor die 35 miljoen kopieë van haar dagboek verkoop. Die boek is in meer as 70 tale beskikbaar. Anne se dagboek is ’n voorgeskrewe leesboek in vele skole en daar is ook film- en teater weergawes van Anne se storie. Die _Secret Annexe_ kan ook vandag by die _Anne Frank House and Museum_ besoek word.
 
-**Hoekom is Anne Frank se dagboek belangrik?**
+### Hoekom is Anne Frank se dagboek belangrik?
 
 Anne se dagboek weerspieël die seer en trauma wat Jode tydens die oorlog ervaar het. Die dagboek gee ’n ander perspektief van die _Holocaust._ Dit bespreek nie die konsentrasie kampe nie, maar eerder hoe Anne die vervolging beleef het.
 
