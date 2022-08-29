@@ -3,8 +3,8 @@ date_published: ! '"2022-08-28"'
 title: Vrouemaand-feite – nou weet jy...
 subtitle: ''
 author: Misha Coetzee
-image_credit: ''
-image: "/images/homepage.jpg"
+image_credit: DALL·E 2 (OpenAI)
+image: "/images/dall-e-2022-08-29-11-57-11-08-2022.jpg"
 
 ---
 Flaterwater, jou Afrikaansonderwyser se grootste haat, is deur Bette Nesmith Graham, ‘n Amerikaanse tikster, ontwerp.
