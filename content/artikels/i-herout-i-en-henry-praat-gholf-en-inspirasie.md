@@ -41,30 +41,30 @@ The Shawshank Redemption.
 
 **_Go-to_ bestelling by die Koffieblik?**
 
-Ek is eintlik ’n Engelse Tee-outjie, maar ek sal sê _cappuccino._
+_Ek is eintlik ’n Engelse Tee-outjie, maar ek sal sê_ cappuccino_._
 
 **Wat was jou bynaam in graad agt?**
 
-Mangel (soos in die ding wat agter in jou keel sit).
+_Mangel (soos in die ding wat agter in jou keel sit)._
 
 **Wie was jou SR-_crush_ toe jy ’n graadaggie was?**
 
-Lea de Bruijn.
+_Lea de Bruijn._
 
 **Dit of dat:**
 
 **Bosveld of strand?**
 
-Bosveld.
+_Bosveld._
 
 **Roomys in ’n koppie of ’n horinkie?**
 
-In ’n koppie.
+_In ’n koppie._
 
 **Golf of krieket?**
 
-Ek gaan sê golf… maar moenie dit vir meneer Mells sê nie!
+_Ek gaan sê golf… maar moenie dit vir meneer Mells sê nie!_
 
 **Winter of Somer?**
 
-Bellville Golfbaan se dreinerering is regtig sleg, so ek gaan sê Somer!
+_Bellville Golfbaan se dreinerering is regtig sleg, so ek gaan sê Somer!_
