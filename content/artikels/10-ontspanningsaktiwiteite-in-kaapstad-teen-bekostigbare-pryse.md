@@ -1,12 +1,12 @@
 ---
 date_published: 2022-08-27T18:53:47.000+02:00
 title: Tien Kaapstad-uitstappies teen bekostigbare pryse
-subtitle: ""
+subtitle: ''
 author: Leanri Pretorius
 image_credit: Frida Nel
 image: "/images/kirstenbosch-4-08-2022.JPG"
----
 
+---
 Almal wil so nou en dan ’n breek van hulle besige skedules vat. Hier is ’n lys van tien aktiwiteite wat jy teen ’n bekostigbare prys in Kaapstad kan doen.
 
 ### 1. Ysskaats
@@ -49,7 +49,7 @@ Addres: Rhodes Rylaan, Newlands, Kaapstad
 
 ’n Stappie in Kirstenbosch | Foto: Frida Nel
 
----
+***
 
 ### 7. Leeukop
 
