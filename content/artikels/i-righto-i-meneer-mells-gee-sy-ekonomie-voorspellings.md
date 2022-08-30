@@ -1,12 +1,12 @@
 ---
 date_published: ! '"2022-08-27"'
 title: "<i>Righto!</i> Meneer Mells gee sy ekonomie-voorspellings"
-subtitle: ''
+subtitle: ""
 author: Leandri Odendal
 image_credit: Danielle de Villiers
 image: "/images/mells-08-2022.jpeg"
-
 ---
+
 Inflasie, ekonomiese klimaat en kryptogeld? Net die ekonomie-meester self sal vir ons meer oor hierdie kwessies kan verduidelik.
 
 **Wat is Meneer se vooruitsig vir die toekomstige ekonomiese klimaat?**
@@ -15,9 +15,9 @@ _Laat ek dit so stel: dit kan nie slegter gaan as wat ons dit reeds ervaar nie. 
 
 **Wat voorspel Meneer gaan Suid-Afrika se inflasie en rentekoers in 2023 wees?**
 
-_Die inflasie sal tussen 3% en 6% wees, maar behoort nie hoër as 6% styg nie. Wat ek wel vir jou kan sê, is dat die rentekoers in 2023 met 25 basispunte sal styg._
+_Die inflasie sal tussen 3% en 6% wees, maar behoort nie hoër as 6% te styg nie. Wat ek wel vir jou kan sê, is dat die rentekoers in 2023 met 25 basispunte sal styg._
 
-**Is Meneer ’n voorstander van kryptogeld en dink meneer dit sal deel van die toekoms raak?**
+**Is Meneer ’n voorstander van kryptogeld en dink Meneer dit sal deel van die toekoms raak?**
 
 _Nee, ek is nie ’n voorstander van kryptogeld nie. Kryptogeld sal nooit die toekoms wees nie, aangesien geen waarde daaraan gekoppel is nie._
 

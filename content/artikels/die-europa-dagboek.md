@@ -5,8 +5,8 @@ subtitle: Refleksies van Dee-Effers se toer oorsee
 author: Marize Visser (gasskrywer)
 image_credit: Shianne Brand
 image: "/images/europa-5-08-2022.jpg"
-
 ---
+
 ### Sondag, 26 Junie 2022
 
 Twaalf van ons is op pad Rome toe! Die eerste vlug was lank en die tweede een voel soos ’n ewigheid. Vir nou moet ek eers ’n bietjie slaap inkry voor die lang dag môre.
@@ -15,7 +15,7 @@ Twaalf van ons is op pad Rome toe! Die eerste vlug was lank en die tweede een vo
 
 Rome is indrukwekkend.
 
-Die Kolosseum voel amper so groot soos die Kaapstad-stadion en die Trevi- fonteine het die mooiste wit-blougroen water. Op pad na die Vatikaanstad het Kimi, Chris en Madison van Melkbos Privaatskool op die verkeerde trein geklim…
+Die Kolosseum voel amper so groot soos die Kaapstad-stadion en die Trevi-fonteine het die mooiste wit-blougroen water. Op pad na die Vatikaanstad het Kimi, Chris en Madison van Melkbos Privaatskool op die verkeerde trein geklim…
 
 Gelukkig kon ons die groot katedraal sien.
 
@@ -23,7 +23,7 @@ Gelukkig kon ons die groot katedraal sien.
 
 Totsiens Rome!
 
-Assisi is die mooiste dorpie. Ons het deur die straatjies gestap en was binne-in ’n dubbelverdieping-katedraal. (Stiaan het nie die katedraal gesien nie… hy het wel sy 10 000 tree vir die dag ingekry!)
+Assisi is die mooiste dorpie. Ons het deur die straatjies gestap en was binne-in ’n dubbelverdieping-katedraal. (Stiaan het nie die katedraal gesien nie… hy het wel sy 10 000 treë vir die dag ingekry!)
 
 ### Woensdag, 29 Junie 2022
 
@@ -37,9 +37,9 @@ Uurlange staptog om die restaurant vir aandete wat “net om die draai” van di
 
 ![](/images/europa-6-08-2022.jpg)
 
-Die kanale van Venisië | Foto: Shianne Brand
+Die kanale van Venesië | Foto: Shianne Brand
 
-***
+---
 
 ### Vrydag, 1 Julie 2022
 
@@ -51,7 +51,7 @@ Oostenryk is net so groen soos Heidi dit laat lyk.
 
 ### Sondag, 3 Julie 2022
 
-Soutmyne met laser-vertonings en Hitler se _Eagle’s Nest_… Nogal koud so diep onder dje grond en hoog bo seevlak.
+Soutmyne met laser-vertonings en Hitler se _Eagle’s Nest_… Nogal koud so diep onder die grond en hoog bo seevlak.
 
 ’n Vinnige draffie na die rivier vir ’n middernagswempie was effens ysig.
 

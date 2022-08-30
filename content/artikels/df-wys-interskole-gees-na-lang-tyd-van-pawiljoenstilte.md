@@ -1,12 +1,12 @@
 ---
 date_published: ! '"2022-08-28"'
 title: DF wys Interskole-gees na lang tyd van pawiljoenstilte
-subtitle: ''
-author: 'Chané Smith '
+subtitle: ""
+author: "Chané Smith "
 image_credit: Illustrasie deur Alexa Wium
 image: "/images/interskole-illustrasie-08-2022.jpg"
-
 ---
+
 Na drie jaar was dit uiteindelik weer sulke tyd - ’n tyd van spanwerk en gees wys met DF-gesigverf, plakkate, lintverkope en interessante kleredrag. Dit is wanneer ons trots ons blou bloed wys.
 
 _Die Herout_ dokumenteer ’n oorsig van Geesweek gedurende 2022 se Interskole teen Die Hoërskool Bellville, wat hierdie jaar die gasheerskool was.
@@ -33,13 +33,13 @@ Pouse se onnies-teen-matrieks-pretdebat was groot pret. Die onderwerp: _Lang har
 
 Interskolebalkie deur Zander Taljaard ontwerp
 
-***
+---
 
 ### Woensdag, 24 Augustus
 
-DF se onderwysers het teen Bellville se onderwysers gholf gespeel. Later het die landloopatlete en _FIFA_-e-speletjiesspan ons ook trots verteenwoordig. Die aand is met ’n _praise and worship_-sessie afgesluit.
+DF se onderwysers het teen Bellville se onderwysers gholf gespeel. Later het die landloopatlete en _FIFA_-e-speletjiespan ons ook trots verteenwoordig. Die aand is met ’n _praise and worship_-sessie afgesluit.
 
-By DF het onderwysers pouse teen die matrieks hokkie gespeel. Meneer Conradie het definitief die meeste ondersteuners gehad. Al die DF sportspanne, behalwe die A-spanne, het ’n kans gehad om op die verhoog by die _mini brag,_ met groot ondersteuning van die skool, bekendgestel te word. Daniël Vorster die leerders met sy asemrowende stem vermaak toe hy die skool in ’n roerende _Sweet Caroline_ gelei het. Ons graad elf-dramaleerders het die skool ook met ’n oorspronklike komiese vertoning (waarin hulle 20 musiekblyspele in vyf minute uitgebeeld het) verras.
+By DF het onderwysers pouse teen die matrieks hokkie gespeel. Meneer Conradie het definitief die meeste ondersteuners gehad. Al die DF sportspanne, behalwe die A-spanne, het ’n kans gehad om op die verhoog by die _mini brag,_ met groot ondersteuning van die skool, bekendgestel te word. Daniël Vorster het die leerders met sy asemrowende stem vermaak toe hy die skool in ’n roerende _Sweet Caroline_ gelei het. Ons graad elf-dramaleerders het die skool ook met ’n oorspronklike komiese vertoning (waarin hulle 20 musiekblyspele in vyf minute uitgebeeld het) verras.
 
 ### Donderdag, 25 Augustus
 
@@ -59,13 +59,13 @@ By Bellville het DF se hokkiespanne en al die blou gees op die pawiljoene ons tr
 
 Vrydag se gees op die pawiljoen | Foto: Die Hoërskool DF Malan
 
-***
+---
 
 ### Saterdag, 27 Augustus
 
 Sekere van die hokkiespanne wat nie Vrydag gespeel het nie, het vandag verder gespeel. Die netbalspanne het ook DF se naam hoog gehou.
 
-Voor die optog van DF en Bellville se kapteine, meneer en mejuffrou Bellville en DF se meneer en mejuffrou Interskole (Reagan Johnson en Anique Visagie), het DF vir die eerste keer in jare ’n geesvertoning aangebied. Dit was werklik merkwaardig om weer, na só lank sonder MTBS, weer so iets pragtig saam te kon uitvoer.
+Voor die optog van DF en Bellville se kapteine, meneer en mejuffrou Bellville en DF se meneer en mejuffrou Interskole (Reagan Johnson en Anique Visagie), het DF vir die eerste keer in jare ’n geesvertoning aangebied. Dit was werklik merkwaardig om weer, na só lank sonder MTBS, so iets pragtig saam te kon uitvoer.
 
 Die rugbyspanne het goed gespeel en Dee-Effers trots gemaak.
 

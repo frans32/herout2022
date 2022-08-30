@@ -5,8 +5,8 @@ subtitle: Leer ken ons Dee-Effers! ’n reeks
 author: Leah Coetzee
 image_credit: Lize van Rooyen
 image: "/images/tala-08-2022.jpeg"
-
 ---
+
 Wie is Tala se grootste inspirasie in die skool? Wat beplan sy om met die res van haar lewe te doen? Wat is haar raad vir oorlewing in die hoërskool? Kom ons leer ken ons [hoofmeisie](/artikel/hoofleiers-sien-uit-na-2022-en-ontvangs-van-nuwe-graadagts "Hoofleiers sien uit na 2022 en ontvangs van nuwe graadagts"), Tala Wiese!
 
 **Wat is een van jou gunsteling-herinneringe van DF?**
@@ -27,7 +27,7 @@ _Ongetwyfeld my geskiedenis-onderwyseres, juffrou Sanet Meyer. Sy is die perfekt
 
 **Wat is jou planne ná matriek?**
 
-_Tans het ek vir ’n klomp BSC-grade ingeskryf. Ek het vir Marienebiologie by UCT ingekom. Dit is net een van die opsies wat ek oorweeg. Ek het ook vir medies aansoek gedoen! Dit is ook iets wat ek baie graag wil doen. Ek het nie ’n droom om by ’n spesifieke universiteit te swot nie. Waar ook al ek my graad kan doen, is ek gelukkig! Ek weet dat het die Here, op die ou end, ’n plan met my lewe het. Hy sal my op die regte pad lei!_
+_Ek het vir ’n klomp BSc-grade ingeskryf. Ek het vir Marienebiologie by UCT ingekom. Dit is net een van die opsies wat ek oorweeg. Ek het ook vir medies aansoek gedoen! Dit is ook iets wat ek baie graag wil doen. Ek het nie ’n droom om by ’n spesifieke universiteit te swot nie. Waar ook al ek my graad kan doen, is ek gelukkig! Ek weet dat het die Here, op die ou end, ’n plan met my lewe het. Hy sal my op die regte pad lei!_
 
 **Beskryf wat jy as ’n perfekte dag sien.**
 
@@ -47,9 +47,9 @@ The Grand Budapest Hotel, The Fantastic Mr Fox _en_ Under the Tuscan Sun.
 
 _Ek kan my oë kruis!_
 
-**_Go-to_ bestelling by die koffieblik?**
+**_Go-to_ bestelling by die Koffieblik?**
 
-_’n_ Cappuccino_._
+_’n_ Cappuccino.
 
 **Gunstelling-_medley?_**
 

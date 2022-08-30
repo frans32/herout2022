@@ -5,8 +5,8 @@ subtitle: "’n “<i>Gap</i>-jaar” kan ’n goeie idee wees"
 author: Andrea van Wyk
 image_credit: DALL·E 2 (OpenAI)
 image: "/images/dall-e-2022-08-29-11-55-26-painting-of-a-bridge-over-a-river-in-a-forest-08-2022.jpg"
-
 ---
+
 Steve Jobs, Elon Musk, J. K. Rowling en Mayim Bialik…
 
 Wat het al hierdie name in gemeen? Wel, behalwe vir die feit dat hulle almal uitstekende en uiters suksesvolle rolle in die wereld speel, het hulle ook iets anders in gemeen. Iets wat sommige mense as sinneloos sal beskou.
@@ -21,7 +21,7 @@ Waarom word oorbruggingsjare aanbeveel?
 
 ### 1. Om ’n blaaskans te neem
 
-’n Oorbruggingsjaar is die tyd tussen ’n skolier se voltooiing van sy of haar hoërskoolloopbaan tot die begin ’n universiteitsloopbaan. Ongeag van hoe lank ’n oorbruggingsjaar duur, is die onderliggende idee dat die pouse ’n jong volwassene tyd gee om te besin oor dinge soos die toekoms, meer lewenservaring op te doen en te besluit wat hulle nou eintlik ná skool wil aanpak, deur onderrig tydelik op te skort en/of rond te reis, deel te raak van ’n oorbruggingskursus of tydelike werk te soek. Tieners bring ongeveer twaalf jaar op skool deur. Voordat hulle in ’n see van akademiese eise en die druk om "geld te maak" ná graduering, met tersiëre studies begin, is dit van kardinale belang dat hulle ’n blaaskans kry.
+’n Oorbruggingsjaar is die tyd tussen ’n skolier se voltooiing van sy of haar hoërskoolloopbaan tot die begin ’n universiteitsloopbaan. Ongeag van hoe lank ’n oorbruggingsjaar duur, is die onderliggende idee dat die pouse ’n jong volwassene tyd gee om te besin oor dinge soos die toekoms, meer lewenservaring op te doen en te besluit wat hulle nou eintlik ná skool wil aanpak, deur onderrig tydelik op te skort en/of rond te reis, deel te raak van ’n oorbruggingskursus of tydelike werk te soek. Tieners bring ongeveer twaalf jaar op skool deur. Voordat hulle in ’n see van akademiese eise en die druk om "geld te maak" ná graduering, met tersiêre studies begin, is dit van kardinale belang dat hulle ’n blaaskans kry.
 
 ### 2. Om studieskuld te vermy of minimaliseer
 
@@ -35,8 +35,8 @@ Ongeveer ’n derde van eerstejaarstudente wat direk na skool gaan studeer, hou 
 
 40% van universiteitstudente neem vyf tot ses jaar om hul universiteitskursus te voltooi, terwyl die meerderheid van studente wat eers ’n oorbruggingsjaar geneem het, slegs vier jaar neem - dit is omdat hierdie studente meer van hulself weet en meer weet oor wat hulle in die lewe wil doen. Hierdie studente is dus meer gereed om hul universiteitservaring te waardeer. Deur _Forbes_ se studies is bewys dat die Oorbruggingsjaar-ervaring studente se gemiddelde punt vermeerder. Hierdie vermeerderde graadpuntgemiddeld word ook gesien as ’n "verhoging in sukses."
 
-Die _Gap Year Association_, ’n nie-winsgewende lidmaatskapgemeenskap vir studente, oorbruggingsprogramme en post-sekondere instellings, wie se missie dit is om ten minste vier maande van gehalte-oorbruggingsjaartyd toeganklik vir elke hoerskoolgegradueerde te maak, het deur studies laat blyk dat, uit die studente wat hulle al ondersteun het, 84% van die respondente gese het dat hulle "pouse" hulle toegelaat het om nuwe lewensvaardighede aan te leer wat hulle later gehelp het om sukses in hul veld te behaal. Verder het 77% gesê dat hulle oorbruggingsjaar hulle gehelp het om hul lewensdoel te vind en 73% het gesê dat hulle tyd hulle verder vir hul universiteitsjare voorberei het.
+Die _Gap Year Association_, ’n nie-winsgewende lidmaatskapgemeenskap vir studente, oorbruggingsprogramme en post-sekondêre instellings, wie se missie dit is om ten minste vier maande van gehalte-oorbruggingsjaartyd toeganklik vir elke hoërskoolgegradueerde te maak, het deur studies laat blyk dat, uit die studente wat hulle al ondersteun het, 84% van die respondente gesê het dat hulle "pouse" hulle toegelaat het om nuwe lewensvaardighede aan te leer wat hulle later gehelp het om sukses in hul veld te behaal. Verder het 77% gesê dat hulle oorbruggingsjaar hulle gehelp het om hul lewensdoel te vind en 73% het gesê dat hulle tyd hulle verder vir hul universiteitsjare voorberei het.
 
-Hierdie statistieke het ook bewys dat studente wat besluit het om voordeel uit ’n oorbruggingsjaar voor universiteit te trek, na die "skool-ervaring" met ’n meet gefokusde houding terugkeer. Hierdie wys dat ’n oorbruggingsjaar ’n duidelike positiewe invloed op skoolverlaters het.
+Hierdie statistieke het ook bewys dat studente wat besluit het om voordeel uit ’n oorbruggingsjaar voor universiteit te trek, na die "skool-ervaring" met ’n meer gefokusde houding terugkeer. Hierdie wys dat ’n oorbruggingsjaar ’n duidelike positiewe invloed op skoolverlaters het.
 
 ’n Oorbruggingsjaar is nie noodwendig ’n blaaskans van leer nie; dit net ’n blaaskans van tradisionele vorme van leer soos skool en universiteit. Een wat goed bestee word, kan jou, jou CV en jou toekomstige studies bevoordeel, net soos dit die suksesvolle Steve Jobs, Elon Musk, J. K. Rowling en Mayim Bialik bevoordeel het.

@@ -5,8 +5,8 @@ subtitle: Geselsie met meneer Van Der Westhuizen oor tienertoneel
 author: Anika Burger
 image_credit: Nikita le Roux
 image: "/images/tienertoneel-9-08-2022.jpg"
-
 ---
+
 Hierdie jaar se tienertoneelstuk, [_Operasie Kersfees_](/artikel/i-operasie-kersfees-i-verloop-vlot-by-tienertoneel "<i>Operasie Kersfees</i> verloop vlot by tienertoneel"), het ons almal lekker laat lag. Die opvoering het by die _Collective Arts_ _Theatre_ en Kunstekaapteater plaasgevind en kaartjies het spoedig verkoop.
 
 DF se drama-meneer, meneer Van der Westhuizen was die regisseur van die toneelspel en hy het baie interessante inligting oor die opvoering om met _Die_ _Herout_ te deel.
@@ -27,7 +27,7 @@ _Die leerders wat gekies word, hang ook van die toneelstuk af omdat dit belangri
 
 Foto: Nikita le Roux
 
-***
+---
 
 **Hoe het die repetisies verloop?**
 
@@ -49,13 +49,13 @@ _Frans Vergeest in matriek het die beligting en klank gedoen. Archie Louw was on
 
 **Wie was die choreograaf van die dans?**
 
-_Ek dink ek het die liedjie gekies. Margo Kotze en Ingrid Klopper in Graad-11 was die hoof-choreograwe, maar dit was ’n spanpoging om te kan spot met al daardie cliché-dansies wat ons ingewerk het._
+_Ek dink ek het die liedjie gekies. Margo Kotze en Ingrid Klopper in graad-11 was die hoof-choreograwe, maar dit was ’n spanpoging om te kan spot met al daardie cliché-dansies wat ons ingewerk het._
 
 ![](/images/tienertoneel-2-08-2022.jpg)
 
 Foto: Nikita le Roux
 
-***
+---
 
 **As Meneer in die toneelstuk gespeel het, watter karakter sou Meneer wou vertolk?**
 
@@ -65,7 +65,7 @@ _Dis ’n moeilike vraag, want al die karakters is pret om te speel. Ek dink elk
 
 _Alles._
 
-_Dit was vir my baie lekker, want dit was ’n ongelooflike, vriendelike, respekvolle en hardwerkende groep leerders met wie ek gewerk het. Dit het die hele proses lekker gemaak. Vir my was van die snaaksste oomblikke elke keer wanneer die drieling inkom, wanneer tannie Karen vir die die eerste keer inkom en vra: “Waar is my_ Tupperware?!” _en dan natuurlik die dans aan die einde._
+_Dit was vir my baie lekker, want dit was ’n ongelooflike, vriendelike, respekvolle en hardwerkende groep leerders met wie ek gewerk het. Dit het die hele proses lekker gemaak. Vir my was van die snaaksste oomblikke elke keer wanneer die drieling inkom, wanneer tannie Karen vir die eerste keer inkom en vra: “Waar is my_ Tupperware?!” _en dan natuurlik die dans aan die einde._
 
 **Wanneer is die volgende toneelstuk?**
 

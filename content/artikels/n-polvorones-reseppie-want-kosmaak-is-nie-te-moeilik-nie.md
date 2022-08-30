@@ -1,24 +1,24 @@
 ---
 date_published: 2022-08-27T19:06:42.000+02:00
 title: "'n Polvorones-reseppie, want kosmaak is nie te moeilik nie!"
-subtitle: 'Hierdie tradisionele Spaanse koekie is jou nuwe vinnige soethappie-wenresep '
+subtitle: "Hierdie tradisionele Spaanse koekie is jou nuwe vinnige soethappie-wenresep "
 author: Melani Rautenbach
 image_credit: DALL·E 2 (OpenAI)
 image: "/images/dall-e-2022-08-26-21-28-41-polverones-08-2022.jpg"
-
 ---
+
 Polvorones is tradisionele Kersfeeskoekies wat meestal in Spanje, Mexiko en die Filippyne geniet word. Dit is bekend vir die soet, botterige smaak wat binne net 20 minute gemaak kan word!
 
 ### Bestanddele
 
-* 480 ml Koekmeel
-* 5 ml Koeksoda
-* 5ml Sout
-* 240 ml Margarien
-* 240 ml Witsuiker
-* 10 ml Vanieljegeursel
-* Voedselkleursel (Opsioneel)
-* Strooisuiker (Opsioneel)
+- 480 ml Koekmeel
+- 5 ml Koeksoda
+- 5ml Sout
+- 240 ml Margarien
+- 240 ml Witsuiker
+- 10 ml Vanieljegeursel
+- Voedselkleursel (Opsioneel)
+- Strooisuiker (Opsioneel)
 
 ### **Instruksies:**
 
@@ -34,7 +34,7 @@ Polvorones is tradisionele Kersfeeskoekies wat meestal in Spanje, Mexiko en die 
 
 6\. Opsioneel: Rol die balletjies in strooisuiker.
 
-7\. Plaas die deegballetjies op die plaat, ongeveer 8cm van mekaar weg.
+7\. Plaas die deegballetjies op die plaat, ongeveer 8 cm van mekaar weg.
 
 8\. Gebruik die onderkant van ’n glas en druk die deegballetjies effens plat.
 

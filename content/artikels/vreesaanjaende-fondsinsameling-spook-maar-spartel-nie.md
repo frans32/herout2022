@@ -9,7 +9,7 @@ image: "/images/spookhuis-2-08-2022.jpg"
 
 Donderdagaand, 28 Julie, het daar behoorlik geeste in DF se gange gesweef. Afwagting onder die graadagts en -neges was hoog. Dit was DF se eerste spookhuis na twee jaar van COVID-19-beperkings. Die matrieks het hierdie riller-fondsinsameling vir die juniors ten bate van Aksie Omgee aangebied.
 
-Die matrieks het van ná skool tot sesuur hul kostuums en grimering gereed gekry en die skool met kreatiewe dekor in ’n spookhospitaal te verander.
+Die matrieks het van ná skool tot sesuur hul kostuums en grimering gereed gekry en die skool met kreatiewe dekor in ’n spookhospitaal verander.
 
 Toe dit donker word, het die juniors die spookhuis aangedurf. Sonder om te weet wat om te verwag, het hulle die toer saam met hul Raad van Leerders-toergidse in die voorportaal begin. Daar het juffrou Weisse en juffrou Van Hulst die kinders eerste met vreesaanjaende gille skrikgemaak.
 

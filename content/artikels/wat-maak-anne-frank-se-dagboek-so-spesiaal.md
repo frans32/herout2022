@@ -1,19 +1,19 @@
 ---
 date_published: 2022-08-27T18:23:38.000+02:00
 title: Wat maak Anne Frank se dagboek so spesiaal?
-subtitle: ''
-author: 'Nienke de Vaal '
+subtitle: ""
+author: "Nienke de Vaal "
 image_credit: Emma Snyman
 image: "/images/anne-frank-08-2022.jpg"
-
 ---
-Anne Frank - een van geskiedenis se bekendste figure in die Tweede Wêreldoorlog. Haar dagboek is wȇreldwyd bekend en gee ons ’n kykie in die lewe van ’n Joodse slagoffer wat die Holocaust ervaar het.
+
+Anne Frank is een van geskiedenis se bekendste figure van die Tweede Wêreldoorlog. Haar dagboek is wȇreldwyd bekend en gee ons ’n kykie in die lewe van ’n Joodse slagoffer wat die Holocaust ervaar het.
 
 ### Wie was Anne Frank?
 
 Annelies Marie Frank is op 12 Junie 1929 in Frankfurt, Duitsland, gebore. Haar ouers was Otto en Edith Frank, en sy het een ouer suster, Margot, gehad. Anne het gedurende die tyd van Adolf Hitler en die Nazi Party se strewe na absolute politieke beheer, groot geword. Hitler het Jode vervolg en die meerderheid van Duitsers het anti-semities begin optree. Eskalasie in die ekonomie en toenemende diskriminasie teenoor die Jode het daartoe gelei dat Anne se gesin na Amsterdam moes trek.
 
-Die Tweede Wêreldoorlog op 1 September 1939 vlamgevat, met die Nazi’s se inval op Poland. Kort daarna is Nederland ook oorgeneem. Stadig, maar seker het meer reëls en regulasies verskyn om die lewens van Jode onmenslik te maak. Jode kon nie parke, teaters en nie-Joodse winkels besoek nie. Joodse besighede het swaar gekry en, as gevolg daarvan, het Otto, Anne se pa, sy besigheid verloor. Hierdie streng wette het vir Anne en haar suster in die slegte posisie geplaas om na ’n Joodse skool met swak onderrig en fassiliteite te gaan. Die regulasies het die Joodse volk amptelik van die Duitsers geskei. Vanaf Mei 1942 moes alle Jode die Ster van Dawid op hulle klere dra.
+Die Tweede Wêreldoorlog op 1 September 1939 vlamgevat, met die Nazi’s se inval op Pole. Kort daarna is Nederland ook oorgeneem. Stadig, maar seker het meer reëls en regulasies verskyn om die lewens van Jode onmenslik te maak. Jode kon nie parke, teaters en nie-Joodse winkels besoek nie. Joodse besighede het swaar gekry en, as gevolg daarvan, het Otto, Anne se pa, sy besigheid verloor. Hierdie streng wette het vir Anne en haar suster in die slegte posisie geplaas om na ’n Joodse skool met swak onderrig en fassiliteite te gaan. Die regulasies het die Joodse volk amptelik van die Duitsers geskei. Vanaf Mei 1942 moes alle Jode die Ster van Dawid op hulle klere dra.
 
 Vir haar 13de verjaarsdag, het Anne ’n dagboek by haar ouers ontvang.
 
@@ -29,7 +29,7 @@ Tans is daar oor die 35 miljoen kopieë van haar dagboek verkoop. Die boek is in
 
 ### Hoekom is Anne Frank se dagboek belangrik?
 
-Anne se dagboek weerspieël die seer en trauma wat Jode tydens die oorlog ervaar het. Die dagboek gee ’n ander perspektief van die _Holocaust._ Dit bespreek nie die konsentrasie kampe nie, maar eerder hoe Anne die vervolging beleef het.
+Anne se dagboek weerspieël die seer en trauma wat Jode tydens die oorlog ervaar het. Die dagboek gee ’n ander perspektief van die _Holocaust._ Dit bespreek nie die konsentrasiekampe nie, maar eerder hoe Anne die vervolging beleef het.
 
 Anne Frank het die gawe gehad om emosie op swart en wit te sit. Lesers ervaar dadelik respek en empatie vir haar. Anne het nie die tienerlewe gehad waarvan sy gedroom het nie. In haar dagboek skryf sy: _“I long to ride a bike, dance, whistle, look at the world, feel young, and know that I’m free, and yet I can’t let it show.”_ Sy het geen vryheid gehad nie.
 

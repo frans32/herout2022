@@ -1,15 +1,15 @@
 ---
 date_published: 2022-08-27T18:53:47.000+02:00
 title: Tien Kaapstad-uitstappies teen bekostigbare pryse
-subtitle: ''
+subtitle: ""
 author: Leanri Pretorius
 image_credit: Frida Nel
 image: "/images/kirstenbosch-4-08-2022.JPG"
-
 ---
+
 Almal wil so nou en dan ’n breek van hulle besige skedules vat. Hier is ’n lys van tien aktiwiteite wat jy teen ’n bekostigbare prys in Kaapstad kan doen.
 
-### 1. Yskaats
+### 1. Ysskaats
 
 Trek jou gehuurde skaatse aan en geniet die koue teen slegs R65 per persoon. Nooi ‘n ekstra 9 mense en julle betaal dan slegs R55 per persoon. Op Saterdae is die ysskaatsbaan oop vanaf 9:00 tot 24:00.
 
@@ -23,7 +23,7 @@ Adres: _Grandwest Casino_
 
 ### 3. _Boston Coffee_
 
-Jy hoef nie tot Maandag te wag vir jou heerlike koppie boeretroos nie, want _Boston Coffee_ is minder as ’n kilometer van DF af. _Boston Coffee_ is ook op Saterdae vanaf 07:30 tot 13:00 oop. Hulle verkoop die lekkerste brownies en saam met hulle perfekte latté is dit werklik ’n wennerkombinasie!
+Jy hoef nie tot Maandag te wag vir jou heerlike koppie boeretroos nie, want _Boston Coffee_ is minder as ’n kilometer van DF af. _Boston Coffee_ is ook op Saterdae vanaf 07:30 tot 13:00 oop. Hulle verkoop die lekkerste _brownies_ en saam met hulle perfekte _latté_ is dit werklik ’n wennerkombinasie!
 
 Adres: Cleveland Straat, Boston, Bellville
 
@@ -35,7 +35,7 @@ Adres: Ou _Old Mutual_-gebou, Durbanweg, Bellville
 
 ### 5. ’n Stappie op die Promenade
 
-Hierdie aktiwiteit is ’n 3-in-1: jy oefen, geniet gratis ingang en aanskou ’n pragtige uitsig van die see! Boonop is dit altyd oop, so jy hoef jou nie oor sluitingstye te bekommer nie.
+Hierdie aktiwiteit is ’n 3-in-1: Jy oefen, geniet gratis toegang en aanskou ’n pragtige uitsig van die see! Boonop is dit altyd oop, so jy hoef jou nie oor sluitingstye te bekommer nie.
 
 Adres: Groenpunt, Kaapstad
 
@@ -49,7 +49,7 @@ Addres: Rhodes Rylaan, Newlands, Kaapstad
 
 ’n Stappie in Kirstenbosch | Foto: Frida Nel
 
-***
+---
 
 ### 7. Leeukop
 
@@ -57,13 +57,13 @@ Met ’n 360°-uitsig oor die hele stad, is dié vyf kilometer-staptog beslis di
 
 ### 8. Tygerberg Natuurreservaat
 
-Die Tygerberg Natuurreservaat het 13 staproetes waaruit ’n mens kan kies. Dit kortste roete is 380m en die langste een is 3.6 km.
+Die Tygerberg Natuurreservaat het 13 staproetes waaruit ’n mens kan kies. Dit kortste roete is 380 m en die langste een is 3.6 km.
 
 Koste: Onder 18’s – R10
 
 18 en ouer – R20
 
-Adres: 1 Totius Straat, Welgemoed
+Adres: Totius Straat 1, Welgemoed
 
 ### 9. _Skeleton Gorge_
 
@@ -71,6 +71,6 @@ Hierdie staproete begin in die Kirstenbosch-tuine en eindig by _Maclear’s Beac
 
 ### 10. _Chapman’s Peak_
 
-Hierdie 4.6 kilometer-bergpasstaproete begin en eindig by Chapman’s Peak Rylaan. Dit is verniet en jy hoef net jouself as ’n dagbesoeker by die kantoor aan te meld. Dit neem ongeveer 3 ure om die roete te stap, maar kan langer neem.
+Hierdie 4.6 kilometer-bergpasstaproete begin en eindig by Chapman’s Peak Rylaan. Dit is verniet en jy hoef net as ’n dagbesoeker by die kantoor aan te meld. Dit neem ongeveer 3 ure om die roete te stap, maar kan langer neem.
 
 As jy in die vakansie lus is om ’n bietjie uit die huis te kom, bied hierdie aktiwiteite heerlike ontspanning teen redelike pryse.

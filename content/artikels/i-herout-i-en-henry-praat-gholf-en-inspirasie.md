@@ -5,8 +5,8 @@ subtitle: Leer ken ons Dee-Effers!  ’n reeks
 author: Leah Coetzee
 image_credit: Frans Vergeest
 image: "/images/henry-08-2022.jpeg"
-
 ---
+
 Ons sien hom voor in die saal sit. Ons sien hom deur die gange stap. Ons sien hom speel op die krieketveld. Maar wie is ons [hoofseun](/artikel/hoofleiers-sien-uit-na-2022-en-ontvangs-van-nuwe-graadagts "Hoofleiers sien uit na 2022 en ontvangs van nuwe graadagts"), Henry Bothwell, regtig? In hierdie onderhoud leer ken ons hom beter.
 
 **Wat maak DF Malan vir jou die beste skool?**
@@ -15,7 +15,7 @@ _Een skool is nie die beste skool nie. Dis moeilik om dit te sê. Dit hang af wa
 
 **Wie inspireer jou by die skool?**
 
-_Definitief meneer Dippenaar, sonder om vyf sekondes daaroor te dink! Hy is ’n voorbeeld van ’n wonderlike Christen en die Here word so mooi deur hom uit gebeeld. Ek is mal oor sy styl van onderwys en ek dink hy het ’n baie mooi manier om met mense om te gaan._
+_Definitief meneer Dippenaar, sonder om vyf sekondes daaroor te dink! Hy is ’n voorbeeld van ’n wonderlike Christen en die Here word so mooi deur hom uitgebeeld. Ek is mal oor sy styl van onderwys en ek dink hy het ’n baie mooi manier om met mense om te gaan._
 
 **Wat is jou hoofreël vir oorlewing in die hoërskool?**
 
@@ -41,7 +41,7 @@ The Shawshank Redemption.
 
 **_Go-to_ bestelling by die Koffieblik?**
 
-_Ek is eintlik ’n Engelse Tee-outjie, maar ek sal sê_ cappuccino_._
+_Ek is eintlik ’n Engelse Tee-outjie, maar ek sal sê_ cappuccino*.*
 
 **Wat was jou bynaam in graad agt?**
 
@@ -65,6 +65,6 @@ _In ’n koppie._
 
 _Ek gaan sê golf… maar moenie dit vir meneer Mells sê nie!_
 
-**Winter of Somer?**
+**Winter of somer?**
 
-_Bellville Golfbaan se dreinerering is regtig sleg, so ek gaan sê Somer!_
+_Bellville Golfbaan se dreinerering is regtig sleg, so ek gaan somer sê!_
