@@ -51,6 +51,7 @@
 }
 
 .playlist {
+  margin-bottom: 16px;
   max-width: calc(100vw - 32px);
   width: inherit;
   overflow-x: auto;
@@ -58,9 +59,15 @@
   scroll-snap-type: x mandatory;
 }
 
-.playlist img {
+.playlist span {
+  display: block !important;
+}
+
+.playlist a {
   display: block;
+  overflow: hidden;
   width: 180px;
+  flex-shrink: 0;
   margin: 24px 12px 24px 0;
   border-radius: 5px;
   scroll-snap-align: start;
