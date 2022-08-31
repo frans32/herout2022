@@ -13,7 +13,7 @@ Sedert 2020 was daar beperkte geleenthede om DF-gees en -trots te wys, maar by 2
 
 Hierdie is egter nie ’n artikel oor interskole nie. In die artikel gesels ons ’n bietjie met die DF-dirigente oor gees agter die skerms.
 
-Nicola Steyn, VJ Bassett, Emma Coetzee, Robert Tuck, Lize van Rooyen, Heinrich Henning, Liané Conradie, WihanBester en Nina Dixon, (2022 se dirigente) en JG Wegner, Eben Olivier, Francé Esterhuyse en Mia Groenewald (dromspelers) het hierdie jaar, ten spyte van onlangse uitdagings, nie afgeskeep nie en by elke aandoefening, hetsy ‘n vol saal of net 30 leerders, áltyd geglimlag voluit gegaan het!
+Nicola Steyn, VJ Bassett, Emma Coetzee, Robert Tuck, Lize van Rooyen, Heinrich Henning, Liané Conradie, WihanBester en Nina Dixon, (2022 se dirigente) en JG Wegner, Eben Olivier, Francé Esterhuyse en Mia Groenewald (dromspelers) het hierdie jaar, ten spyte van onlangse uitdagings, nie afgeskeep nie en by elke aandoefening, hetsy ‘n vol saal of net 30 leerders, áltyd geglimlag en voluit gegaan!
 
 Ek het agter die skerms gaan loer en met 2022 se dirigente, sowel as sommige aspirant-dirigente, onderhoude gevoer om ’n breër insig te kry oor wat dit behels om ’n DF-dirigent te wees.
 
