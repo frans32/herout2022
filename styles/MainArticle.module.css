@@ -13,7 +13,7 @@
 }
 
 .mainArticle h1 {
-  font: 32px/40px "Shippori Mincho", "Outfit", -apple-system, BlinkMacSystemFont,
+  font: 38px/1.2 "Trochut", "Outfit", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
     sans-serif;
   letter-spacing: -10%;
@@ -60,14 +60,14 @@
 @media (min-width: 900px) {
   .mainArticle {
     position: relative;
-    background: #ffffffcf;
+    background: url("/assets/noise.png");
     overflow: hidden;
   }
 
   .mainArticle h1 {
-    font: 700 44px/1.2 "Shippori Mincho", "Outfit", -apple-system,
-      BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
-      "Open Sans", "Helvetica Neue", sans-serif;
+    font: 400 44px/1.2 "Trochut", "Outfit", -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
   }
 
   .mainArticle > div {
@@ -86,6 +86,7 @@
     z-index: -1;
     margin: 0;
     transform: scale(1.1);
+    display: none;
   }
 
   .btnLees {

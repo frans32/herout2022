@@ -47,7 +47,7 @@ export default function Post({ matter, source }) {
         <div className={styles.main_image}>
           <div style={{ background: "#efefef" }}></div>
           <video
-            style={{ width: "100%" }}
+            className={styles.video}
             autoPlay
             muted
             loop

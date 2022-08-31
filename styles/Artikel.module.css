@@ -6,7 +6,8 @@
 }
 
 .article_info h1 {
-  font: 500 2em "Outfit";
+  font: 500 2.4em "Trochut";
+  color: #333;
   margin: 1em 0 0.5em;
   word-break: break-word;
 }
@@ -14,14 +15,14 @@
 .article_info h2 {
   font: 500 1.4em "Outfit";
   margin: 0 0 1em 0;
-  color: #555;
+  color: #696969;
   word-break: break-word;
 }
 
 .article_info small {
   display: block;
-  color: #444;
-  font-weight: 300;
+  color: #555;
+  font: 1em "Unica One";
   margin-bottom: 12px;
 }
 
@@ -43,12 +44,15 @@
 .image_credit {
   color: #888;
   text-align: right;
-  padding: 4px 6px;
+  padding: 3px 6px;
   font: 14px sans-serif;
+  font-family: "Outfit";
+  margin-bottom: -18px;
 }
 
 main.content {
-  font: 18px/1.8 "PT Serif", serif;
+  color: #333;
+  font: 300 18px/1.8 "PT Serif", serif;
   text-align: start;
   margin: 0 auto;
   padding: 16px 24px 64px;
@@ -81,8 +85,19 @@ main.content p:first-child {
   background: #efefef;
 }
 
+.video {
+  background: #6d7984;
+  object-fit: cover;
+  width: 100%;
+  min-height: 300px;
+}
+
 @media (min-width: 900px) {
   .article_info {
     padding: 72px 16px;
+  }
+
+  .main_image {
+    margin-bottom: 12px;
   }
 }

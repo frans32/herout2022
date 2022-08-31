@@ -10,9 +10,9 @@ export default function Header(props) {
       <Link href="/">
         <a>
           <img
-            src="/assets/logo.svg"
+            src="/assets/herout-outline.svg"
             alt="Die Herout"
-            width={134}
+            width={86}
             height={24}
           />
         </a>

@@ -1,13 +1,11 @@
 ---
 date_published: ! '"2022-08-28"'
 title: "<i>Herout</i>-Gediggenot"
-subtitle: ''
+subtitle: ""
 author: Redaksie
-image_credit: ''
+image_credit: ""
 image: "/images/sj-objio-xfwizta2ub0-unsplash-08-2022.jpg"
-
 ---
-***
 
 ### Diep blou see
 
@@ -73,7 +71,7 @@ Tog is daar 'n nederigheid
 
 aan die diep blou see...
 
-***
+---
 
 ### ’n Wederkoms
 
@@ -115,7 +113,7 @@ Wat bring die weer
 
 vandag vir my?
 
-***
+---
 
 ### die meerkoningin i
 
