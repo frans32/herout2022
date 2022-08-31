@@ -1,6 +1,7 @@
 .mainArticle {
   width: 100%;
-  background: #e0e6eb;
+  background: url("/assets/noise.png"), #e0e6eb77;
+  background-size: 48px;
 }
 
 .mainArticle > div {
@@ -61,6 +62,7 @@
   .mainArticle {
     position: relative;
     background: url("/assets/noise.png");
+    background-size: 72px;
     overflow: hidden;
   }
 
