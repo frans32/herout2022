@@ -61,6 +61,7 @@
 
 .playlist span {
   display: block !important;
+  border-radius: 5px;
 }
 
 .playlist a {
@@ -69,6 +70,5 @@
   width: 180px;
   flex-shrink: 0;
   margin: 24px 12px 24px 0;
-  border-radius: 5px;
   scroll-snap-align: start;
 }
