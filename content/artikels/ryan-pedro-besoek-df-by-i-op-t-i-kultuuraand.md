@@ -7,7 +7,7 @@ image_credit: Die Hoërskool DF Malan
 image: "/images/ryan-pedro-08-2022.jpg"
 
 ---
-Wie is Ryan Pedro? Ryan is jong digter van Kakamas wat al ’n verskeidenheid pryse gewen het, steeds is hy ’n nederige, plat-op-die-Aarde-persoon.
+Wie is Ryan Pedro? Ryan is 'n jong digter van Kakamas wat al ’n verskeidenheid pryse gewen het, steeds is hy ’n nederige, plat-op-die-Aarde-persoon.
 
 Die _OP!T_-komitee het vir Ryan ’n verskeidenheid vrae gevra, en hy het elkeen so volledig as moontlik beantwoord.
 
