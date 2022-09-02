@@ -84,7 +84,7 @@ export default function Home({
           <Playlists />
           <ArticleList title="Nuwe Artikels" posts={newArticles} />
           <ArticleList
-            title="Kortverhaalkompetisie top vyf (in geen spesifieke orde nie)"
+            title="Kortverhaalkompetisie top vyf"
             posts={shortStories}
           />
 
@@ -103,7 +103,7 @@ export default function Home({
               <></>
             )}
           </div>
-          <ArticleList title="Argief" posts={otherArticles} />
+          <ArticleList title="Uit die argief" posts={otherArticles} />
         </div>
         <Wapen />
 
