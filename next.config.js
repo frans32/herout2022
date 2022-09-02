@@ -22,4 +22,15 @@ module.exports = {
     locales: ["af"],
     defaultLocale: "af",
   },
+  async redirects() {
+    return [
+      {
+        source:
+          "/artikel/liefdesbrief-aan-lettertipes-i-die-herout-i-en-die-dinge-waaraan-ons-kan-vaskloue",
+        destination:
+          "/artikel/liefdesbrief-aan-lettertipes-i-die-herout-i-en-die-dinge-waaraan-ons-kan-vasklou",
+        permanent: true,
+      },
+    ];
+  },
 };
