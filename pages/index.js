@@ -13,6 +13,7 @@ import MainArticle from "../components/MainArticle";
 
 import homeConfig from "../content/home.json";
 import imageSize from "../utils/imageSize";
+import Playlists from "../components/Playlists";
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync(path.join("content/artikels"));
@@ -39,17 +40,25 @@ export const getStaticProps = async () => {
   let heroArticleSlug = trimSlug(homeConfig.mainArticle);
 
   let mainArticle = posts.filter((i) => i.slug == heroArticleSlug)[0];
-  let newArticles = posts.filter((i) => mainArticleSlugs.includes(i.slug));
+  let newArticles = posts.filter(
+    (i) =>
+      mainArticleSlugs.includes(i.slug) && !i.title.endsWith(": ’n kortverhaal")
+  );
+
+  const imgSize = await imageSize(mainArticle.image);
+
   let otherArticles = posts.filter(
     (i) => !mainArticleSlugs.includes(i.slug) && i.slug != heroArticleSlug
   );
 
-  const imgSize = await imageSize(mainArticle.image);
+  let shortStories = posts.filter((i) => i.title.endsWith(": ’n kortverhaal"));
+
   mainArticle = { ...mainArticle, ...imgSize };
 
   return {
     props: {
       newArticles,
+      shortStories,
       otherArticles,
       mainArticle,
       ad: homeConfig.advertisement,
@@ -57,7 +66,13 @@ export const getStaticProps = async () => {
   };
 };
 
-export default function Home({ mainArticle, newArticles, otherArticles, ad }) {
+export default function Home({
+  mainArticle,
+  newArticles,
+  shortStories,
+  otherArticles,
+  ad,
+}) {
   return (
     <>
       <MainArticle article={mainArticle}>
@@ -66,7 +81,12 @@ export default function Home({ mainArticle, newArticles, otherArticles, ad }) {
 
       <div className={styles.splitter}>
         <div className={styles.largeCol}>
+          <Playlists />
           <ArticleList title="Nuwe Artikels" posts={newArticles} />
+          <ArticleList
+            title="Kortverhaalkompetisie top vyf (in geen spesifieke orde nie)"
+            posts={shortStories}
+          />
 
           <div className={styles.imageAd}>
             {ad ? (

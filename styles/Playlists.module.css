@@ -1,0 +1,45 @@
+.heading {
+  font: 400 24px/0.69 "Outfit", sans-serif;
+  color: #3a496d;
+  margin: 4px 16px;
+  border-bottom: 1px dotted #e5e5e5;
+}
+
+.playlist {
+  margin-bottom: 16px;
+  padding-left: 16px;
+  max-width: 100vw;
+  width: inherit;
+  overflow: visible;
+  overflow-x: auto;
+  display: flex;
+  scroll-snap-type: x proximity;
+  scroll-padding: 0 0 0 16px;
+}
+
+.playlist span {
+  display: block !important;
+  border-radius: 5px;
+  box-shadow: 0 8px 16px -4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.playlist a {
+  display: block;
+  width: 200px;
+  flex-shrink: 0;
+  margin: 24px 0;
+  padding-right: 16px;
+  scroll-snap-align: start;
+  transition: transform 0.2s;
+}
+
+.playlist::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+@media (min-width: 900px) {
+  .playlist a:hover {
+    transform: scale(1.015);
+  }
+}

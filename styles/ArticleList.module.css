@@ -5,15 +5,19 @@
 .heading {
   font: 400 24px/0.69 "Outfit", sans-serif;
   color: #3a496d;
-  margin: 4px 0;
+  margin: 4px 16px;
   border-bottom: 1px dotted #e5e5e5;
 }
 
 .article {
   display: flex;
-  margin: 0;
+  margin: 0 16px;
   padding: 16px 0;
   border-bottom: 1px dotted #e5e5e5;
+}
+
+.articleList div:last-of-type > .article {
+  border-bottom: none;
 }
 
 .articleImage {
@@ -49,26 +53,41 @@
   color: #555;
   font: 14px "Unica One";
 }
+@media (max-width: 899px) {
+  .articleLarge {
+    padding: 0 0 24px 0;
+    flex-direction: column-reverse;
+    text-align: center;
+  }
 
-.playlist {
-  margin-bottom: 16px;
-  max-width: calc(100vw - 32px);
-  width: inherit;
-  overflow-x: auto;
-  display: flex;
-  scroll-snap-type: x mandatory;
+  .articleLarge .articleImage {
+    width: 100%;
+    height: min(50vw, 320px);
+  }
+  .articleLarge .articleInfo {
+    margin: 36px 0;
+    padding: 0;
+  }
 }
 
-.playlist span {
-  display: block !important;
-  border-radius: 5px;
+.articleLarge h3 {
+  font: 36px/1.3 Trochut;
+  margin-bottom: 24px;
 }
 
-.playlist a {
-  display: block;
-  overflow: hidden;
-  width: 180px;
-  flex-shrink: 0;
-  margin: 24px 12px 24px 0;
-  scroll-snap-align: start;
+@media (min-width: 900px) {
+  .articleInfo {
+    padding-left: 16px;
+  }
+
+  .articleLarge {
+    padding: 24px 0;
+    flex-direction: row-reverse;
+  }
+
+  .articleLarge .articleImage {
+    margin-left: 32px;
+    width: 240px;
+    height: 240px;
+  }
 }
