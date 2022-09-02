@@ -26,7 +26,7 @@ module.exports = {
     return [
       {
         source:
-          "/artikel/liefdesbrief-aan-lettertipes-i-die-herout-i-en-die-dinge-waaraan-ons-kan-vaskloue",
+          "/artikel/liefdesbrief-aan-lettertipes-i-die-herout-i-en-die-dinge-waaraan-ons-kan-vasklou\u0029",
         destination:
           "/artikel/liefdesbrief-aan-lettertipes-i-die-herout-i-en-die-dinge-waaraan-ons-kan-vasklou",
         permanent: true,
