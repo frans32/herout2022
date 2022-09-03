@@ -23,7 +23,7 @@ Wanneer jy koffie drink en kafeïene inneem, bind die kafeïene met die reseptor
 
 Dit is die skop wat soveel koffieliefhebbers geniet.
 
-’n Standaardkoppie koffie bevat omtrent 100mg kafeïene en ’n plat teelepel koffiepoeier van ongeveer 57 mg. Die gesonde dosis in koffie vir ’n tiener is tussen 100 en 200 mg per dag. Die reël om die gesonde dosis te neem, is 2,5 mg per kilogram in liggaamsgewig.
+’n Standaardkoppie koffie bevat omtrent 100 mg kafeïene en ’n plat teelepel koffiepoeier van ongeveer 57 mg. Die gesonde dosis in koffie vir ’n tiener is tussen 100 en 200 mg per dag. Die reël om die gesonde dosis te neem, is 2,5 mg per kilogram in liggaamsgewig.
 
 Hoë koffie-iname bied ’n paar korttermyn-nagevolge. ’n Klein bietjie bo die voorgestelde perke veroorsaak soms ’n lae hartklop en hoë bloeddruk. Gereelde koffiedrinkers sal dalk nie hierdie simptome ervaar nie.
 

@@ -25,7 +25,7 @@ Waarom word oorbruggingsjare aanbeveel?
 
 ### 2. Om studieskuld te vermy of minimaliseer
 
-In 2022 is Amerikaners ongeveer $1.75 triljoen verskuldig aan studieskuld wat grotendeels om rede is dat skoliere direk na skool graag wil studeer, maar onseker is waarvoor. Ongelukkig volg baie skoolverlaters dan studierigtings waarin hulle nie werklik belangstel nie.
+In 2022 is Amerikaners ongeveer $1.75 biljoen verskuldig aan studieskuld wat grotendeels om rede is dat skoliere direk na skool graag wil studeer, maar onseker is waarvoor. Ongelukkig volg baie skoolverlaters dan studierigtings waarin hulle nie werklik belangstel nie.
 
 ’n Oorbruggingsjaar kan help om te vermy dat onnodige kursusse geneem word deur die skoolverlaters ’n kans te gee om oor hulle belangstellings na te dink en hulle ook geld te maak om vir toekomstige studies te betaal.
 

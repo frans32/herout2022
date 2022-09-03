@@ -18,7 +18,6 @@
 
 .inlineImage img {
   object-fit: contain;
-  background-color: #efefef;
 }
 
 @media (min-width: 900px) {

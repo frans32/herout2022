@@ -51,7 +51,7 @@ _Mangel (soos in die ding wat agter in jou keel sit)._
 
 _Lea de Bruijn._
 
-**Dit of dat:**
+### Dit of dat:
 
 **Bosveld of strand?**
 
@@ -67,4 +67,4 @@ _Ek gaan sê golf… maar moenie dit vir meneer Mells sê nie!_
 
 **Winter of somer?**
 
-_Bellville Golfbaan se dreinerering is regtig sleg, so ek gaan somer sê!_
+_Bellville Golfbaan se dreinering is regtig sleg, so ek gaan somer sê!_

@@ -15,10 +15,10 @@ Drie wit skerms om die gange van die huis te skep, en ’n sneeuwit Kersboom, wa
 
 <InlineImage src="/images/tienertoneel-3-08-2022.jpg" caption="Foto: Nikita le Roux" width={1600} height={1200} />
 
-Die komedie bevat ’n gesonde balans tussen woordspel en dramatiese ironie, en skreeusnaakse _slapstick_. Die akteurs en aktrises (VJ Bassett, Mia Groenewald, Kornè Drijfhout, Carli Carstens, Janelle Jansen, Heinrich Henning, Juan Visagie, Daniël Wiese, Timothy Lodewyk, Ingrid Klopper, Emke van Schalkwyk , Jessica Schoeman en Elzaan Louw) het almal goeie interaksie op die verhoog gehad en heerlik mekaar se energie aangevul. Daardie energie was aansteeklik. Hulle het my deurlopend laat glimlag.
+Die komedie bevat ’n gesonde balans tussen woordspel en dramatiese ironie, en skreeusnaakse _slapstick_. Die akteurs en aktrises (VJ Bassett, Mia Groenewald, Kornè Drijfhout, Carli Carstens, Janelle Jansen, Heinrich Henning, Juan Visagie, Daniël Wiese, Timothy Lodewyk, Ingrid Klopper, Emke van Schalkwyk, Jessica Schoeman en Elzaan Louw) het almal goeie interaksie op die verhoog gehad en heerlik mekaar se energie aangevul. Daardie energie was aansteeklik. Hulle het my deurlopend laat glimlag.
 
 <InlineImage src="/images/tienertoneel-4-08-2022.jpg" caption="Foto: Nikita le Roux" width={1600} height={1200} />
 
-VJ Bassett is by die ATKV-Tienertoneelkompetisie as die beste akteur in ’n ondersteunende rol aangewys en Ingrid Klopper as beste aktrise in ’n ondersteunende rol. Heinrich Henning is vir beste ondersteunende akteur genomineer.
+VJ Bassett is by die <a href="https://atkv.org.za/nuus/posts/atkv-tienertoneel-wes-kaap-streeksfees-1-se-wenners-bekend/" target="_blank" rel="noreferrer">ATKV-Tienertoneelkompetisie</a> as die beste akteur in ’n ondersteunende rol aangewys en Ingrid Klopper as beste aktrise in ’n ondersteunende rol. Heinrich Henning is vir beste ondersteunende akteur genomineer.
 
 _Operasie Kersfees_ is dinamies, lewendig - en nét wat ’n mens nodig het. Hierdie produksie het die gehoor daadwerklik met ’n feestelikheid gevul en mý definitief hierdie kwartaal ’n nodige hupstootjie gegee.

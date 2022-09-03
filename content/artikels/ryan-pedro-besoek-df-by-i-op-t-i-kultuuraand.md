@@ -7,7 +7,7 @@ image_credit: Die Hoërskool DF Malan
 image: "/images/ryan-pedro-08-2022.jpg"
 ---
 
-Wie is Ryan Pedro? Ryan is 'n jong digter van Kakamas wat al ’n verskeidenheid pryse gewen het, steeds is hy ’n nederige, plat-op-die-Aarde-persoon.
+Wie is Ryan Pedro? <a href="https://www.instagram.com/broe_radley/?hl=en" target="_blank" rel="noreferrer">Ryan</a> is 'n jong digter van Kakamas wat al ’n verskeidenheid pryse gewen het, steeds is hy ’n nederige, plat-op-die-Aarde-persoon.
 
 Die _OP!T_-komitee het vir Ryan ’n verskeidenheid vrae gevra, en hy het elkeen so volledig as moontlik beantwoord.
 
@@ -37,6 +37,6 @@ Ryan het ons op 16 Augustus 2022 om 19:00 by die DF-Trein besoek. Die aand saam 
 
 <InlineImage src="/images/ryan-pedro-2-08-2022.jpg" caption="Versnaperings | Foto: Die Hoërskool DF Malan" width={727} height={688} />
 
-Ryan het twee gedigte uit sy bundel _Pienk Ceramic-Hondjies_ gelees. Die gedig wat my die meeste geraak het, was _Mixtape 3_. Ryan het gesê dat hierdie hoofstuk vir hom baie spesiaal is omdat hy dit geskryf het toe ’n vriendin van hom deur ’n baie moeilike tyd gegaan het. Die gedig handel oor die spreker wat saam met sy geliefde op die stoep staan terwyl hulle twee na hul grootwordjare verlang.
+Ryan het twee gedigte uit sy bundel <a href="https://www.nb.co.za/en/view-book/?id=9780795709869" target="_blank" rel="noreferrer">_Pienk Ceramic-Hondjies_</a> gelees. Die gedig wat my die meeste geraak het, was _Mixtape 3_. Ryan het gesê dat hierdie hoofstuk vir hom baie spesiaal is omdat hy dit geskryf het toe ’n vriendin van hom deur ’n baie moeilike tyd gegaan het. Die gedig handel oor die spreker wat saam met sy geliefde op die stoep staan terwyl hulle twee na hul grootwordjare verlang.
 
 Die aand saam met Ryan was ’n uiters verrykende ervaring. Dit was lekker om ’n jong digter te ontmoet, veral een wat so verfrissend is. Ek hoop van harte dat die _OP!T_-komitee weer iets soos dié aand sal reël, sodat Dee-Effers meer blootstelling aan die taal en al sy skatte kry.

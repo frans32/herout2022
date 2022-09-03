@@ -1,13 +1,13 @@
 ---
 date_published: 2022-08-27T18:35:58+02:00
 title: "<i>Doctor Strange in the Multiverse of</i> alles wat verkeerd gegaan het"
-subtitle: ''
+subtitle: ""
 author: Jana Burger
 image_credit: "<i>Marvel Studios</i>"
 image: "/images/dr-strange-08-2022.jpg"
-
 ---
-As iemand wat die hele eksamen lank uitgesien het om uiteindelik _Doctor Strange in the Multiverse of Madness_ te kyk, was ek nogal teleurgesteld. Daar gaan _spoilers_ wees oor die film sowel as ander films in die _MCU_ (_Marvel Cinematic Universe_), so gaan kyk dalk eers die film voordat jy hierdie artikel lees.
+
+As iemand wat die hele eksamen lank uitgesien het om uiteindelik <a href="https://tv.apple.com/za/movie/doctor-strange-in-the-multiverse-of-madness/umc.cmc.5f0mydwzevgd47pqxidz6sjf9?action=play" target="_blank" rel="noreferrer">_Doctor Strange in the Multiverse of Madness_</a> te kyk, was ek nogal teleurgesteld. Daar gaan _spoilers_ wees oor die film sowel as ander films in die _MCU_ (_Marvel Cinematic Universe_), so gaan kyk dalk eers die film voordat jy hierdie artikel lees.
 
 Ek sal erken dat die film nie eenhonderd persent sleg is nie, want daar is ’n klomp goeie dele in _Doctor Strange in the Multiverse of Madness_. Die film is ’n visuele meesterstuk en ek sal dit 10 keer weer kyk net vir die een toneel waar Stephen Strange en America Chavez deur die _Multiverse_ tuimel. Die kleure, effekte en beelde is absoluut fantasties. Die film het ook ’n gruwelfliek-gevoel, wat verfrissend is vir ’n _Marvel_-film. Die musiek pas baie goed en skep nog ’n beter atmosfeer vir die film wat hand-aan-hand gaan met die visuele beelde.
 

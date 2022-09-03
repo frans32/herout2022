@@ -5,13 +5,13 @@ subtitle: Nie almal ken egter die “pad van debat” nie – hier is hoe dit we
 author: Emily Byleveld
 image_credit: Yana Mans
 image: "/images/debating-groepfoto-08-2022.jpg"
-
 ---
+
 In ’n DF-klaskamer met ’n nommer 57 op die deur, kom daar elke Woensdag na skool ongeveer 13 talentvolle leerders bymekaar. Hulle hou daarvan om slim te argumenteer, met hulle afrigter, Kieran Bergh, hul vaardighede te slyp, of om net vir die pret teen mekaar te debatteer.
 
 DF se Engelse debatgroep is een van die mees toegewyde en passievolle groep tieners en hulle gunstelingmanier om met hul vyande van ander skole te argumenteer, is die _Rotary Debating_-styl.
 
-Wat is _Rotary Debating_? Ongeveer 40 skooldebatspanne, met junior - en senior spanne, debatteer teen mekaar. Elke skool het byna elke derde week ’n debat teen ’n ander skool. In die meeste van die debatte waarin DF deelgeneem het, het ons spanne gewen!
+Wat is <a href="https://sadebating.org/provinces/western-cape/" target="_blank" rel="noreferrer">_Rotary Debating_</a>? Ongeveer 40 skooldebatspanne, met junior - en senior spanne, debatteer teen mekaar. Elke skool het byna elke derde week ’n debat teen ’n ander skool. In die meeste van die debatte waarin DF deelgeneem het, het ons spanne <a href="https://us14.campaign-archive.com/?e=[UNIQID]&u=daa1c7a229e247f75ab88c2dd&id=1339071984#:~:text=DF%20Malan%20High%20School%20from%20Bellville%C2%A0defeated%20Herschel%20Girls%27%20School" target="_blank" rel="noreferrer">gewen</a>!
 
 Dit is ’n driefase-kompetisie, waarin ’n span van drie mense elk, hul gegewe onderwerp debatteer. Daar is ’n eerste spreker, wat die debat met ’n treffende inleiding, konteks oor die onderwerp, en twee argumente, moet afskop. Dan volg die tweede spreker, wat die res van die argumente voorstel, en die derde spreker wat _rebuttal_ of _clashes_ gee.
 

@@ -9,11 +9,11 @@ image: "/images/tienertoneel-9-08-2022.jpg"
 
 Hierdie jaar se tienertoneelstuk, [_Operasie Kersfees_](/artikel/i-operasie-kersfees-i-verloop-vlot-by-tienertoneel "<i>Operasie Kersfees</i> verloop vlot by tienertoneel"), het ons almal lekker laat lag. Die opvoering het by die _Collective Arts_ _Theatre_ en Kunstekaapteater plaasgevind en kaartjies het spoedig verkoop.
 
-DF se drama-meneer, meneer Van der Westhuizen was die regisseur van die toneelspel en hy het baie interessante inligting oor die opvoering om met _Die_ _Herout_ te deel.
+DF se drama-meneer, <a href="https://www.instagram.com/ianvdw2525/?hl=en" target="_blank" rel="noreferrer">meneer Van der Westhuizen</a> was die regisseur van die toneelspel en hy het baie interessante inligting oor die opvoering om met _Die_ _Herout_ te deel.
 
 **Waar het die idee van die toneelstuk vandaan gekom?**
 
-_Die stuk is deur Margo Kotze (’n oud-DF-leerder) geskryf en sy het gesȇ dat dit deur die familiestereotipes en drama wat, veral rondom Kersfeestyd, plaasvind, geïnspireer, is._
+_Die stuk is deur <a href="https://www.instagram.com/margokotze/?hl=en" target="_blank" rel="noreferrer">Margo Kotze</a> (’n oud-DF-leerder) geskryf en sy het gesȇ dat dit deur die familiestereotipes en drama wat, veral rondom Kersfeestyd, plaasvind, geïnspireer, is._
 
 **Hoe het die oudisieproses gewerk?**
 

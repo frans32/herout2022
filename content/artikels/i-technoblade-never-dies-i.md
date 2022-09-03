@@ -9,7 +9,7 @@ image: "/images/technoblade-08-2022.jpg"
 
 _Technoblade_ (regte naam, Alexander), was ’n bekende Amerikaanse _YouTuber_ met meer as 15 miljoen _subscribers_.
 
-Op 1 Julie 2022 is ’n video genaamd _So Long Nerds_ op sy kanaal gelaai met ontstellende nuus. Die afsterwe van _Technoblade_ het talle mense regoor die wêreld laat treur.
+Op 1 Julie 2022 is ’n video genaamd <a href="https://www.youtube.com/watch?v=DPMluEVUqS0" target="_blank" rel="noreferrer">_So Long Nerds_</a> op sy kanaal gelaai met ontstellende nuus. Die afsterwe van _Technoblade_ het talle mense regoor die wêreld laat treur.
 
 _Technoblade_ is op 1 Junie 1999 gebore en is in Augustus 2021 met kanker gediagnoseer. Chemoterapie was onsuksesvol en hy is op 30 Junie 2022 oorlede. Deur die moeilike tye van sy lewe, het Technoblade nog steeds video’s opgelaai om sy kykers oor sy toestand ingelig te hou. Hy het nie gekla oor die pyn nie, maar het grappe gemaak en sy kykers ingelig oor die gevare van siektes, veral COVID-19.
 

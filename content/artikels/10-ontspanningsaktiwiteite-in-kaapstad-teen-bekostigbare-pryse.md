@@ -23,13 +23,13 @@ Adres: _Grandwest Casino_
 
 ### 3. _Boston Coffee_
 
-Jy hoef nie tot Maandag te wag vir jou heerlike koppie boeretroos nie, want _Boston Coffee_ is minder as ’n kilometer van DF af. _Boston Coffee_ is ook op Saterdae vanaf 07:30 tot 13:00 oop. Hulle verkoop die lekkerste _brownies_ en saam met hulle perfekte _latté_ is dit werklik ’n wennerkombinasie!
+Jy hoef nie tot Maandag te wag vir jou heerlike koppie boeretroos nie, want <a href="https://bostoncoffee.co.za" target="_blank" rel="noreferrer">_Boston Coffee_</a> is minder as ’n kilometer van DF af. _Boston Coffee_ is ook op Saterdae vanaf 07:30 tot 13:00 oop. Hulle verkoop die lekkerste _brownies_ en saam met hulle perfekte _latté_ is dit werklik ’n wennerkombinasie!
 
 Adres: Cleveland Straat, Boston, Bellville
 
 ### 4. _Holland Bakery_
 
-Dié bakkery verkoop alles van soet tot sout - en selfs ’n paar eg-Hollandse leefstylprodukte. Die pryse van hulle produkte is billik en wissel tussen R45 en R100. Hulle is van Maandae tot Vrydae tussen 9:00 en 16:00 oop. Onthou om ‘n afspraak te maak as jy van plan is om hulle tydens die week te besoek.
+<a href="https://hollandbakery.co.za" target="_blank" rel="noreferrer">Dié bakkery</a> verkoop alles van soet tot sout - en selfs ’n paar eg-Hollandse leefstylprodukte. Die pryse van hulle produkte is billik en wissel tussen R45 en R100. Hulle is van Maandae tot Vrydae tussen 9:00 en 16:00 oop. Onthou om ‘n afspraak te maak as jy van plan is om hulle tydens die week te besoek.
 
 Adres: Ou _Old Mutual_-gebou, Durbanweg, Bellville
 

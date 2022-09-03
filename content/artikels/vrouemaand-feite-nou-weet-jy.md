@@ -1,17 +1,17 @@
 ---
 date_published: ! '"2022-08-28"'
 title: Vrouemaand-feite – nou weet jy...
-subtitle: ''
+subtitle: ""
 author: Misha Coetzee
 image_credit: DALL·E 2 (OpenAI)
 image: "/images/dall-e-2022-08-29-11-57-11-08-2022.jpg"
-
 ---
+
 Flaterwater, jou Afrikaansonderwyser se grootste haat, is deur Bette Nesmith Graham, ‘n Amerikaanse tikster, ontwerp.
 
 Leeuwyfies is die jagters in die groep en lei hul trop. Hulle leer ook die jonger wyfies hoe om te jag.
 
-Die tweede hoogste IK-telling is deur 'n vrou aangeteken, met Marilyan vos Savant wie s’n die hoogste is.
+Die twee hoogste IK-tellings is deur vrouens aangeteken, met Marilyan vos Savant wie s’n die hoogste is.
 
 Vrouens wat grimering dra, eet ’n geskatte 1.8 kg tot 4 kg lipstiffie in hul leeftyd.
 

@@ -7,7 +7,7 @@ image_credit: Emma Snyman
 image: "/images/anne-frank-08-2022.jpg"
 ---
 
-Anne Frank is een van geskiedenis se bekendste figure van die Tweede Wêreldoorlog. Haar dagboek is wȇreldwyd bekend en gee ons ’n kykie in die lewe van ’n Joodse slagoffer wat die Holocaust ervaar het.
+Anne Frank is een van geskiedenis se bekendste figure van die Tweede Wêreldoorlog. Haar <a href="https://books.google.co.za/books?id=sdAQ0_YWJs4C&lpg=PP1&pg=PP1#v=onepage&q&f=false" target="_blank" rel="noreferrer">dagboek</a> is wêreldwyd bekend en gee ons ’n kykie in die lewe van ’n Joodse slagoffer wat die Holocaust ervaar het.
 
 ### Wie was Anne Frank?
 
@@ -25,7 +25,7 @@ Ongelukkig is die _Secret Annexe_ op 4 Augustus 1944 deur die Gestapo gevind. Di
 
 Uit al die bewoners van die _Secret Annexe,_ was Otto Frank, Anne se pa, die enigste een wat die konsentrasiekampe oorleef het. Hy het Anne se dagboek gelees en besluit om dit te publiseer. Anne se droom om ’n skrywer te word, het gerealiseer, maar op ’n tragiese manier.
 
-Tans is daar oor die 35 miljoen kopieë van haar dagboek verkoop. Die boek is in meer as 70 tale beskikbaar. Anne se dagboek is ’n voorgeskrewe leesboek in vele skole en daar is ook film- en teater weergawes van Anne se storie. Die _Secret Annexe_ kan ook vandag by die _Anne Frank House and Museum_ besoek word.
+Tans is daar oor die 35 miljoen kopieë van haar dagboek verkoop. Die boek is in meer as 70 tale beskikbaar. Anne se dagboek is ’n voorgeskrewe leesboek in vele skole en daar is ook film- en teater weergawes van Anne se storie. Die _Secret Annexe_ kan ook vandag by die <a href="https://www.annefrank.org/en/museum/tickets/" target="_blank" rel="noreferrer">_Anne Frank House and Museum_</a> besoek word.
 
 ### Hoekom is Anne Frank se dagboek belangrik?
 
