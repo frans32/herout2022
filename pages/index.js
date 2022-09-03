@@ -122,6 +122,7 @@ export default function Home({
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
           />
           <meta name="twitter:card" content="summary" />
+          <meta name="twitter:title" content="Die Herout" />
         </Head>
       </div>
     </>

@@ -125,7 +125,14 @@ export default function Post({ matter, source, slug }) {
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={matter.title} />
-        <meta name="twitter:image" content={matter.image} />
+        <meta
+          name="twitter:image"
+          content={
+            "https://herout.co.za/_next/image?url=" +
+            encodeURI(matter.image) +
+            "&w=750&q=75"
+          }
+        />
       </Head>
     </>
   );
