@@ -33,4 +33,12 @@ module.exports = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      {
+        source: "/ogimg/:image*",
+        destination: "/_next/image?url=:image*&w=750&q=75",
+      },
+    ];
+  },
 };

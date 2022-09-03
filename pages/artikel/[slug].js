@@ -50,6 +50,8 @@ export function getStaticPaths() {
 }
 
 export default function Post({ matter, source, slug }) {
+  strippedTitle = matter.title.replace("<i>", "").replace("</i>", "");
+
   return (
     <>
       <Header />
@@ -93,29 +95,22 @@ export default function Post({ matter, source, slug }) {
           </div>
           <div className={styles.share}>
             <PageViews page={slug} />
-            <ShareButton title={matter.title} />
+            <ShareButton title={strippedTitle} />
           </div>
         </section>
         <MDXRemote {...source} components={{ InlineImage }} />
       </main>
 
       <Head>
-        <title>
-          {matter.title.replace("<i>", "").replace("</i>", "")} - Die Herout
-          2022
-        </title>
+        <title>{strippedTitle} - Die Herout 2022</title>
         <meta name="theme-color" content="#efefef" />
 
-        <meta property="og:title" content={matter.title} />
+        <meta property="og:title" content={strippedTitle} />
         <meta property="og:type" content="article" />
         <meta property="og:article:author" content={matter.author} />
         <meta
           property="og:image"
-          content={
-            "https://herout.co.za/_next/image?url=" +
-            matter.image +
-            "&w=1920&q=75"
-          }
+          content={"https://herout.co.za/ogimg/" + encodeURI(matter.image)}
         />
         <meta
           property="og:url"
@@ -124,16 +119,11 @@ export default function Post({ matter, source, slug }) {
         <meta property="og:description" content={"Deur " + matter.author} />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={matter.title} />
+        <meta name="twitter:title" content={strippedTitle} />
         <meta
           name="twitter:image"
-          content={
-            "https://herout.co.za/_next/image?url=" +
-            matter.image +
-            "&w=1920&q=75"
-          }
+          content={"https://herout.co.za/ogimg/" + encodeURI(matter.image)}
         />
-        <meta name="twitter:title" content={matter.title} />
       </Head>
     </>
   );
