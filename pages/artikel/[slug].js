@@ -110,7 +110,7 @@ export default function Post({ matter, source, slug }) {
         <meta property="og:article:author" content={matter.author} />
         <meta
           property="og:image"
-          content={"https://herout.co.za/ogimg/" + encodeURI(matter.image)}
+          content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
         />
         <meta
           property="og:url"
@@ -122,7 +122,7 @@ export default function Post({ matter, source, slug }) {
         <meta name="twitter:title" content={strippedTitle} />
         <meta
           name="twitter:image"
-          content={"https://herout.co.za/ogimg/" + encodeURI(matter.image)}
+          content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
         />
       </Head>
     </>
