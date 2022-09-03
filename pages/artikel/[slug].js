@@ -119,7 +119,7 @@ export default function Post({ matter, source, slug }) {
           property="og:url"
           content={"https://herout.co.za/artikels/" + slug}
         />
-        <meta property="og:description" content={"deur " + matter.author} />
+        <meta property="og:description" content={"Deur " + matter.author} />
         <meta name="theme-color" content="#efefef" />
       </Head>
     </>

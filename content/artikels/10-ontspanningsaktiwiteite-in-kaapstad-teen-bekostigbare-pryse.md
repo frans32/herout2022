@@ -53,7 +53,7 @@ Met ’n 360°-uitsig oor die hele stad, is dié vyf kilometer-staptog beslis di
 
 ### 8. Tygerberg Natuurreservaat
 
-Die Tygerberg Natuurreservaat het 13 staproetes waaruit ’n mens kan kies. Dit kortste roete is 380 m en die langste een is 3.6 km.
+Die Tygerberg Natuurreservaat het 13 staproetes waaruit ’n mens kan kies. Dit kortste roete is 380 m en die langste een is 3,6 km.
 
 Koste: Onder 18’s – R10
 
@@ -67,6 +67,6 @@ Hierdie staproete begin in die Kirstenbosch-tuine en eindig by _Maclear’s Beac
 
 ### 10. _Chapman’s Peak_
 
-Hierdie 4.6 kilometer-bergpasstaproete begin en eindig by Chapman’s Peak Rylaan. Dit is verniet en jy hoef net as ’n dagbesoeker by die kantoor aan te meld. Dit neem ongeveer 3 ure om die roete te stap, maar kan langer neem.
+Hierdie 4,6 kilometer-bergpasstaproete begin en eindig by Chapman’s Peak Rylaan. Dit is verniet en jy hoef net as ’n dagbesoeker by die kantoor aan te meld. Dit neem ongeveer 3 ure om die roete te stap, maar kan langer neem.
 
 As jy in die vakansie lus is om ’n bietjie uit die huis te kom, bied hierdie aktiwiteite heerlike ontspanning teen redelike pryse.

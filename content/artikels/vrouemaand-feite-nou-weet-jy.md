@@ -13,7 +13,7 @@ Leeuwyfies is die jagters in die groep en lei hul trop. Hulle leer ook die jonge
 
 Die twee hoogste IK-tellings is deur vrouens aangeteken, met Marilyan vos Savant wie s’n die hoogste is.
 
-Vrouens wat grimering dra, eet ’n geskatte 1.8 kg tot 4 kg lipstiffie in hul leeftyd.
+Vrouens wat grimering dra, eet ’n geskatte 1,9 kg tot 4 kg lipstiffie in hul leeftyd.
 
 Vrouens lewe oor die algemeen 8% langer as mans.
 
