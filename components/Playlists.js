@@ -14,7 +14,12 @@ export default function Playlists() {
           rel="noreferrer"
           onClick={(e) => plausible("playlist:middernag")}
         >
-          <Image src="/playlists/middernag256.jpg" width={256} height={256} />
+          <Image
+            src="/playlists/middernag512.jpg"
+            width={512}
+            height={512}
+            quality={50}
+          />
         </a>
         <a
           href="https://music.apple.com/za/playlist/herout-cottagecore/pl.u-LdbqBDvTxG5djMJ"
@@ -22,7 +27,12 @@ export default function Playlists() {
           rel="noreferrer"
           onClick={(e) => plausible("playlist:cottagecore")}
         >
-          <Image src="/playlists/cottagecore256.jpg" width={256} height={256} />
+          <Image
+            src="/playlists/cottagecore512.jpg"
+            width={512}
+            height={512}
+            quality={50}
+          />
         </a>
         <a
           href="https://music.apple.com/za/playlist/herout-juffrou-meyer-treffers/pl.u-vxy6Dzxsza46ld9"
@@ -30,7 +40,12 @@ export default function Playlists() {
           rel="noreferrer"
           onClick={(e) => plausible("playlist:meyer")}
         >
-          <Image src="/playlists/meyer256.jpg" width={256} height={256} />
+          <Image
+            src="/playlists/meyer512.jpg"
+            width={512}
+            height={512}
+            quality={50}
+          />
         </a>
       </div>
     </section>

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import styles from "../styles/Wapen.module.css";
 
 export default function Wapen() {
@@ -58,6 +59,11 @@ export default function Wapen() {
         >
           <span>5</span>Augustus 2021
         </a>
+      </div>
+      <div className={styles.redaksielys}>
+        <Link href="/redaksie">
+          <a>redaksielys</a>
+        </Link>
       </div>
     </section>
   );
