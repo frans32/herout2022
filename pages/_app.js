@@ -8,15 +8,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta name="robots" content="noarchive" />
         <meta property="og:site_name" content="Die Herout" />
-        <meta
-          name="description"
-          content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
-        />
-        <meta
-          property="og:description"
-          content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
-        />
-        <link rel="icon" type="image/png" href="favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
         <link rel="apple-touch-icon" href="/favicon/logo192.png" />
         <link rel="manifest" href="/manifest.json" />
 

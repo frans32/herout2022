@@ -108,9 +108,19 @@ export default function Home({
         <Wapen />
 
         <Head>
-          <title>
-            Die Herout: Die amptelike skoolkoerant van die Hoërskool DF Malan
-          </title>
+          <title>Die Herout</title>
+          <meta
+            property="og:image"
+            content={"https://herout.co.za/favicon/logo512.png"}
+          />
+          <meta
+            name="description"
+            content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
+          />
+          <meta
+            property="og:description"
+            content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
+          />
         </Head>
       </div>
     </>
