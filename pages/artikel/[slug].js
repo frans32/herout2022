@@ -111,19 +111,19 @@ export default function Post({ matter, source, slug }) {
         <meta property="og:article:author" content={matter.author} />
         <meta
           property="og:image"
-          content={"https://herout.co.za/" + matter.image}
+          content={"https://herout.co.za" + matter.image}
         />
         <meta
           property="og:url"
           content={"https://herout.co.za/artikels/" + slug}
         />
-        <meta property="og:description" content={"Deur " + matter.author} />
+        <meta property="og:description" content={"deur " + matter.author} />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={matter.title} />
         <meta
           name="twitter:image"
-          content={"https://herout.co.za/" + matter.image}
+          content={"https://herout.co.za" + matter.image}
         />
         <meta name="twitter:title" content={matter.title} />
       </Head>
