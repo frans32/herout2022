@@ -1,12 +1,12 @@
 ---
 date_published: ! '"2022-08-28"'
 title: Ryan Pedro besoek DF by <i>OP!T</i>-kultuuraand
-subtitle: ''
+subtitle: ""
 author: Melani Rautenbach
 image_credit: Die Hoërskool DF Malan
 image: "/images/ryan-pedro-08-2022.jpg"
-
 ---
+
 Wie is Ryan Pedro? Ryan is 'n jong digter van Kakamas wat al ’n verskeidenheid pryse gewen het, steeds is hy ’n nederige, plat-op-die-Aarde-persoon.
 
 Die _OP!T_-komitee het vir Ryan ’n verskeidenheid vrae gevra, en hy het elkeen so volledig as moontlik beantwoord.
@@ -35,13 +35,7 @@ Ryan het geantwoord dat daar nie ’n spesifieke skryfproses is wat hy volg nie,
 
 Ryan het ons op 16 Augustus 2022 om 19:00 by die DF-Trein besoek. Die aand saam met hom het ongeveer twee ure lank geduur, met heerlike eet- en drinkgoed, deur die _OP!T_-komitee voorsien. Hierdie versnaperings het warmsjokolade, malvalekkers, melktert, samosas en hondjievormige koekies ingesluit. Vir ’n bietjie hitte op die koue wintersaand, het die _OP!T_-komitee die trein se binnebraai aangesteek. Dit het ook ’n gunstige atmosfeer meegebring.
 
-<br/>
-
-![](/images/ryan-pedro-2-08-2022.jpg)
-
-Versnaperings | Foto: Die Hoërskool DF Malan
-
-***
+<InlineImage src="/images/ryan-pedro-2-08-2022.jpg" caption="Versnaperings | Foto: Die Hoërskool DF Malan" width={727} height={688} />
 
 Ryan het twee gedigte uit sy bundel _Pienk Ceramic-Hondjies_ gelees. Die gedig wat my die meeste geraak het, was _Mixtape 3_. Ryan het gesê dat hierdie hoofstuk vir hom baie spesiaal is omdat hy dit geskryf het toe ’n vriendin van hom deur ’n baie moeilike tyd gegaan het. Die gedig handel oor die spreker wat saam met sy geliefde op die stoep staan terwyl hulle twee na hul grootwordjare verlang.
 

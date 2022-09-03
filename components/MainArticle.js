@@ -17,7 +17,6 @@ export default function MainArticle(props) {
               height={props.article.imgHeight}
               priority
               layout="responsive"
-              quality={65}
               sizes="calc(100vw - 24px)"
             />
           </div>

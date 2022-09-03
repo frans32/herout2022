@@ -35,11 +35,7 @@ Groot opgewondenheid, terwyl ons Venesië binnevaar.
 
 Uurlange staptog om die restaurant vir aandete wat “net om die draai” van die hotel is, te vind.
 
-![](/images/europa-6-08-2022.jpg)
-
-Die kanale van Venesië | Foto: Shianne Brand
-
----
+<InlineImage src="/images/europa-6-08-2022.jpg" width={1200} height={1600} caption="Die kanale van Venesië | Foto: Shianne Brand" />
 
 ### Vrydag, 1 Julie 2022
 

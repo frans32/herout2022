@@ -23,11 +23,7 @@ _Die oudisies verloop nie elke jaar dieselfde nie, want dit hang van die tipe to
 
 _Die leerders wat gekies word, hang ook van die toneelstuk af omdat dit belangrik is dat die akteurs by hulle karakters pas._
 
-![](/images/tienertoneel-1-08-2022.jpg)
-
-Foto: Nikita le Roux
-
----
+<InlineImage caption="Foto: Nikita le Roux" src="/images/tienertoneel-1-08-2022.jpg" width={912} height={1368}/>
 
 **Hoe het die repetisies verloop?**
 
@@ -51,11 +47,7 @@ _Frans Vergeest in matriek het die beligting en klank gedoen. Archie Louw was on
 
 _Ek dink ek het die liedjie gekies. Margo Kotze en Ingrid Klopper in graad-11 was die hoof-choreograwe, maar dit was ’n spanpoging om te kan spot met al daardie cliché-dansies wat ons ingewerk het._
 
-![](/images/tienertoneel-2-08-2022.jpg)
-
-Foto: Nikita le Roux
-
----
+<InlineImage caption="Foto: Nikita le Roux" src="/images/tienertoneel-2-08-2022.jpg" width={1600} height={1200}/>
 
 **As Meneer in die toneelstuk gespeel het, watter karakter sou Meneer wou vertolk?**
 

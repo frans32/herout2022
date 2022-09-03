@@ -78,13 +78,6 @@ main.content p:first-child {
   text-decoration: underline;
 }
 
-.content img {
-  max-width: 100%;
-  max-height: 80vh;
-  overflow: hidden;
-  background: #efefef;
-}
-
 .video {
   background: #6d7984;
   object-fit: cover;

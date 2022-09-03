@@ -36,6 +36,11 @@ export default function ArticleList({ posts, title }) {
                   </div>
                   <div className={styles.articleInfo}>
                     <h3 dangerouslySetInnerHTML={{ __html: i.title }} />
+                    {large && i.subtitle ? (
+                      <h4 dangerouslySetInnerHTML={{ __html: i.subtitle }} />
+                    ) : (
+                      <></>
+                    )}
                     <small>{i.author}</small>
                   </div>
                 </a>

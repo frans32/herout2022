@@ -4,6 +4,7 @@ import { MDXRemote } from "next-mdx-remote";
 import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
+import InlineImage from "../../components/InlineImage";
 
 import styles from "../../styles/Artikel.module.css";
 import Header from "../../components/Header";
@@ -79,7 +80,7 @@ export default function Post({ matter, source }) {
         </div>
       </section>
       <main className={styles.content}>
-        <MDXRemote {...source} components={{ Image }} />
+        <MDXRemote {...source} components={{ InlineImage }} />
       </main>
 
       <Head>

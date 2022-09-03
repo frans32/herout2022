@@ -29,11 +29,7 @@ Daardie aand het DF se Engels- en Afrikaansdebatspanne vir Bellville bang gepraa
 
 Pouse se onnies-teen-matrieks-pretdebat was groot pret. Die onderwerp: _Lang hare maak jou slimmer_. Ongelukkig kon Tala Wiese, Reagan Johnson en Zander Taljaard nie teen juffrou Meyer, meneer De Wet en meneer Van der Westhuizen se vlymskerp argumente wen nie.
 
-![](/images/image1-08-2022.jpeg)
-
-Interskolebalkie deur Zander Taljaard ontwerp
-
----
+<InlineImage src="/images/image1-08-2022.jpeg" width={1280} height={902} caption="Interskolebalkie deur Zander Taljaard ontwerp" />
 
 ### Woensdag, 24 Augustus
 
@@ -55,11 +51,7 @@ Die A-spanne het hul ondersteuners by DF se _big brag_ trots laat juig. DF se ee
 
 By Bellville het DF se hokkiespanne en al die blou gees op die pawiljoene ons trots gemaak.
 
-![](/images/interskole-vlaggies-08-2022.jpg)
-
-Vrydag se gees op die pawiljoen | Foto: Die Hoërskool DF Malan
-
----
+<InlineImage src="/images/interskole-vlaggies-08-2022.jpg" width={1440} height={1800} caption="Vrydag se gees op die pawiljoen | Foto: Die Hoërskool DF Malan" />
 
 ### Saterdag, 27 Augustus
 

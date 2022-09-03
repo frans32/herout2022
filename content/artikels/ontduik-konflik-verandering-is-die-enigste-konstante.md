@@ -1,6 +1,6 @@
 ---
-title: "Ontduik konflik: verandering  is die enigste konstante"
-subtitle: ""
+title: "Ontduik konflik"
+subtitle: "Verandering  is die enigste konstante"
 author: Leah Coetzee
 image_credit: Emma Olivier
 image: "/images/verandering.jpg"

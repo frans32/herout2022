@@ -103,7 +103,7 @@ export default function Home({
               <></>
             )}
           </div>
-          <ArticleList title="Uit die argief" posts={otherArticles} />
+          <ArticleList title="Januarie tot Julie 2022" posts={otherArticles} />
         </div>
         <Wapen />
 

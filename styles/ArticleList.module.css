@@ -72,7 +72,17 @@
 
 .articleLarge h3 {
   font: 36px/1.3 Trochut;
-  margin-bottom: 24px;
+  margin: 0;
+}
+
+.articleLarge h4 {
+  font: 18px/1.3 Outfit;
+  color: #696969;
+  margin: 16px 0 0 0;
+}
+
+.articleLarge small {
+  margin-top: 24px;
 }
 
 @media (min-width: 900px) {
@@ -82,6 +92,7 @@
 
   .articleLarge {
     padding: 24px 0;
+    justify-content: space-between;
     flex-direction: row-reverse;
   }
 

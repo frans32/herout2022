@@ -1,0 +1,28 @@
+.inlineImage {
+  text-align: center;
+  padding: 12px 0;
+}
+
+.inlineImage span {
+  max-width: 100%;
+  max-height: 80vh;
+  overflow: hidden;
+  background: #efefef;
+}
+
+.inlineImage small {
+  display: block;
+  color: #555;
+  margin-top: 12px;
+}
+
+.inlineImage img {
+  object-fit: contain;
+  background-color: #efefef;
+}
+
+@media (min-width: 900px) {
+  .inlineImage {
+    padding: 24px 0;
+  }
+}

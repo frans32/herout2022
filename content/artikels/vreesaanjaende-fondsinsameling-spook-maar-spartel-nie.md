@@ -21,11 +21,7 @@ Daarna volg die _kraamsaal_ waar die gille seker nog lank by die kinders sal spo
 
 Die _orgaanskenkkamer_ met regte longe, ingewande en ’n hart deur ’n slaghuis verskaf, sou enigiemand se nekhare laat rys.
 
-![](/images/spookhuis-1-08-2022.jpg)
-
-Foto: Carel Stander
-
----
+<InlineImage src="/images/spookhuis-1-08-2022.jpg" caption="Foto: Carel Stander" width={2048} height={1363} />
 
 Volgende stop: _kosmetiese chirurgie_ waar die kinders senuweeagtig in die dokter se spreekkamer moes wag en toe ’n vreesaanjaende vertoning deur Reagan en Emma ervaar het.
 
@@ -35,13 +31,9 @@ Daar was vreemde geluide oor die interkom, spookpasiënte in jaende rolstoele en
 
 Volgens die juniors het Reagan se “spreekkamer”, asook die chirurgie-teater, die meeste vrees by hulle opgewek.
 
-Nicola Steyn _(@nicoladoesmakeup_ op _Instagram_) het die grimering gedoen. Met spesiale effekte-grimering kon sy ’n realisme aan die spoke bring wat beslis die juniors die skrik op die lyf gejaag het. Allerlei kostuums, van dié van bloedbesmeerde dokters en pasiënte tot verband-bedekte skimme en gemaskerde spoke, het almal met vrees vervul.
+Nicola Steyn (<a href="https://www.instagram.com/nicoladoesmakeup/" target="_blank" rel="noreferrer">_@nicoladoesmakeup_</a> op _Instagram_) het die grimering gedoen. Met spesiale effekte-grimering kon sy ’n realisme aan die spoke bring wat beslis die juniors die skrik op die lyf gejaag het. Allerlei kostuums, van dié van bloedbesmeerde dokters en pasiënte tot verband-bedekte skimme en gemaskerde spoke, het almal met vrees vervul.
 
-![](/images/spookhuis-11-08-2022.jpg)
-
-Foto: Cara Louw
-
----
+<InlineImage src="/images/spookhuis-11-08-2022.jpg" caption="Foto: Cara Louw" width={3323} height={2087} />
 
 Kaartjies het R30 gekos en al die geld het na Aksie Omgee gegaan. Byna 300 kaartjies is verkoop en R9000 is vir dié goeie doel om ander te help, ingesamel.
 
