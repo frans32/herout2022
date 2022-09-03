@@ -1,0 +1,64 @@
+.footerWrapper {
+  margin-top: 48px;
+  border-top: 1px solid #333;
+  padding: 12px 16px 36px 16px;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 1000px;
+  max-width: 100%;
+  overflow-x: hidden;
+  color: #333;
+  font: 1em/24px "Outfit", sans-serif;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.flex > div {
+  margin-top: 24px;
+}
+
+.leftCol {
+  flex: 0 0 200px;
+}
+
+.logo {
+  display: block;
+  margin-bottom: 24px;
+}
+
+.centerCol {
+  flex: 450px 0 1;
+}
+
+.centerCol h3 {
+  font-size: 1em;
+  margin: 0 0 12px 0;
+}
+
+.centerCol a {
+  display: block;
+}
+
+.footer a:hover {
+  color: #696969;
+}
+
+.socials {
+  margin-top: 24px;
+  display: flex;
+  gap: 24px;
+}
+
+.socials img {
+  display: block;
+}
+
+.socials a:hover img {
+  opacity: 0.8;
+}

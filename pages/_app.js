@@ -1,6 +1,7 @@
 import "../styles/globals.css";
 
 import Head from "next/head";
+import Footer from "../components/Footer";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -24,6 +25,7 @@ function MyApp({ Component, pageProps }) {
         <script defer src="https://herout.co.za/plausible.js"></script>
       </Head>
       <Component {...pageProps} />
+      <Footer />
     </>
   );
 }
