@@ -104,6 +104,18 @@ export default function Post({ matter, source, slug }) {
           {matter.title.replace("<i>", "").replace("</i>", "")} - Die Herout
           2022
         </title>
+        <meta property="og:title" content={matter.title} />
+        <meta property="og:type" content="article" />
+        <meta property="og:article:author" content={matter.author} />
+        <meta
+          property="og:image"
+          content={
+            "https://herout.co.za/_next/image?url=" +
+            urlEncode(matter.image) +
+            "&w=900&q=75"
+          }
+        />
+        <meta property="og:title" content={"Die Herout: " + matter.title} />
         <meta name="theme-color" content="#efefef" />
       </Head>
     </>
