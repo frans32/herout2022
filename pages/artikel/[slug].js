@@ -112,7 +112,7 @@ export default function Post({ matter, source, slug }) {
           content={
             "https://herout.co.za/_next/image?url=" +
             encodeURI(matter.image) +
-            "&w=900&q=75"
+            "&w=750&q=75"
           }
         />
         <meta
