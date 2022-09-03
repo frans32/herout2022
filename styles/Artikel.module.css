@@ -107,7 +107,7 @@ main.content p:first-child {
     padding: 72px 16px;
   }
 
-  .main_image {
-    margin-bottom: 12px;
+  .shareWrapper {
+    margin: 12px 0 24px;
   }
 }
