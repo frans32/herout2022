@@ -41,15 +41,6 @@
   object-fit: cover;
 }
 
-.image_credit {
-  color: #888;
-  text-align: right;
-  padding: 3px 6px;
-  font: 14px sans-serif;
-  font-family: "Outfit";
-  margin-bottom: -18px;
-}
-
 main.content {
   color: #333;
   font: 300 18px/1.8 "PT Serif", serif;
@@ -83,6 +74,32 @@ main.content p:first-child {
   object-fit: cover;
   width: 100%;
   min-height: 300px;
+}
+
+.shareWrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 0 12px 0;
+  font: 16px/24px "Outfit";
+  color: #696969;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.share {
+  display: flex;
+  justify-content: right;
+  min-width: 110px;
+}
+
+.share > img {
+  margin-left: 16px;
+  display: block;
+  height: 24px;
+  cursor: pointer;
+}
+
+.share > img:hover {
+  opacity: 0.8;
 }
 
 @media (min-width: 900px) {
