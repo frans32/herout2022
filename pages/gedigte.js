@@ -56,7 +56,7 @@ export default function Post({ matter, source }) {
           >
             <source src="/images/gedigte-08-2022.mp4" type="video/mp4" />
           </video>
-          <div className={styles.image_credit}>Video: Emma Olivier</div>
+          <div className={styles.videoCredit}>Video: Emma Olivier</div>
         </div>
       </section>
       <main className={styles.content}>

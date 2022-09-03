@@ -14,7 +14,13 @@ export default function PageViews(props) {
   if (!data) return <span>- lesers</span>;
 
   return (
-    <span>
+    <span
+      style={{
+        whiteSpace: "nowrap",
+        overflow: "hidden",
+        textOverflow: "ellipsis",
+      }}
+    >
       {data[0].pageviews} {data[0].pageviews == 1 ? "leser" : "lesers"}
     </span>
   );

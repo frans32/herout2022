@@ -69,6 +69,12 @@ main.content p:first-child {
   text-decoration: underline;
 }
 
+.videoCredit {
+  color: #696969;
+  font: 16px/1 Outfit, sans-serif;
+  text-align: right;
+}
+
 .video {
   background: #6d7984;
   object-fit: cover;
