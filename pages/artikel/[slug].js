@@ -111,7 +111,7 @@ export default function Post({ matter, source, slug }) {
           property="og:image"
           content={
             "https://herout.co.za/_next/image?url=" +
-            urlEncode(matter.image) +
+            encodeURI(matter.image) +
             "&w=900&q=75"
           }
         />
