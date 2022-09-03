@@ -111,10 +111,6 @@ export default function Home({
           <title>Die Herout</title>
           <meta name="theme-color" content="#222" />
           <meta
-            property="og:image"
-            content={"https://herout.co.za/favicon/logo512.png"}
-          />
-          <meta
             name="description"
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
           />
@@ -122,8 +118,6 @@ export default function Home({
             property="og:description"
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
           />
-          <meta name="twitter:card" content="summary" />
-          <meta name="twitter:title" content="Die Herout" />
         </Head>
       </div>
     </>
