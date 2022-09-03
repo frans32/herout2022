@@ -115,7 +115,10 @@ export default function Post({ matter, source, slug }) {
             "&w=900&q=75"
           }
         />
-        <meta property="og:title" content={"Die Herout: " + matter.title} />
+        <meta
+          property="og:url"
+          content={"https://herout.co.za/artikels/" + slug}
+        />
         <meta name="theme-color" content="#efefef" />
       </Head>
     </>
