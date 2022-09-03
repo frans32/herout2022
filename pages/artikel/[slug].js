@@ -50,7 +50,7 @@ export function getStaticPaths() {
 }
 
 export default function Post({ matter, source, slug }) {
-  strippedTitle = matter.title.replace("<i>", "").replace("</i>", "");
+  let strippedTitle = matter.title.replace("<i>", "").replace("</i>", "");
 
   return (
     <>
