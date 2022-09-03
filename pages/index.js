@@ -121,6 +121,7 @@ export default function Home({
             property="og:description"
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
           />
+          <meta name="twitter:card" content="summary" />
         </Head>
       </div>
     </>
