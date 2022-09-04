@@ -12,6 +12,7 @@ import styles from "../../styles/Artikel.module.css";
 import Header from "../../components/Header";
 import InlineImage from "../../components/InlineImage";
 import PageViews from "../../components/PageViews";
+import ArticleList from "../../components/ArticleList";
 
 import fs from "fs";
 import path from "path";
@@ -26,6 +27,7 @@ export const getStaticProps = async ({ params }) => {
     path.join("content/artikels", params.slug + ".md"),
     "utf-8"
   );
+
   const { data, content } = Matter(markdownWithMeta);
   const source = await serialize(content);
 
@@ -36,7 +38,31 @@ export const getStaticProps = async ({ params }) => {
     matter.date_published = matter.date_published.toString();
   }
 
-  return { props: { source, matter, slug: params.slug } };
+  // Lees verder
+
+  const files = fs.readdirSync(path.join("content/artikels"));
+
+  let leesVerder = files
+    .map((filename) => {
+      const markdownWithMeta = fs.readFileSync(
+        path.join("content/artikels", filename),
+        "utf-8"
+      );
+      const { data: frontMatter } = Matter(markdownWithMeta);
+
+      if (frontMatter.date_published) {
+        frontMatter.date_published = JSON.stringify(frontMatter.date_published);
+      }
+
+      return {
+        slug: filename.slice(0, filename.length - 3),
+        ...frontMatter,
+      };
+    })
+    .sort(() => (Math.random() > 0.5 ? 1 : -1))
+    .slice(0, 5);
+
+  return { props: { source, matter, slug: params.slug, leesVerder } };
 };
 
 export function getStaticPaths() {
@@ -49,7 +75,7 @@ export function getStaticPaths() {
   return { paths: posts, fallback: false };
 }
 
-export default function Post({ matter, source, slug }) {
+export default function Post({ matter, source, slug, leesVerder }) {
   let strippedTitle = matter.title.replace("<i>", "").replace("</i>", "");
   return (
     <>
@@ -99,6 +125,9 @@ export default function Post({ matter, source, slug }) {
         </section>
         <MDXRemote {...source} components={{ InlineImage }} />
       </main>
+      <section className={styles.leesVerder}>
+        <ArticleList posts={leesVerder} title="Lees verder" />
+      </section>
 
       <Head>
         <title>{strippedTitle} - Die Herout 2022</title>

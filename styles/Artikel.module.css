@@ -51,6 +51,13 @@ main.content {
   max-width: 100%;
 }
 
+.leesVerder {
+  margin: 0 auto;
+  padding: 0 8px;
+  width: 700px;
+  max-width: 100%;
+}
+
 main.content p:first-child {
   margin-top: 0;
 }
