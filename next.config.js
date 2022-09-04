@@ -10,6 +10,10 @@ module.exports = {
       });
     }
 
+    if (isServer) {
+      require("./utils/sitemap.js");
+    }
+
     return config;
   },
   images: {

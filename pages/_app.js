@@ -11,11 +11,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:site_name" content="Die Herout" />
         <meta name="twitter:site" content="@DieHerout" />
 
-        <link
-          rel="shortcut icon"
-          href="/favicon.ico"
-          type="image/vnd.microsoft.icon"
-        />
+        <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/favicon/logo192.png" />
         <link rel="manifest" href="/manifest.json" />
 
