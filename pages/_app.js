@@ -23,6 +23,7 @@ function MyApp({ Component, pageProps }) {
         />
 
         <script
+          type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
@@ -31,7 +32,6 @@ function MyApp({ Component, pageProps }) {
               logo: "https://herout.co.za/favicon/logo256.png",
             }),
           }}
-          type="application/ld+json"
         />
 
         <script defer src="https://herout.co.za/plausible.js"></script>

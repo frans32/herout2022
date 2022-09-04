@@ -126,6 +126,7 @@ export default function Post({ matter, source, slug }) {
         />
 
         <script
+          type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
