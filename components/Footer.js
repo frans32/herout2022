@@ -7,8 +7,12 @@ export default function Footer() {
       <div className={styles.footer}>
         <div className={styles.flex}>
           <div className={styles.leftCol}>
-            <img className={styles.logo} src="/assets/herout-outline.svg" />
-            Vir die lesers, deur die leerders.
+            <Link href="/">
+              <a>
+                <img className={styles.logo} src="/assets/herout-outline.svg" />
+              </a>
+            </Link>
+            Vir die lesers deur die leerders.
           </div>
 
           <div className={styles.centerCol}>
