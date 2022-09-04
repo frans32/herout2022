@@ -50,9 +50,7 @@ export const getStaticProps = async ({ params }) => {
       );
       const { data: frontMatter } = Matter(markdownWithMeta);
 
-      if (frontMatter.date_published) {
-        frontMatter.date_published = JSON.stringify(frontMatter.date_published);
-      }
+      if (frontMatter.date_published) delete frontMatter.date_published;
 
       return {
         slug: filename.slice(0, filename.length - 3),
