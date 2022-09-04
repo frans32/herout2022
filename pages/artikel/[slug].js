@@ -124,6 +124,24 @@ export default function Post({ matter, source, slug }) {
           name="twitter:image"
           content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
         />
+
+        <script
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Article",
+              headline: strippedTitle,
+              image: "https://herout.co.za/ogimg" + encodeURI(matter.image),
+              datePublished: matter.date_published,
+              author: [
+                {
+                  "@type": "Person",
+                  name: matter.author,
+                },
+              ],
+            }),
+          }}
+        />
       </Head>
     </>
   );
