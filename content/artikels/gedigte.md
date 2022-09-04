@@ -43,7 +43,7 @@ wat hul stemme op dra, teen die kus,
 
 en vee oor die plat strand.
 
-'n Skoon wit doek gewas.
+’n Skoon wit doek gewas.
 
 Die diep blou see.
 
@@ -59,15 +59,15 @@ Kragtige storms en
 
 wolkkrabbende branders.
 
-Die see is 'n wese met 'n wete
+Die see is ’n wese met ’n wete
 
 en kragtige wil.
 
 Hy sal tyd se stoot en trek waarneem
 
-terwyl hy met 'n kalm seewind sug.
+terwyl hy met ’n kalm seewind sug.
 
-Tog is daar 'n nederigheid
+Tog is daar ’n nederigheid
 
 aan die diep blou see...
 

@@ -1,6 +1,6 @@
 ---
 date_published: 2022-08-27T19:06:42.000+02:00
-title: "'n Polvorones-reseppie, want kosmaak is nie te moeilik nie!"
+title: "’n Polvorones-reseppie, want kosmaak is nie te moeilik nie!"
 subtitle: "Hierdie tradisionele Spaanse koekie is jou nuwe vinnige soethappie-wenresep "
 author: Melani Rautenbach
 image_credit: DALL·E 2 (OpenAI)

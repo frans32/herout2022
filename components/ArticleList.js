@@ -26,12 +26,12 @@ export default function ArticleList({ posts, title }) {
                       src={i.image}
                       sizes={
                         large
-                          ? "(min-width: 900px) 240px, calc(100vw - 32px)"
+                          ? "(min-width: 900px) 340px, calc(100vw - 32px)"
                           : "84px"
                       }
                       layout="fill"
                       alt=""
-                      quality={65}
+                      quality={75}
                     />
                   </div>
                   <div className={styles.articleInfo}>

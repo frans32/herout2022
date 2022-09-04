@@ -98,6 +98,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
               priority={true}
               alt=""
               sizes="min(1000px, 100vw)"
+              quality={85}
             />
           </div>
         </div>

@@ -32,9 +32,9 @@ Sy sê: “Oktobermaand is Wêreld Geestesgesondheidsmaand en daarom het ons Omg
 
 Omgee-maand beteken om vir ander, en ook vir jouself, om te gee en meer oplettend te wees op dinge wat jou geestesgesondheid negatief kan beïnvloed. Daarom het ek veral op die invloed van stres en angs op die brein gefokus.
 
-Dit skep 'n bewusmaking van ons eie stres en angs, maar leer ons ook om te verstaan waardeur ander gaan. Daar is ook idees oor hoe om na onsself om te sien en ons kan daardie idees aan ander leer.
+Dit skep ’n bewusmaking van ons eie stres en angs, maar leer ons ook om te verstaan waardeur ander gaan. Daar is ook idees oor hoe om na onsself om te sien en ons kan daardie idees aan ander leer.
 
-Verder is daar 'n lys van instansies ingesluit wat ons buite die skool kan kontak. Ek het ook die leerders aangemoedig om met vrymoedigheid hulle stories hier by Eduhelp te kom deel.”
+Verder is daar ’n lys van instansies ingesluit wat ons buite die skool kan kontak. Ek het ook die leerders aangemoedig om met vrymoedigheid hulle stories hier by Eduhelp te kom deel.”
 
 ### Omgee-projekte
 
