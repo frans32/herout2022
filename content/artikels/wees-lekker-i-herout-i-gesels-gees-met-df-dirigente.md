@@ -1,12 +1,12 @@
 ---
-date_published: ! '"2022-08-27"'
-title: 'Wees lekker! <i>Herout</i> gesels gees met DF-dirigente '
-subtitle: 'Onderhoude met die span agter <i>DF Lights</i> en aspirant-dirigente '
-author: 'Kyla van der Riel '
+date_published: 2022-08-27
+title: "Wees lekker! <i>Herout</i> gesels gees met DF-dirigente "
+subtitle: "Onderhoude met die span agter <i>DF Lights</i> en aspirant-dirigente "
+author: "Kyla van der Riel "
 image_credit: Die Hoërskool DF Malan
 image: "/images/dirigente-08-2022.jpg"
-
 ---
+
 _Waarskuwing: ek stel voor dat geen Bellville-leerder die artikel sonder ouertoesig lees nie, aangesien dit vrees, paniek en_ ’_n fobie vir blou mag veroorsaak._
 
 Sedert 2020 was daar beperkte geleenthede om DF-gees en -trots te wys, maar by 2022 se [Interskole](/artikel/df-wys-interskole-gees-na-lang-tyd-van-pawiljoenstilte "DF wys Interskole-gees na lang tyd van pawiljoenstilte") het elke DF-speler en -ondersteuner bewys dat blou bloed sterker as ooit deur ons are druis.

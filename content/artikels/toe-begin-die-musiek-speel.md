@@ -1,12 +1,12 @@
 ---
-date_published: ! '"2022-08-28"'
-title: 'Toe begin die musiek speel: ’n kortverhaal'
-subtitle: ''
+date_published: 2022-08-28
+title: "Toe begin die musiek speel: ’n kortverhaal"
+subtitle: ""
 author: Enge Coetzer
-image_credit: ''
+image_credit: ""
 image: "/images/musiek-08-2022.jpg"
-
 ---
+
 “Moenie so gestres lyk nie, Janlu. Wanneer die musiek begin speel en jy haar sien, sal al jou bekommernisse verdwyn. Glo my,” fluister Dian in sy oor.
 
 “Ek is nie gestres nie. Ek weet alles sal goed gaan,” fluister hy terug, maar hy voel hoe sy hart al hoe vinniger in sy keel begin klop.

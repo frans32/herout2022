@@ -33,7 +33,7 @@ export const getStaticProps = async ({ params }) => {
   const matter = { ...data, ...imgSize };
 
   if (matter.date_published) {
-    matter.date_published = JSON.stringify(matter.date_published);
+    matter.date_published = matter.date_published.toString();
   }
 
   return { props: { source, matter, slug: params.slug } };
@@ -51,7 +51,6 @@ export function getStaticPaths() {
 
 export default function Post({ matter, source, slug }) {
   let strippedTitle = matter.title.replace("<i>", "").replace("</i>", "");
-
   return (
     <>
       <Header />
@@ -133,7 +132,7 @@ export default function Post({ matter, source, slug }) {
               "@type": "Article",
               headline: strippedTitle,
               image: "https://herout.co.za/ogimg" + encodeURI(matter.image),
-              datePublished: matter.date_published,
+              datePublished: matter.date_published || Date.now(),
               author: [
                 {
                   "@type": "Person",

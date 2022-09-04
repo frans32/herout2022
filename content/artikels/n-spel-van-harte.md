@@ -1,12 +1,12 @@
 ---
-date_published: ! '"2022-08-28"'
+date_published: 2022-08-28
 title: "’n Spel van harte: ’n kortverhaal"
-subtitle: ''
+subtitle: ""
 author: Hannah de Wet
-image_credit: ''
+image_credit: ""
 image: "/images/harte-08-2022.jpg"
-
 ---
+
 Eens op ’n tyd het ’n grapjas geom met duister motiewe gekom en vier dames se harte verower. Hy het met elkeen ’n ander masker gedra.
 
 Hy het heel eerste die Koning van Harte se gesig gesteel, met sy oё gemik op die Ase.

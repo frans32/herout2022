@@ -1,12 +1,12 @@
 ---
-date_published: ! '"2022-08-28"'
-title: 'Die skildery: ’n kortverhaal'
-subtitle: ''
+date_published: 2022-08-28
+title: "Die skildery: ’n kortverhaal"
+subtitle: ""
 author: Elmie van Wyngaard
-image_credit: ''
+image_credit: ""
 image: "/images/skildery-08-2022.jpg"
-
 ---
+
 Robin skiet met haastige voetstappe by die straat af. Die klank wat deur die straat weergalm, verpletter die oggendkalmte.
 
 Sy glip net betyds by die trein se deure in - net voor dit die stasie verlaat. Uitasem plak sy op die naaste sitplek neeer met haar warm asem wat skaars genoeg is, onder haar masker.

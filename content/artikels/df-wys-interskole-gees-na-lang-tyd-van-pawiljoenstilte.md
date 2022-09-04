@@ -1,5 +1,5 @@
 ---
-date_published: ! '"2022-08-28"'
+date_published: 2022-08-28
 title: DF wys Interskole-gees na lang tyd van pawiljoenstilte
 subtitle: ""
 author: "Chané Smith "

@@ -1,5 +1,5 @@
 ---
-date_published: ! '"2022-08-28"'
+date_published: 2022-08-28
 title: Goeie nuus! ’n Geskenk van eenhonderd bergfietse
 subtitle: Leerders ontvang nie net fietse nie, maar ook die hoop om te matrikuleer
 author: Chantelle van Wyk

@@ -1,5 +1,5 @@
 ---
-date_published: ! '"2022-08-27"'
+date_published: 2022-08-27
 title: "<i>Operasie Kersfees</i> verloop vlot by tienertoneel"
 subtitle: DF-toneelgeselskap bring prettige Kerskomedie op die planke
 author: Emma Olivier

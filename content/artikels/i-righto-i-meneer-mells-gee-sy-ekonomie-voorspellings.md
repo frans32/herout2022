@@ -1,5 +1,5 @@
 ---
-date_published: ! '"2022-08-27"'
+date_published: 2022-08-27
 title: "<i>Righto!</i> Meneer Mells gee sy ekonomie-voorspellings"
 subtitle: ""
 author: Leandri Odendal
