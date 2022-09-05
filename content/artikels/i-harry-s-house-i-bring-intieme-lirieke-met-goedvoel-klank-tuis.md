@@ -17,7 +17,7 @@ Op 23 Maart het Styles die album se naam bekendgestel (wat natuurlik sy aanhange
 <iframe 
     loading="lazy"
     allow="autoplay *; encrypted-media *;"
-    frameborder="0"
+    frameBorder="0"
     height="450"
     style={{ 
         width: "100%",

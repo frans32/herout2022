@@ -1,4 +1,4 @@
-module.exports = {
+let config = {
   reactStrictMode: true,
   webpack: (config, { dev, isServer }) => {
     if (isServer) {
@@ -33,3 +33,9 @@ module.exports = {
     ];
   },
 };
+
+if (process.env.EXPORT_PROJECT == "true") {
+  config.experimental = { images: { unoptimized: true } };
+}
+
+module.exports = config;
