@@ -32,10 +32,4 @@ module.exports = {
       },
     ];
   },
-  experimental: {
-    images: {
-      unoptimized: false,
-      runtime: "edge",
-    },
-  },
 };
