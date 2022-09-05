@@ -95,7 +95,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
               width={matter.imgWidth}
               height={matter.imgHeight}
               layout="responsive"
-              priority={true}
+              priority
               alt=""
               sizes="min(1000px, 100vw)"
               quality={85}
@@ -129,7 +129,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
       </section>
 
       <Head>
-        <title>{strippedTitle} - Die Herout 2022</title>
+        <title>{strippedTitle + " - Die Herout 2022"}</title>
         <meta name="theme-color" content="#efefef" />
 
         <meta property="og:title" content={strippedTitle} />

@@ -9,7 +9,7 @@
 }
 
 .wapen h2 {
-  font: 500 32px/1.2 "Lora", serif;
+  font: 500 28px/1.2 "Outfit", sans-serif;
   margin: 20px 0;
   color: #222222;
 }
@@ -51,7 +51,7 @@
 
 .uitgawes a {
   display: block;
-  font: 400 26px/28px "Lora", serif;
+  font: 500 22px/28px "Outfit", serif;
   text-decoration: none;
   color: #222;
   padding: 12px 0;
@@ -62,7 +62,7 @@
   display: inline-block;
   color: #aaaaaa;
   width: 32px;
-  font: 400 20px/28px "Outfit", serif;
+  font: 400 22px/28px "Outfit", serif;
   transition: margin-right 0.2s, color 0.1s;
 }
 

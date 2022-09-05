@@ -1,6 +1,8 @@
 import styles from "../styles/Redaksie.module.css";
 import Header from "../components/Header";
 
+import Head from "next/head";
+
 export default function RedaksieLys() {
   return (
     <>
@@ -61,6 +63,10 @@ export default function RedaksieLys() {
           <li>Yana Mans</li>
         </ul>
       </main>
+
+      <Head>
+        <title>Redaksielys - Die Herout</title>
+      </Head>
     </>
   );
 }

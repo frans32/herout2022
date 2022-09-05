@@ -37,7 +37,7 @@
 }
 
 .centerCol h3 {
-  font-size: 1em;
+  font: 500 1em/1 "Outfit", -apple-system;
   margin: 0 0 12px 0;
 }
 
