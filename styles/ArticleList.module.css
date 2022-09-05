@@ -6,14 +6,14 @@
   font: 400 24px/0.69 "Outfit", sans-serif;
   color: #3a496d;
   margin: 4px 16px;
-  border-bottom: 1px dotted #e5e5e5;
+  border-bottom: 1px solid #efefef;
 }
 
 .article {
   display: flex;
   margin: 0 16px;
   padding: 16px 0;
-  border-bottom: 1px dotted #e5e5e5;
+  border-bottom: 1px solid #efefef;
 }
 
 .articleList div:last-of-type > .article {
@@ -27,7 +27,7 @@
   flex-grow: 0;
   flex-shrink: 0;
   border-radius: 8px;
-  box-shadow: #afafaf1e -3px 3px 0 -1px;
+  box-shadow: #efefef -3px 3px 0 -1px;
 }
 
 .articleImage img {

@@ -46,7 +46,7 @@
   font: 400 24px/0.69 "Outfit", sans-serif;
   color: #3a496d;
   margin: 0 0 16px 0;
-  border-bottom: 1px dotted #e5e5e5;
+  border-bottom: 1px solid #efefef;
 }
 
 .uitgawes a {
@@ -75,12 +75,12 @@
   display: none;
   margin-top: 16px;
   padding-top: 16px;
-  border-top: 1px dotted #e5e5e5;
+  border-top: 1px solid #efefef;
 }
 
 @media (min-width: 900px) {
   .section {
-    border-left: 1px dotted #e5e5e5;
+    border-left: 1px solid #efefef;
     padding: 32px 16px;
   }
 
