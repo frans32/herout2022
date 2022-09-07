@@ -161,12 +161,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
               headline: strippedTitle,
               image: "https://herout.co.za/ogimg" + encodeURI(matter.image),
               datePublished: matter.date_published || Date.now(),
-              author: [
-                {
-                  "@type": "Person",
-                  name: matter.author,
-                },
-              ],
+              author: matter.author
             }),
           }}
         />
