@@ -82,7 +82,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
         <section className={styles.article_info}>
           <h1
             dangerouslySetInnerHTML={{ __html: matter.title }}
-            itemProp="name"
+            itemProp="headline"
           ></h1>
           {matter.subtitle ? (
             <h2 dangerouslySetInnerHTML={{ __html: matter.subtitle }}></h2>
@@ -90,11 +90,13 @@ export default function Post({ matter, source, slug, leesVerder }) {
             <></>
           )}
           <small itemProp="author">{matter.author}</small>
+          <meta itemProp="datePublished" content={matter?.publishedISO} />
         </section>
         <section>
           <div className={styles.main_image}>
             <div style={{ background: "#efefef" }}>
               <Image
+                itemProp="image"
                 src={matter.image}
                 width={matter.imgWidth}
                 height={matter.imgHeight}
@@ -158,20 +160,6 @@ export default function Post({ matter, source, slug, leesVerder }) {
         <meta
           name="twitter:image"
           content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
-        />
-
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Article",
-              headline: strippedTitle,
-              image: "https://herout.co.za/ogimg" + encodeURI(matter.image),
-              datePublished: matter?.publishedISO,
-              author: matter.author,
-            }),
-          }}
         />
       </Head>
     </>

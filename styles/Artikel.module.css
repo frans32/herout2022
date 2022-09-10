@@ -95,6 +95,7 @@ main.content p:first-child {
   font: 16px/24px "Outfit";
   color: #696969;
   border-bottom: 1px solid #eeeeee;
+  margin-bottom: 16px;
 }
 
 .share {
