@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-28
+date_published: "2022-08-28"
 title: "Moenie: ’n kortverhaal"
 subtitle: ""
 author: Jana Kriek

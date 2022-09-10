@@ -32,10 +32,10 @@ export const getStaticProps = async ({ params }) => {
   const source = await serialize(content);
 
   const imgSize = await imageSize(data.image);
-  const matter = { ...data, ...imgSize };
+  let matter = { ...data, ...imgSize };
 
   if (matter.date_published) {
-    matter.date_published = matter.date_published.toString();
+    matter.publishedISO = new Date(matter.date_published).toISOString();
   }
 
   // Lees verder
@@ -50,7 +50,7 @@ export const getStaticProps = async ({ params }) => {
       );
       const { data: frontMatter } = Matter(markdownWithMeta);
 
-      if (frontMatter.date_published) delete frontMatter.date_published;
+      // if (frontMatter.date_published) delete frontMatter.date_published;
 
       return {
         slug: filename.slice(0, filename.length - 3),
@@ -78,52 +78,60 @@ export default function Post({ matter, source, slug, leesVerder }) {
   return (
     <>
       <Header />
-      <section className={styles.article_info}>
-        <h1 dangerouslySetInnerHTML={{ __html: matter.title }}></h1>
-        {matter.subtitle ? (
-          <h2 dangerouslySetInnerHTML={{ __html: matter.subtitle }}></h2>
-        ) : (
-          <></>
-        )}
-        <small>{matter.author}</small>
-      </section>
-      <section>
-        <div className={styles.main_image}>
-          <div style={{ background: "#efefef" }}>
-            <Image
-              src={matter.image}
-              width={matter.imgWidth}
-              height={matter.imgHeight}
-              layout="responsive"
-              priority
-              alt=""
-              sizes="min(1000px, 100vw)"
-              quality={85}
-            />
-          </div>
-        </div>
-      </section>
-      <main className={styles.content}>
-        <section className={styles.shareWrapper}>
-          <div>
-            {matter.image_credit ? (
-              <div
-                className={styles.image_credit}
-                dangerouslySetInnerHTML={{
-                  __html: "Foto: " + matter.image_credit,
-                }}
+      <div itemScope itemType="https://schema.org/Article">
+        <section className={styles.article_info}>
+          <h1
+            dangerouslySetInnerHTML={{ __html: matter.title }}
+            itemProp="name"
+          ></h1>
+          {matter.subtitle ? (
+            <h2 dangerouslySetInnerHTML={{ __html: matter.subtitle }}></h2>
+          ) : (
+            <></>
+          )}
+          <small itemProp="author">{matter.author}</small>
+        </section>
+        <section>
+          <div className={styles.main_image}>
+            <div style={{ background: "#efefef" }}>
+              <Image
+                src={matter.image}
+                width={matter.imgWidth}
+                height={matter.imgHeight}
+                layout="responsive"
+                priority
+                alt=""
+                sizes="min(1000px, 100vw)"
+                quality={85}
               />
-            ) : (
-              ""
-            )}
-          </div>
-          <div className={styles.share}>
-            <PageViews page={slug} />
-            <ShareButton title={strippedTitle} />
+            </div>
           </div>
         </section>
-        <MDXRemote {...source} components={{ InlineImage }} />
-      </main>
+        <main className={styles.content}>
+          <section className={styles.shareWrapper}>
+            <div>
+              {matter.image_credit ? (
+                <div
+                  className={styles.image_credit}
+                  dangerouslySetInnerHTML={{
+                    __html: "Foto: " + matter.image_credit,
+                  }}
+                />
+              ) : (
+                ""
+              )}
+            </div>
+            <div className={styles.share}>
+              <PageViews page={slug} />
+              <ShareButton title={strippedTitle} />
+            </div>
+          </section>
+          <div itemProp="articleBody">
+            <MDXRemote {...source} components={{ InlineImage }} />
+          </div>
+        </main>
+      </div>
+
       <section className={styles.leesVerder}>
         <ArticleList posts={leesVerder} title="Lees verder" />
       </section>
@@ -160,8 +168,8 @@ export default function Post({ matter, source, slug, leesVerder }) {
               "@type": "Article",
               headline: strippedTitle,
               image: "https://herout.co.za/ogimg" + encodeURI(matter.image),
-              datePublished: matter.date_published || Date.now(),
-              author: matter.author
+              datePublished: matter?.publishedISO,
+              author: matter.author,
             }),
           }}
         />

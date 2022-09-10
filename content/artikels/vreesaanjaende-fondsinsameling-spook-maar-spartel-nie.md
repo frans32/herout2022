@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T19:08:43.000+02:00
+date_published: "2022-08-27"
 title: Vreesaanjaende fondsinsameling spook, maar spartel nie!
 subtitle: DF-spookhuis hou tradisie vol én baat Aksie Omgee
 author: Liza Theron

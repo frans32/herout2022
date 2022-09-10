@@ -1,12 +1,12 @@
 ---
-date_published: 2022-08-27T19:01:55+02:00
+date_published: "2022-08-27"
 title: Belaglike belasting vir vroue behoort nie taboe te wees nie
-subtitle: ''
+subtitle: ""
 author: Misha Coetzee
 image_credit: Jana Visser
 image: "/images/pink-tax-08-2022.jpg"
-
 ---
+
 In vandag se samelewing word produkte wat eintlik dieselfde funksies verrig, verdeel tussen dié vir mans en dié vir vroue - ’n stelsel wat eintlik baie min sin maak.
 
 “Vroueprodukte” het dikwels skakerings van pienk en word met blomme versier, terwyl “mansprodukte” deur donker skakerings van blou en groen gekenmerk word. Die probleem met hierdie verskynsel is dat vroueprodukte, wat ’n ander kleur het, teen ’n hoër prys verkoop word, alhoewel hulle van dieselfde of selfs van swakker gehalte as die manlike weergawes is. Dit staan bekend as _pienk belasting_.

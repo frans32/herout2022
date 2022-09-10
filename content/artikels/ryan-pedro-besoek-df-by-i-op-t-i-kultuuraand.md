@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-28
+date_published: "2022-08-28"
 title: Ryan Pedro besoek DF by <i>OP!T</i>-kultuuraand
 subtitle: ""
 author: Melani Rautenbach

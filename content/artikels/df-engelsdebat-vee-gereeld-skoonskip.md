@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:33:45.000+02:00
+date_published: "2022-08-27"
 title: DF-Engelsdebat vee gereeld skoonskip
 subtitle: Nie almal ken egter die “pad van debat” nie – hier is hoe dit werk
 author: Emily Byleveld

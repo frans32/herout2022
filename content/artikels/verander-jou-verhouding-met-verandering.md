@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:49:46.000+02:00
+date_published: "2022-08-27"
 title: "Verander jou verhouding met verandering "
 subtitle: ""
 author: Chanzel Hammond

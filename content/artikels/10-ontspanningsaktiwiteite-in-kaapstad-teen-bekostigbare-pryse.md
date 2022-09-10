@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:53:47.000+02:00
+date_published: "2022-08-27"
 title: Tien Kaapstad-uitstappies teen bekostigbare pryse
 subtitle: ""
 author: Leanri Pretorius

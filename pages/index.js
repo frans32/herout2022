@@ -125,6 +125,7 @@ export default function Home({
               __html: JSON.stringify({
                 "@context": "https://schema.org",
                 "@type": "Organization",
+                name: "Die Herout",
                 url: "https://herout.co.za",
                 logo: "https://herout.co.za/favicon/logo256.png",
               }),

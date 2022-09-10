@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:51:11.000+02:00
+date_published: "2022-08-27"
 title: "<i>“Technoblade never dies”</i>"
 subtitle: Huldeblyk aan oorlede <i>Minecraft YouTuber</i>
 author: Erica Chen

@@ -1,5 +1,5 @@
 ---
-date_published: 2022-08-27T18:57:09+02:00
+date_published: "2022-08-27"
 title: Hoe werk koffie nou eintlik?
 subtitle: Die chemie agter die smaak (en is daar iets soos te veel koffie?)
 author: Lohen Chamberlain
