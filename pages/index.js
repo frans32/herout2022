@@ -118,6 +118,18 @@ export default function Home({
             property="og:description"
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
           />
+
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                url: "https://herout.co.za",
+                logo: "https://herout.co.za/favicon/logo256.png",
+              }),
+            }}
+          />
         </Head>
       </div>
     </>

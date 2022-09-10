@@ -1,9 +1,10 @@
 {
-  "background_color": "#1647A0",
-  "theme_color": "#ffffff",
+  "background_color": "#1447A0",
+  "theme_color": "#333333",
   "name": "Die Herout",
   "short_name": "Herout",
   "display": "standalone",
+  "description": "Die amptelike skoolkoerant van die Hoërskool DF Malan.",
   "start_url": "/",
   "icons": [
     {
