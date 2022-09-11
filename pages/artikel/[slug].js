@@ -151,13 +151,14 @@ export default function Post({ matter, source, slug, leesVerder }) {
         <meta property="og:title" content={strippedTitle} />
         <meta property="og:type" content="article" />
         <meta property="og:article:author" content={matter.author} />
+
         <meta
           property="og:image"
           content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
         />
         <meta
           property="og:url"
-          content={"https://herout.co.za/artikels/" + slug}
+          content={"https://herout.co.za/artikel/" + slug}
         />
         <meta property="og:description" content={"deur " + matter.author} />
 
