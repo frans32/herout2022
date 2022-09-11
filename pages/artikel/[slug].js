@@ -109,7 +109,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
                 layout="responsive"
                 priority
                 alt=""
-                sizes="min(1000px, 100vw)"
+                sizes="(min-width: 1600px) 1440px, min(1000px, 100vw)"
                 quality={85}
               />
             </div>

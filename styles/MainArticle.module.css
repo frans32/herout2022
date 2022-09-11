@@ -100,3 +100,18 @@
     border: #ffffff36 2px solid;
   }
 }
+
+@media (min-width: 1600px) and (-webkit-max-device-pixel-ratio: 1) {
+  .mainArticle {
+    background: url("/assets/noise.png"), #fdfdfd;
+  }
+
+  .mainArticle h1 {
+    font-size: 3.2em;
+  }
+
+  .mainArticle > div {
+    position: static;
+    padding: 140px 0;
+  }
+}

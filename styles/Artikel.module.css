@@ -6,7 +6,7 @@
 }
 
 .article_info h1 {
-  font: 500 2.4em "Trochut";
+  font: 2.4em "Trochut";
   color: #333;
   margin: 1em 0 0.5em;
   word-break: break-word;
@@ -122,5 +122,40 @@ main.content p:first-child {
 
   .shareWrapper {
     margin: 12px 0 24px;
+  }
+}
+
+@media (min-width: 1600px) and (-webkit-max-device-pixel-ratio: 1) {
+  .article_info {
+    padding: 96px 16px 128px;
+    width: 784px;
+  }
+
+  .article_info h1 {
+    font: 3em "Trochut";
+  }
+
+  .main_image {
+    display: block;
+    margin: 0 auto;
+    width: 1440px;
+    max-width: 100%;
+  }
+
+  .shareWrapper {
+    margin: 16px 0 32px;
+  }
+
+  main.content {
+    font-size: 20px;
+  }
+
+  main.content p {
+    margin: 28px 0;
+  }
+
+  main.content h3 {
+    margin: 36px 0 -12px;
+    font-size: 30px;
   }
 }

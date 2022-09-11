@@ -6,7 +6,7 @@
 
 .footer {
   margin: 0 auto;
-  width: 1000px;
+  width: 968px;
   max-width: 100%;
   overflow-x: hidden;
   color: #333;
@@ -61,4 +61,10 @@
 
 .socials a:hover img {
   opacity: 0.8;
+}
+
+@media (min-width: 1600px) and (-webkit-max-device-pixel-ratio: 1) {
+  .footerWrapper {
+    padding: 24px 16px 64px 16px;
+  }
 }
