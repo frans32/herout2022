@@ -123,7 +123,6 @@ export default function Home({
           />
 
           <meta property="og:url" content="https://herout.co.za/" />
-          <meta property="og:type" content="website" />
 
           <meta
             property="og:image"
