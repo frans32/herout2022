@@ -116,6 +116,14 @@ main.content p:first-child {
 }
 
 @media (min-width: 900px) {
+  main.content {
+    line-height: 2;
+  }
+
+  main.content p {
+    margin: 32px 0;
+  }
+
   .article_info {
     padding: 72px 16px;
   }
