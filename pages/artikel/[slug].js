@@ -35,7 +35,9 @@ export const getStaticProps = async ({ params }) => {
   let matter = { ...data, ...imgSize };
 
   if (matter.date_published) {
-    matter.publishedISO = new Date(matter.date_published).toISOString();
+    try {
+      matter.publishedISO = new Date(matter.date_published).toISOString();
+    } catch {}
   }
 
   // Lees verder
@@ -95,6 +97,10 @@ export default function Post({ matter, source, slug, leesVerder }) {
         <section>
           <div className={styles.main_image}>
             <div style={{ background: "#efefef" }}>
+              <meta
+                itemProp="thumbnailUrl"
+                content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
+              />
               <Image
                 itemProp="image"
                 src={matter.image}
