@@ -110,6 +110,8 @@ export default function Home({
         <Head>
           <title>Die Herout</title>
           <meta name="theme-color" content="#222" />
+
+          <meta property="og:title" content="Die Herout" />
           <meta
             name="description"
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
@@ -117,6 +119,18 @@ export default function Home({
           <meta
             property="og:description"
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
+          />
+
+          <meta
+            property="og:image"
+            content="https://herout.co.za/favicon/opengraph.jpg"
+          />
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content="Die Herout: Augustus 2022" />
+          <meta
+            name="twitter:image"
+            content="https://herout.co.za/favicon/opengraph.jpg"
           />
 
           <script
