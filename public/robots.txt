@@ -6,5 +6,6 @@ Disallow: /*_middlewareManifest.js$
 Disallow: /*_ssgManifest.js$
 Disallow: /*.js$
 Disallow: /_next/data/
+Disallow: /_next/image
 
 Sitemap: https://herout.co.za/sitemap.xml
