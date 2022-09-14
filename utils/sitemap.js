@@ -5,7 +5,7 @@ async function generateSitemap() {
   const files = fs.readdirSync(path.join("content/artikels"));
   const trimSlug = (slug) => slug.slice(0, slug.length - 3);
 
-  let static = ["/", "/redaksie"];
+  let static = ["", "/redaksie"];
   let articles = files.map((i) => "/artikel/" + trimSlug(i));
   let pages = static.concat(articles);
 
@@ -17,7 +17,7 @@ async function generateSitemap() {
       .map(
         (i) => `<url>
     <loc>${i}</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
   </url>`
       )
       .join("\n")}
