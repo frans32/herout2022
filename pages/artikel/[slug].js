@@ -146,8 +146,10 @@ export default function Post({ matter, source, slug, leesVerder }) {
 
       <Head>
         <title>{strippedTitle + " - Die Herout 2022"}</title>
-        <meta name="theme-color" content="#efefef" />
+        <link rel="canonical" href={"https://herout.co.za/artikel/" + slug} />
 
+        <meta name="theme-color" content="#efefef" />
+          
         <meta property="og:title" content={strippedTitle} />
         <meta property="og:type" content="article" />
         <meta property="og:article:author" content={matter.author} />
