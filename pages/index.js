@@ -109,6 +109,8 @@ export default function Home({
 
         <Head>
           <title>Die Herout</title>
+          <link rel="canonical" href="https://herout.co.za" />
+     
           <meta name="theme-color" content="#222" />
 
           <meta property="og:title" content="Die Herout" />
