@@ -11,6 +11,7 @@ export default function ShareButton({ title }) {
               text: "Die Herout: " + title,
               url: window.location.href,
             });
+            plausible("Article Shared");
           } catch {}
         }}
       />
