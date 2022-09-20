@@ -1,11 +1,11 @@
 ---
 title: Mites van die mees vreesaanjaende DF-onnie ontbloot?
-subtitle: ""
+subtitle: ''
 author: Erica Chen
 image_credit: Verskaf deur die Hoërskool DF Malan
 image: "/images/visser.jpg"
----
 
+---
 Meneer Gert Visser is een van die onderwysers wat die langste by DF skool betrokke is. In ’n eksklusiewe _Herout_-onderhoud, leer ek dat hy eintlik baie vriendelik is wanneer jy met hom gesels. Al glimlag hy nie veel nie en gebruik woorde wat amper nie meer in woordeboeke bestaan nie, is daar nie te veel redes om hom te vrees nie.
 
 **Goeiemiddag, Meneer. Geniet Meneer die vakansie sover?**
@@ -78,7 +78,7 @@ _Daar was twee groot oomblikke wat my bybly: die Blaasorkestoer na Europa en daa
 
 _Moenie bang wees nie: nie vir die kinders of hulle ouers nie._
 
-**Almal ken Meneer as die strengste onderwyser by die skool. Is daar ‘n spesifieke rede wat Meneer kan aan dink waarom dit so is?**
+**Almal ken Meneer as die strengste onderwyser by die skool. Is daar ’n spesifieke rede waarom dit so is?**
 
 _Dit gaan oor reputasie. Ek self het die storie jare gelede begin en die senior raad het daarmee gehelp deur vir die beginners te sê hulle moet bid om nooit met my paaie te kruis nie. Dit maak die skool ’n veilige plek vir my._
 
