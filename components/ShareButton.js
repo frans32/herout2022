@@ -7,6 +7,7 @@ export default function ShareButton({ title }) {
         title="Deel artikel"
         onClick={async () => {
           try {
+            plausible("Article Share Button Clicked");
             await navigator.share({
               text: "Die Herout: " + title,
               url: window.location.href,
