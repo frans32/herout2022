@@ -24,7 +24,7 @@ export default function RedaksieLys() {
         <h2>Joernaliste</h2>
         <ul>
           <li>Andrea van Wyk</li>
-          <li>Annika Burger</li>
+          <li>Anika Burger</li>
           <li>Chané Smith</li>
           <li>Chantelle van Wyk</li>
           <li>Chanzel Hammond</li>
