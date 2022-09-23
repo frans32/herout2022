@@ -92,7 +92,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
             <></>
           )}
           <small itemProp="author">{matter.author}</small>
-          <meta itemProp="datePublished" content={matter?.publishedISO} />
+          <meta itemProp="datePublished" content={matter?.publishedISO.replace("T00:00:00.000Z", "")} />
         </section>
         <section>
           <div className={styles.main_image}>
