@@ -12,6 +12,8 @@ export default function PageViews(props) {
   if (data && typeof data[0]?.pageviews != "number") return <span></span>;
 
   if (!data) return <span>- lesers</span>;
+  
+  if (data[0].pageviews < 50) return <span></span>
 
   return (
     <span
