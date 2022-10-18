@@ -1,21 +1,20 @@
 ---
-date_published: "2022-08-27"
-title:
-  Liefdesbrief aan lettertipes, <i>Die Herout</i> en die dinge waaraan ons kan
+date_published: 2022-08-27
+title: Liefdesbrief aan lettertipes, <i>Die Herout</i> en die dinge waaraan ons kan
   vasklou
 subtitle: "(ook my laaste <i>Herout</i>-artikel!)"
 author: Emma Olivier
 image_credit: Die Hoërskool DF Malan
 image: "/images/hoop-foto-08-2022.jpg"
----
 
+---
 Heil die leser
 
 Alhoewel dit my _Herout_-hart breek om hierdie jaar vir die redaksie totsiens te sê, voel ek ook ’n entoesiasme om te sien wat voorlê. Die gretigheid en deernis waarmee my mede-redaksielede _Die Herout_ aanpak, is ’n aanduiding dat DF werklik ’n liefde vir die skryfkuns koester.
 
 _Die Herout_ het vir my ’n ruimte gebied waarin ek my belangstellings kon deel, oor ander se belangstellings kon leer, my vaardighede kon verbeter, en iets kon hê waaraan ek konstant met opwinding kon dink:
 
-iets waaran ek kon vasklou.
+iets waaraan ek kon vasklou.
 
 Ek hoop regtig dat dit vir ander dieselfde gee.
 
