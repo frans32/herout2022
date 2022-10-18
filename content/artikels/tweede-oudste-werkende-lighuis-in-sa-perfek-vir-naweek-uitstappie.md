@@ -18,6 +18,6 @@ Nie net inwoners nie, maar talle ander mense oor die wêreld heen, het geld gesk
 
 Die toring is ongeveer 27 meter hoog en is in die tipiese rooi en wit bande geverf om skepe se aandag te trek. Die gebou wat as die toring se basis dien, is deur die lighuiswagter bewoon. Vandag is dit ’n restaurant en museum.
 
-In 1968 is die lighuis uit diens geplaas en die lig wat vir so lank gebrand het, is na ’n veilige area vir bewaring verskuif. ‘n Nuwe elektriese lig is geïnstalleer. Die gebou is as ’n nasionale monument verklaar en het later ’n prys vir die historiese ingenieurswerk gewen.
+In 1968 is die lighuis uit diens geplaas en die lig wat vir so lank gebrand het, is na ’n veilige area vir bewaring verskuif. ’n Nuwe elektriese lig is geïnstalleer. Die gebou is as ’n nasionale monument verklaar en het later ’n prys vir die historiese ingenieurswerk gewen.
 
 Gelukkig is die gebou nou gerestoureer sodat almal die geskiedenisryke toring kan bewonder.

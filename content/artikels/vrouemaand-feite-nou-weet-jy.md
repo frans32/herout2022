@@ -7,7 +7,7 @@ image_credit: DALL·E 2 (OpenAI)
 image: "/images/dall-e-2022-08-29-11-57-11-08-2022.jpg"
 ---
 
-Flaterwater, jou Afrikaansonderwyser se grootste haat, is deur Bette Nesmith Graham, ‘n Amerikaanse tikster, ontwerp.
+Flaterwater, jou Afrikaansonderwyser se grootste haat, is deur Bette Nesmith Graham, ’n Amerikaanse tikster, ontwerp.
 
 Leeuwyfies is die jagters in die groep en lei hul trop. Hulle leer ook die jonger wyfies hoe om te jag.
 

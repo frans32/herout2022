@@ -65,7 +65,7 @@ Oor die grens tot in Tjeggië.
 
 ### Donderdag, 7 Julie 2022
 
-Praag voel so ‘n bietjie dood teenoor Wenen. Pragtig, maar ons kan die impak van die Wêreldoorloë duidelik sien. _Glow-in-the-dark putt-putt_ en ’n 1000-kroon boete is seker nie eg-Tjeggies nie, maar dis wat ek nooit sal vergeet nie.
+Praag voel so ’n bietjie dood teenoor Wenen. Pragtig, maar ons kan die impak van die Wêreldoorloë duidelik sien. _Glow-in-the-dark putt-putt_ en ’n 1000-kroon boete is seker nie eg-Tjeggies nie, maar dis wat ek nooit sal vergeet nie.
 
 ### Vrydag, 8 Julie 2022
 

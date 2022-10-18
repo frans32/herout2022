@@ -18,7 +18,7 @@ Daar bestaan ook magiese sampioene wat ’n spesiale stof met die naam Psilocybi
 
 ’n Psigedeliese ervaring is uniek tot elke individu, maar word beskyf as ’n herstel-knoppie vir die psige. Psilocybin is voor 1970 reeds gebruik in psigiatrie vir die behandeling van alkoholisme en dwelmverslawing. Moderne navorsing toon dat Psilocybin ’n effektiewe behandeling vir psigiatriese toestande soos depressie, angs en posttraumatiese stresversteuring kan wees. Die gebruik van hierdie middel in psigiatrie begin tans toeneem.
 
-Die tipiese behandeling sluit drie of vier pille in tydens ’n sessie waar die psigedeliese ervaring onder toesig in ‘n kamer vry van stimuli plaasvind.
+Die tipiese behandeling sluit drie of vier pille in tydens ’n sessie waar die psigedeliese ervaring onder toesig in ’n kamer vry van stimuli plaasvind.
 
 Die behandeling van depressie met Psilocybin word as meer doeltreffend gesien in vergelyking met standaard-antidepressante. ’n Enkele dosis kan maande lank effektief wees. Talle dokters begin druk dat magiese sampioene weer in die mediese bedryf toegelaat kan word.
 

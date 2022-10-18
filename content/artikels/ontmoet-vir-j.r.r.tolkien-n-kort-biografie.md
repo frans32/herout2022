@@ -18,7 +18,7 @@ Hy en goeie vriende het in 1911 die groep _“T. C. B. S.” (Tea Club, Barrovia
 
 Tolkien het op 22 Maart 1916 met Edith Bratt getrou. Hy was ’n Britse offisier in die Eerste Wêreldoorlog, maar het binne 6 maande loopgraafkoors opgedoen, waarna hy uit diens gestel is.
 
-Na die oorlog het Tolkien as akademikus en universiteitslektor gewerk. In hierdie tyd het hy en Edith hul gesin van vier kinders begin. Hy het dit geniet om verhale vir sy kinders te skryf en dit is hoe die boek _The Hobbit_, ’n verhaal oor die avonture van Bilbo Baggins in die fantasiewêreld _Middle Earth,_ ontstaan het. _The Hobbit_ is in September 1937 gepubliseer en al die oorspronklike kopieë is binne weke uitverkoop. Die boek se goot sukses het Tolkien aangemoedig om ‘n opvolg te skryf, wat later _The Lord of The Rings_ sou word.
+Na die oorlog het Tolkien as akademikus en universiteitslektor gewerk. In hierdie tyd het hy en Edith hul gesin van vier kinders begin. Hy het dit geniet om verhale vir sy kinders te skryf en dit is hoe die boek _The Hobbit_, ’n verhaal oor die avonture van Bilbo Baggins in die fantasiewêreld _Middle Earth,_ ontstaan het. _The Hobbit_ is in September 1937 gepubliseer en al die oorspronklike kopieë is binne weke uitverkoop. Die boek se goot sukses het Tolkien aangemoedig om ’n opvolg te skryf, wat later _The Lord of The Rings_ sou word.
 
 _The Lord of The Rings_ is tussen 1937 en1949 geskryf. Met meer as 150 miljoen kopieë verkoop in ten minste 38 tale, is dit een van die gewildste boeke ooit. Die verhaal speel in ’n gedetailleerde fantasiewêreld met ryke geskiedenis en uitgebreide tale en kulture, af. Peter Jackson se epiese rolprentweergawe hiervan het Tolkien se boeke aan ’n nuwe generasie bekendgestel.
 
@@ -26,4 +26,4 @@ _The Lord of The Rings_ is tussen 1937 en1949 geskryf. Met meer as 150 miljoen k
 
 Na sy aftrede in 1959, het Tolkien aanhou skryf. Edith is in 1971 oorlede en Tolkien het op 2 September 1973, op die ouderdom van 81, gesterf.
 
-Sy werke het ‘n diep impak op die fantasie-genre gehad en dien steeds as inspirasie vir vele ander.
+Sy werke het ’n diep impak op die fantasie-genre gehad en dien steeds as inspirasie vir vele ander.

@@ -19,7 +19,7 @@ _Definitief meneer Dippenaar, sonder om vyf sekondes daaroor te dink! Hy is ’n
 
 **Wat is jou hoofreël vir oorlewing in die hoërskool?**
 
-_Dit mag dalk ‘n bietjie teen die normale antwoord gaan, maar doen soveel as wat jy kan! Hoe meer jy betrokke raak, hoe dieper vestig jy jou wortels in die skool. Baie mense sê hulle het nie tyd nie, maar wanneer jy gaan kyk hoe hulle hul tyd bestuur, is daar ruimte vir verbetering. Ek glo jy kan meer doen as wat jy dink, sonder om iets soos jou akademie prys te gee._
+_Dit mag dalk ’n bietjie teen die normale antwoord gaan, maar doen soveel as wat jy kan! Hoe meer jy betrokke raak, hoe dieper vestig jy jou wortels in die skool. Baie mense sê hulle het nie tyd nie, maar wanneer jy gaan kyk hoe hulle hul tyd bestuur, is daar ruimte vir verbetering. Ek glo jy kan meer doen as wat jy dink, sonder om iets soos jou akademie prys te gee._
 
 **Wat wil jy graag gaan doen na hoërskool?**
 

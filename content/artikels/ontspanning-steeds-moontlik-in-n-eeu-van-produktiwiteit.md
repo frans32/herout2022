@@ -1,5 +1,5 @@
 ---
-title: Ontspanning - steeds moontlik in ‘n eeu van produktiwiteit?
+title: Ontspanning - steeds moontlik in ’n eeu van produktiwiteit?
 subtitle: ""
 author: Kaylin Grobler
 image_credit: Aimee Hough

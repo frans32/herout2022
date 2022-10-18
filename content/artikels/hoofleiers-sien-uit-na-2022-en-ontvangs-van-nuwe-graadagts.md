@@ -46,6 +46,6 @@ Henry: _My wens is dat alle leerders die gesag van onderwysers respekteer._
 
 **Wat is jou boodskap aan ’n graad sewe-leerder wat DF se opedag bywoon?**
 
-Tala: _As ek nou in graad sewe was, is daar twee stukkies raad wat ek sou wil hê iemand vir my moes gee voordat ek my hoërskool-loopbaan aanpak. Die eerste ding sal wees: gryp elke geleentheid aan - veral in die junior fase - wees betrokke, neem deel en kyk waar jy inpas. Die tweede een is ‘n bietjie cliché, maar geniet elke oomblik! Geniet elke oomblik van gees en vriendskappe bou, want geen vyf jaar gaan so vinnig soos jou hoërskoolloopbaan verby nie._
+Tala: _As ek nou in graad sewe was, is daar twee stukkies raad wat ek sou wil hê iemand vir my moes gee voordat ek my hoërskool-loopbaan aanpak. Die eerste ding sal wees: gryp elke geleentheid aan - veral in die junior fase - wees betrokke, neem deel en kyk waar jy inpas. Die tweede een is ’n bietjie cliché, maar geniet elke oomblik! Geniet elke oomblik van gees en vriendskappe bou, want geen vyf jaar gaan so vinnig soos jou hoërskoolloopbaan verby nie._
 
 Henry: _Ek sal vir hom of haar sê dat almal ’n plek in DF het en dat hulle nie spyt sal wees dat hulle in DF is nie._

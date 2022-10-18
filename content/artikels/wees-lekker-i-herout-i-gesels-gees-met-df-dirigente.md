@@ -13,7 +13,7 @@ Sedert 2020 was daar beperkte geleenthede om DF-gees en -trots te wys, maar by 2
 
 Hierdie is egter nie ’n artikel oor interskole nie. In die artikel gesels ons ’n bietjie met die DF-dirigente oor gees agter die skerms.
 
-Nicola Steyn, VJ Bassett, Emma Coetzee, Robert Tuck, Lize van Rooyen, Heinrich Henning, Liané Conradie, WihanBester en Nina Dixon, (2022 se dirigente) en JG Wegner, Eben Olivier, Francé Esterhuyse en Mia Groenewald (dromspelers) het hierdie jaar, ten spyte van onlangse uitdagings, nie afgeskeep nie en by elke aandoefening, hetsy ‘n vol saal of net 30 leerders, áltyd geglimlag en voluit gegaan!
+Nicola Steyn, VJ Bassett, Emma Coetzee, Robert Tuck, Lize van Rooyen, Heinrich Henning, Liané Conradie, WihanBester en Nina Dixon, (2022 se dirigente) en JG Wegner, Eben Olivier, Francé Esterhuyse en Mia Groenewald (dromspelers) het hierdie jaar, ten spyte van onlangse uitdagings, nie afgeskeep nie en by elke aandoefening, hetsy ’n vol saal of net 30 leerders, áltyd geglimlag en voluit gegaan!
 
 Ek het agter die skerms gaan loer en met 2022 se dirigente, sowel as sommige aspirant-dirigente, onderhoude gevoer om ’n breër insig te kry oor wat dit behels om ’n DF-dirigent te wees.
 
@@ -47,7 +47,7 @@ Nicola: _Ek wil graag hê dat die matrieks van 2022 as die groep wat gees in DF 
 
 VJ: _In die verlede was ek nooit die een wat vrywillig op die verhoog sou klim nie..._
 
-(Diegene wat nie in ‘n moeras van onkunde leef nie - Visserania sal verstaan - sal weet dat baie intussen verander het. VJ is die een wat deesdae vrywillig op die verhoog verskyn om sy menigde drama toekennings te onvang.)
+(Diegene wat nie in ’n moeras van onkunde leef nie - Visserania sal verstaan - sal weet dat baie intussen verander het. VJ is die een wat deesdae vrywillig op die verhoog verskyn om sy menigde drama toekennings te onvang.)
 
 _Ek wil graag onthou word as die outjie wat hard gewerk het om te wees waar ek vandag is, want dit is beslis nie op ’n silwer skinkbordjie aan my oorhandig nie._
 

@@ -10,7 +10,7 @@ Wie is jy? Hoe stel jy jouself aan mense voor?
 
 Elke mens is uniek. Dit weet ons almal. Daar is soveel fasette van ons menswees. Kom leer meer oor ons mense en ontdek net hoe divers ons almal is en wat ’n mens maak.
 
-Een van die eerste dinge wat ‘n mens oplet is haar- en oogkleur. Die natuurlike haarkleur wat die meeste voorkom, is swart of donkerbruin (75-84%). Volgende is ligbruin (11%), blond (3%) en rooi (2%). My en iemand anders se haarkleur is dalk altwee blond, maar dit bly wonderlik dat geen blonde hare presies dieselfde lyk nie.
+Een van die eerste dinge wat ’n mens oplet is haar- en oogkleur. Die natuurlike haarkleur wat die meeste voorkom, is swart of donkerbruin (75-84%). Volgende is ligbruin (11%), blond (3%) en rooi (2%). My en iemand anders se haarkleur is dalk altwee blond, maar dit bly wonderlik dat geen blonde hare presies dieselfde lyk nie.
 
 Byna 16 verskillende gene speel ’n rol as dit kom by die samestelling van jou oogkleur. Omtrent 75% van mense het die dominanste kleur oë, bruin. Hierdie 75% het ’n kleiner kans om oogverwante siektes op te doen. Daarna volg blou oë (omtrent 10%). Blou oë is ook baie meer ligsensitief, omdat dit ’n ligte kleur is. Daar is selfs - in baie skaars gevalle - mense met twee verskillende kleure oë en duisende met ’n mengsel van al die kleure. (Dis meer skaars om mense te kry met een suiwer kleur oë.)
 

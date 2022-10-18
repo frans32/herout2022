@@ -1,12 +1,12 @@
 ---
-date_published: 2022-08-28
+date_published: "2022-08-28"
 title: Oorbruggingsjare en hoekom dit aanbeveel word
 subtitle: "’n “<i>Gap</i>-jaar” kan ’n goeie idee wees"
 author: Andrea van Wyk
 image_credit: DALL·E 2 (OpenAI)
 image: "/images/dall-e-2022-08-29-11-55-26-painting-of-a-bridge-over-a-river-in-a-forest-08-2022.jpg"
-
 ---
+
 Steve Jobs, Elon Musk, J. K. Rowling en Mayim Bialik…
 
 Wat het al hierdie name in gemeen? Wel, behalwe vir die feit dat hulle almal uitstekende en uiters suksesvolle rolle in die wêreld speel, het hulle ook iets anders in gemeen. Iets wat sommige mense as sinneloos sal beskou.

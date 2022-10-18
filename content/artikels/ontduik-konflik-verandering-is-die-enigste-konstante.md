@@ -20,7 +20,7 @@ Nou, as verandering dan so ʼn konstante is, wat kan ons doen om verandering mak
 
 Dit beteken nie noodwendig iemand is moeilik of onbuigsaam nie. Daar is verskeie normale fases waardeur mense gaan wanneer hulle met verandering te doen kry.
 
-ʼn Mens gaan deur hierdie fases as ‘n mens met verandering te doen kry en dit is heeltemal normaal.
+ʼn Mens gaan deur hierdie fases as ’n mens met verandering te doen kry en dit is heeltemal normaal.
 
 Onthou dat mense verskillende persoonlikhede het en daarom verskillend op verandering reageer. Party mense hou van nuwe dinge en verandering is vir hul opwindend, terwyl ander van struktuur en voorspelbaarheid hou. Gee daarom vir mense spasie en moenie dieselfde reaksie van almal verwag nie.
 

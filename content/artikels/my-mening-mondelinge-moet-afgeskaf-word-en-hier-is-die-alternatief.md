@@ -22,4 +22,4 @@ Die voordeel van hierdie verkorte voorbereiding is dat dit moontlik jou stresvla
 
 Behalwe vir die akademiese voordele en lewenslange vaardighede wat jy kan aanleer, is debat ook eenvoudig net meer pret as ’n mondeling.
 
-Ja, ’n debat is steeds ‘n vorm van ’n toespraak wat jy voor jou klasmaats moet lewer, maar wie hou nie daarvan om met ander mense te stry nie?
+Ja, ’n debat is steeds ’n vorm van ’n toespraak wat jy voor jou klasmaats moet lewer, maar wie hou nie daarvan om met ander mense te stry nie?

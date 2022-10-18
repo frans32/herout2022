@@ -34,7 +34,7 @@ _Ek het mode-ontwerp by_ FEDISA _in die Kaap geswot. Vir my eerste jaar in die �
 
 _My persoonlike styl is vir my tussen_ funky _en deftig-elegant. Dis definitief ’n baie, baie groot verskeidenheid, maar ek dink nie ’n mens kan dit beter beskryf nie._
 
-_Ek is mal daroor om mooi aan te trek. Op die oomblik is my klerekas-noodsaaklikhede ’n gerieflike lang sonrokkie wat ‘n mens maklik kan aangooi en met goue juweliersware kan_ style. _Of vir uitgaan sal ek ’n lang, swart denim met my wit platformtekkies, goue juweliersware en ’n roomkleurige hempie by my wit-en-swart hondstootbaadjie_ _dra_.
+_Ek is mal daroor om mooi aan te trek. Op die oomblik is my klerekas-noodsaaklikhede ’n gerieflike lang sonrokkie wat ’n mens maklik kan aangooi en met goue juweliersware kan_ style. _Of vir uitgaan sal ek ’n lang, swart denim met my wit platformtekkies, goue juweliersware en ’n roomkleurige hempie by my wit-en-swart hondstootbaadjie_ _dra_.
 
 **Jy sing _Survivor South Africa_ se nuwe temalied. Hoe het jy dit ervaar om vir die televisieprogram te sing en watter proses volg jy en Loki wanneer julle saamwerk?**
 

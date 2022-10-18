@@ -22,7 +22,7 @@ Mense is geneig om cliché’s vir verstroosting te gebruik, soos: “Dinge sal 
 
 ’n Mens hoor dikwels dat ander mense swaarder kry as jy, maar jy moet nooit iemand laat voel asof dít wat sy lewe ontwrig, nie ook belangrik is nie.
 
-Mense wat die gesprek oorneem en sê: “Dit het met my ook gebeur en ek het só gevoel en só opgetree en ek moet dít en dát ook nog hanteer…” laat ‘n mens onbelangrik voel en asof daar nie regtig geluister word na jou eie gevoelens nie.
+Mense wat die gesprek oorneem en sê: “Dit het met my ook gebeur en ek het só gevoel en só opgetree en ek moet dít en dát ook nog hanteer…” laat ’n mens onbelangrik voel en asof daar nie regtig geluister word na jou eie gevoelens nie.
 
 Partykeer is stilte al wat iemand nodig het. Iemand wat sê: “Ek gaan nie eens vra wat fout is nie, maar kom gee my ’n drukkie, ek kan sien jy kry swaar,” is soms al aksie wat ’n enkele mens nodig het om te bly vasklou.
 

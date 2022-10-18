@@ -11,7 +11,7 @@ Almal wil so nou en dan ’n breek van hulle besige skedules vat. Hier is ’n l
 
 ### 1. Ysskaats
 
-Trek jou gehuurde skaatse aan en geniet die koue teen slegs R65 per persoon. Nooi ‘n ekstra 9 mense en julle betaal dan slegs R55 per persoon. Op Saterdae is die ysskaatsbaan oop vanaf 9:00 tot 24:00.
+Trek jou gehuurde skaatse aan en geniet die koue teen slegs R65 per persoon. Nooi ’n ekstra 9 mense en julle betaal dan slegs R55 per persoon. Op Saterdae is die ysskaatsbaan oop vanaf 9:00 tot 24:00.
 
 Adres: _Grandwest Casino_
 
@@ -29,7 +29,7 @@ Adres: Cleveland Straat, Boston, Bellville
 
 ### 4. _Holland Bakery_
 
-<a href="https://hollandbakery.co.za" target="_blank" rel="noreferrer">Dié bakkery</a> verkoop alles van soet tot sout - en selfs ’n paar eg-Hollandse leefstylprodukte. Die pryse van hulle produkte is billik en wissel tussen R45 en R100. Hulle is van Maandae tot Vrydae tussen 9:00 en 16:00 oop. Onthou om ‘n afspraak te maak as jy van plan is om hulle tydens die week te besoek.
+<a href="https://hollandbakery.co.za" target="_blank" rel="noreferrer">Dié bakkery</a> verkoop alles van soet tot sout - en selfs ’n paar eg-Hollandse leefstylprodukte. Die pryse van hulle produkte is billik en wissel tussen R45 en R100. Hulle is van Maandae tot Vrydae tussen 9:00 en 16:00 oop. Onthou om ’n afspraak te maak as jy van plan is om hulle tydens die week te besoek.
 
 Adres: Ou _Old Mutual_-gebou, Durbanweg, Bellville
 

@@ -1,11 +1,11 @@
 ---
 title: Mites van die mees vreesaanjaende DF-onnie ontbloot?
-subtitle: ''
+subtitle: ""
 author: Erica Chen
 image_credit: Verskaf deur die Hoërskool DF Malan
 image: "/images/visser.jpg"
-
 ---
+
 Meneer Gert Visser is een van die onderwysers wat die langste by DF skool betrokke is. In ’n eksklusiewe _Herout_-onderhoud, leer ek dat hy eintlik baie vriendelik is wanneer jy met hom gesels. Al glimlag hy nie veel nie en gebruik woorde wat amper nie meer in woordeboeke bestaan nie, is daar nie te veel redes om hom te vrees nie.
 
 **Goeiemiddag, Meneer. Geniet Meneer die vakansie sover?**
@@ -22,13 +22,13 @@ _Daarna is ek vinnig Engeland toe, omdat vriende van my in Wessex probleme opget
 
 _Ek het die afgelope tyd ’n tapisserie van ’n Van Gogh-skildery voltooi en vir ’n ouetehuis gegee. Hulle het onmiddellik aangedring dat ek nog een moet maak en nou is ek besig met_ Die laaste Avondmaal _van Leonardo da Vinci._
 
-_Ek beskou myself as ‘n vetplantkenner en ek het verskillende nuwe spesies vir my tuin aangekoop (maar ek ontken ten sterkste dat ek van hulle uit die buurt se tuine gesteel het!)._
+_Ek beskou myself as ’n vetplantkenner en ek het verskillende nuwe spesies vir my tuin aangekoop (maar ek ontken ten sterkste dat ek van hulle uit die buurt se tuine gesteel het!)._
 
 _Verder het ek gewone dinge gedoen: gestap, gimnasium toe gegaan, gekla oor die harde musiek daar, baie met gewigte geoefen en veral gekyk hoe vet mense probeer maer word!_
 
-_Laastens is daar die orrel op Sondae, Kersdag en Nuwejaar. Ek het ook vir ’n paar begrafnisse orrel gespeel: die een se dood is die ander se brood. En ek is ‘n professionele broodeter._
+_Laastens is daar die orrel op Sondae, Kersdag en Nuwejaar. Ek het ook vir ’n paar begrafnisse orrel gespeel: die een se dood is die ander se brood. En ek is ’n professionele broodeter._
 
-**Wat is die moeras van onkunde en hoe kan ‘n mens daaruit ontsnap?**
+**Wat is die moeras van onkunde en hoe kan ’n mens daaruit ontsnap?**
 
 _Niemand kan hulle posisie in die moeras van onkunde wegsteek nie. Jy word verklap deur jou taalvermoë._
 
@@ -38,13 +38,13 @@ _Die intelligensia van die aarde kan spel. Hulle praat hul taal - Engels, Afrika
 
 _Ek lees_ Maestro _van Hester Heese. Dit gaan oor die argitek, beeldhouer, kunstenaar Gianlorenze Bernini – nee, dis nie die drankie nie: moeras van onkunde! Dit het my gedwing om weer boeke oor Michelangelo en Da Vinci te lees._ The last Leonardo _van Ben Lewis is een van die bestes. Ek het my hand aan Martin Steyn se_ Losprys _gewaag. Ek het deurgedruk, maar moes op my tande kners._
 
-_Omdat daar die afgelope tyd van Josephine Buonaparte se juwele verkoop is, het ek gou ‘n biografie van haar gelees - en heelwat van Napoleon se briewe aan haar gesien. Toe lees ek verder aan_ Famous Love Letters, _saamgestel deur Ronald Tamplin. Dit het my laat gryp na_ The Cardinals Man, _wat weer afspeel in Frankryk tydens Richelieu se leeftyd._
+_Omdat daar die afgelope tyd van Josephine Buonaparte se juwele verkoop is, het ek gou ’n biografie van haar gelees - en heelwat van Napoleon se briewe aan haar gesien. Toe lees ek verder aan_ Famous Love Letters, _saamgestel deur Ronald Tamplin. Dit het my laat gryp na_ The Cardinals Man, _wat weer afspeel in Frankryk tydens Richelieu se leeftyd._
 
 **Is daar ’n skrywer wie se werk Meneer meer verkies om te lees? Hoekom sê Meneer so?**
 
 _André P Brink is na my mening die beste. Ek het veral gehou van_ Houd-den-bek. _Hy het die taal onder die knie en kan enige leser meesleur met sy meesterlike woordgebruik, inuendo’s en openbaringe oor die ware werklikheid. Die meeste van sy boeke is eers verban!_
 
-**Wie is Meneer se gunsteling-digter en kan Meneer ‘n voorbeeld gee van ’n gedig wat hy/sy geskryf het?**
+**Wie is Meneer se gunsteling-digter en kan Meneer ’n voorbeeld gee van ’n gedig wat hy/sy geskryf het?**
 
 _Die bestes is NP van Wyk Louw (dink maar aan_ Raka) _en Opperman_ (Periandros van Korinthe). _Maar Lina Spies is my gunsteling. Gaan lees maar: Ek was die gans goddelike dag alleen / contradictio in terminus / want God was nie teenwoordig nie._
 
@@ -60,7 +60,7 @@ _Ek luister hoofsaaklik opera._
 
 _Ek moes hoofseun wees, maar ek het net een stem gekry! My eie._
 
-_Ek was ook in ‘n weeshuisskool, maar net diegene wat by my klas het, weet van daardie stories!_
+_Ek was ook in ’n weeshuisskool, maar net diegene wat by my klas het, weet van daardie stories!_
 
 **Wat het Meneer laat besluit om ’n onderwyser by DF te word?**
 
