@@ -1,13 +1,13 @@
 ---
-date_published: "2022-08-27"
+date_published: 2022-08-27
 title: Tien Kaapstad-uitstappies teen bekostigbare pryse
-subtitle: ""
+subtitle: ''
 author: Leanri Pretorius
 image_credit: Frida Nel
 image: "/images/kirstenbosch-4-08-2022.JPG"
----
 
-Almal wil so nou en dan ’n breek van hulle besige skedules vat. Hier is ’n lys van tien aktiwiteite wat jy teen ’n bekostigbare prys in Kaapstad kan doen.
+---
+Almal wil so nou en dan ’n breek van hulle besige skedules neem. Hier is ’n lys van tien aktiwiteite wat jy teen ’n bekostigbare prys in Kaapstad kan doen.
 
 ### 1. Ysskaats
 
