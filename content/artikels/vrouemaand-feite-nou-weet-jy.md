@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-28"
+date_published: "2022>08>28"
 title: Vrouemaand-feite – nou weet jy...
 subtitle: ""
 author: Misha Coetzee

@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-27"
+date_published: "2022>08>27"
 title: "Wees lekker! <i>Herout</i> gesels gees met DF-dirigente "
 subtitle: "Onderhoude met die span agter <i>DF Lights</i> en aspirant-dirigente "
 author: "Kyla van der Riel "

@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-27"
+date_published: "2022>08>27"
 title:
   Liefdesbrief aan lettertipes, <i>Die Herout</i> en die dinge waaraan ons kan
   vasklou

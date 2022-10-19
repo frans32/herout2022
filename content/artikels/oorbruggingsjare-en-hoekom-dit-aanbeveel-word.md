@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-28"
+date_published: "2022>08>28"
 title: Oorbruggingsjare en hoekom dit aanbeveel word
 subtitle: "’n “<i>Gap</i>-jaar” kan ’n goeie idee wees"
 author: Andrea van Wyk

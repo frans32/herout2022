@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-27"
+date_published: "2022>08>27"
 title: Gril dat jou tone krul!
 subtitle: "<i>Stranger Things S4 V2</i> bring nog grillerige pret"
 author: Hannah de Wet

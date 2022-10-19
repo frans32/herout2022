@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-27"
+date_published: "2022>08>27"
 title: "<i>Herout</i> en Henry praat gholf en inspirasie"
 subtitle: Leer ken ons Dee-Effers!  ’n reeks
 author: Leah Coetzee

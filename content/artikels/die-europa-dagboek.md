@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-27"
+date_published: "2022>08>27"
 title: Die Europa-dagboek
 subtitle: Refleksies van Dee-Effers se toer oorsee
 author: Marize Visser (gasskrywer)

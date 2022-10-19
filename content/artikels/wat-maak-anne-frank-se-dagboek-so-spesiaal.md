@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-27"
+date_published: "2022>08>27"
 title: Wat maak Anne Frank se dagboek so spesiaal?
 subtitle: ""
 author: "Nienke de Vaal "

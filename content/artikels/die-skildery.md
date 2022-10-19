@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-28"
+date_published: "2022>08>28"
 title: "Die skildery: ’n kortverhaal"
 subtitle: ""
 author: Elmie van Wyngaard

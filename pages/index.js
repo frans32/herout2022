@@ -26,9 +26,7 @@ export const getStaticProps = async () => {
     );
     const { data: frontMatter } = matter(markdownWithMeta);
 
-    if (frontMatter.date_published) {
-      frontMatter.date_published = JSON.stringify(frontMatter.date_published);
-    }
+    if (frontMatter.date_published) delete frontMatter.date_published;
 
     return {
       slug: filename.slice(0, filename.length - 3),
@@ -110,7 +108,7 @@ export default function Home({
         <Head>
           <title>Die Herout</title>
           <link rel="canonical" href="https://herout.co.za" />
-     
+
           <meta name="theme-color" content="#222" />
 
           <meta property="og:title" content="Die Herout" />

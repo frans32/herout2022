@@ -36,7 +36,10 @@ export const getStaticProps = async ({ params }) => {
 
   if (matter.date_published) {
     try {
-      matter.publishedISO = new Date(matter.date_published).toISOString();
+      matter.publishedISO = new Date(
+        matter.date_published.replace(/(>)/),
+        "-"
+      ).toISOString();
     } catch {}
   }
 
@@ -92,7 +95,14 @@ export default function Post({ matter, source, slug, leesVerder }) {
             <></>
           )}
           <small itemProp="author">{matter.author}</small>
-          <meta itemProp="datePublished" content={matter.publishedISO ? matter.publishedISO.replace("T00:00:00.000Z", "") : "2022-01-18"} />
+          <meta
+            itemProp="datePublished"
+            content={
+              matter.publishedISO
+                ? matter.publishedISO.replace("T00:00:00.000Z", "")
+                : "2022-01-18"
+            }
+          />
         </section>
         <section>
           <div className={styles.main_image}>
@@ -149,7 +159,7 @@ export default function Post({ matter, source, slug, leesVerder }) {
         <link rel="canonical" href={"https://herout.co.za/artikel/" + slug} />
 
         <meta name="theme-color" content="#efefef" />
-          
+
         <meta property="og:title" content={strippedTitle} />
         <meta property="og:type" content="article" />
         <meta property="og:article:author" content={matter.author} />

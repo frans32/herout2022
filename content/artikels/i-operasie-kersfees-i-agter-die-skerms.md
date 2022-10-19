@@ -1,5 +1,5 @@
 ---
-date_published: "2022-08-27"
+date_published: "2022>08>27"
 title: "<i>Operasie Kersfees</i> agter die skerms"
 subtitle: Geselsie met meneer Van Der Westhuizen oor tienertoneel
 author: Anika Burger
