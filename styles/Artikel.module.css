@@ -61,6 +61,9 @@ main.content p:first-child {
   margin-top: 0;
 }
 
+main.content img {
+  max-width: 100%;
+}
 .content h3 {
   font-family: -apple-system, "Outfit", BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
