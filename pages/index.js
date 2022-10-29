@@ -107,7 +107,7 @@ export default function Home({
 
         <Head>
           <title>Die Herout</title>
-          <link rel="canonical" href="https://herout.co.za" />
+          <link rel="canonical" href="https://augustus2022.herout.co.za" />
 
           <meta name="theme-color" content="#222" />
 
@@ -122,18 +122,21 @@ export default function Home({
             content="Die amptelike skoolkoerant van die Hoërskool DF Malan"
           />
 
-          <meta property="og:url" content="https://herout.co.za/" />
+          <meta
+            property="og:url"
+            content="https://augustus2022.herout.co.za/"
+          />
 
           <meta
             property="og:image"
-            content="https://herout.co.za/favicon/opengraph.jpg"
+            content="https://augustus2022.herout.co.za/favicon/opengraph.jpg"
           />
 
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:title" content="Die Herout" />
           <meta
             name="twitter:image"
-            content="https://herout.co.za/favicon/opengraph.jpg"
+            content="https://augustus2022.herout.co.za/favicon/opengraph.jpg"
           />
 
           <script
@@ -143,8 +146,8 @@ export default function Home({
                 "@context": "https://schema.org",
                 "@type": "Organization",
                 name: "Die Herout",
-                url: "https://herout.co.za",
-                logo: "https://herout.co.za/favicon/logo256.png",
+                url: "https://augustus2022.herout.co.za",
+                logo: "https://augustus2022.herout.co.za/favicon/logo256.png",
               }),
             }}
           />

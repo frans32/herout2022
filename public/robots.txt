@@ -8,4 +8,4 @@ Disallow: /*.js$
 Disallow: /_next/data/
 Disallow: /_next/image
 
-Sitemap: https://herout.co.za/sitemap.xml
+Sitemap: https://augustus2022.herout.co.za/sitemap.xml

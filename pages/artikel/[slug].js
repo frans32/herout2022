@@ -109,7 +109,10 @@ export default function Post({ matter, source, slug, leesVerder }) {
             <div style={{ background: "#efefef" }}>
               <meta
                 itemProp="thumbnailUrl"
-                content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
+                content={
+                  "https://augustus2022.herout.co.za/ogimg" +
+                  encodeURI(matter.image)
+                }
               />
               <Image
                 itemProp="image"
@@ -156,7 +159,10 @@ export default function Post({ matter, source, slug, leesVerder }) {
 
       <Head>
         <title>{strippedTitle + " - Die Herout 2022"}</title>
-        <link rel="canonical" href={"https://herout.co.za/artikel/" + slug} />
+        <link
+          rel="canonical"
+          href={"https://augustus2022.herout.co.za/artikel/" + slug}
+        />
 
         <meta name="theme-color" content="#efefef" />
 
@@ -166,11 +172,13 @@ export default function Post({ matter, source, slug, leesVerder }) {
 
         <meta
           property="og:image"
-          content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
+          content={
+            "https://augustus2022.herout.co.za/ogimg" + encodeURI(matter.image)
+          }
         />
         <meta
           property="og:url"
-          content={"https://herout.co.za/artikel/" + slug}
+          content={"https://augustus2022.herout.co.za/artikel/" + slug}
         />
         <meta property="og:description" content={"deur " + matter.author} />
 
@@ -178,7 +186,9 @@ export default function Post({ matter, source, slug, leesVerder }) {
         <meta name="twitter:title" content={strippedTitle} />
         <meta
           name="twitter:image"
-          content={"https://herout.co.za/ogimg" + encodeURI(matter.image)}
+          content={
+            "https://augustus2022.herout.co.za/ogimg" + encodeURI(matter.image)
+          }
         />
       </Head>
     </>
